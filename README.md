@@ -27,7 +27,7 @@ change them to look like the following
  7. EnableComplexTerrainParallax=true
  8. EnableComplexTerrainParallaxShadows=true
 
-Pre-generated LODs are not included, both for performance reasons, and because we fully expect, and encourage you to add to this list. If you wish to generate your own LODs, make sure you disable everything in the [Flat World Map Framework] seperator before you do. After youre done generating, you can re-enable FWMF, but make sure you keep everything from FWMF *below* DynDOLOD and Occlusions in the load order. Your load order should look like this
+Pre-generated LODs are not included, both for performance reasons, and because we fully expect, and encourage you to add to this list. If you wish to generate your own LODs, make sure you disable everything in the [Flat World Map Framework] seperator before you do. After you're done generating, you can re-enable FWMF, but make sure you keep everything from FWMF *below* DynDOLOD and Occlusions in the load order. Your load order should look like this:
 
 1. DynDOLOD
 2. Occlusions
