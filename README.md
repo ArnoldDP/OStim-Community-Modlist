@@ -7,25 +7,25 @@ This modlist should only require an installation of Skyrim SE through the Steam 
 The textures included are compatible with ENB Complex Parallax. While its not a huge performance hit, its still turned off by default in this list's pre-packaged ENB. To enable it, right click Rudy - Zandgar Edit (bottom of the [root] seperator) -> open in explorer -> root -> enbseries.ini
 Scroll down, just above [COLORCORRECTION] youll see the following lines
 
-EnableTerrainParallax=false
-EnableComplexGrass=true
-EnableComplexGrassCollisions=true
-EnableTerrainBlending=true
-EnableComplexParallax=false
-EnableComplexParallaxShadows=true
-EnableComplexTerrainParallax=false
-EnableComplexTerrainParallaxShadows=true
+  EnableTerrainParallax=false
+  EnableComplexGrass=true
+  EnableComplexGrassCollisions=true
+  EnableTerrainBlending=true
+  EnableComplexParallax=false
+  EnableComplexParallaxShadows=true
+  EnableComplexTerrainParallax=false
+  EnableComplexTerrainParallaxShadows=true
 
 change them to look like the following
 
-EnableTerrainParallax=false
-EnableComplexGrass=true
-EnableComplexGrassCollisions=true
-EnableTerrainBlending=true
-EnableComplexParallax=true
-EnableComplexParallaxShadows=true
-EnableComplexTerrainParallax=true
-EnableComplexTerrainParallaxShadows=true
+  EnableTerrainParallax=false
+  EnableComplexGrass=true
+  EnableComplexGrassCollisions=true
+  EnableTerrainBlending=true
+  EnableComplexParallax=true
+  EnableComplexParallaxShadows=true
+  EnableComplexTerrainParallax=true
+  EnableComplexTerrainParallaxShadows=true
 
 Pre-generated LODs are not included, both for performance reasons, and because we fully expect, and encourage you to add to this list. If you wish to generate your own LODs, make sure you disable everything in the [Flat World Map Framework] seperator before you do. After youre done generating, you can re-enable FWMF, but make sure you keep everything there *below* DynDOLOD and Occlusions in the load order. Your load order should look like this
 
