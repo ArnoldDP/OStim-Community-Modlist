@@ -43,7 +43,7 @@ If you do decide to change weather and enb, make sure you disable [Rudy - Zandga
 2. All Skyrim Maps + DLCs + Worldspace Mods
 3. FWMF for Fantasy Paper Maps
 4. Weather overhauls requiring a patch + Yes on Water for ENB
-5. And Yes to ELVAS fix (beta)
+5. Yes to ELVAS fix (beta)
 
 Your load order needs to be adjusted to 
 
