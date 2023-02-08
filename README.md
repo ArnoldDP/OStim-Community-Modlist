@@ -43,8 +43,8 @@ If you do decide to change weather and enb, make sure you disable [Rudy - Zandga
 
 Your load order needs to be adjusted to 
 
-DynDOLOD (If you did generate your own LODS)
-Occlusions (If you did generate your own LODS)
-FWMF for Fantasy Paper Maps
-FWMF Weather Patch
-Additional FWMF maps
+1. DynDOLOD (If you did generate your own LODS)
+2. Occlusions (If you did generate your own LODS)
+3. FWMF for Fantasy Paper Maps
+4. FWMF Weather Patch
+5. Additional FWMF maps
