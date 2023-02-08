@@ -27,12 +27,16 @@ change them to look like the following
  7. EnableComplexTerrainParallax=true
  8. EnableComplexTerrainParallaxShadows=true
 
-Pre-generated LODs are not included, both for performance reasons, and because we fully expect, and encourage you to add to this list. If you wish to generate your own LODs, make sure you disable everything in the [Flat World Map Framework] seperator before you do. After youre done generating, you can re-enable FWMF, but make sure you keep everything there *below* DynDOLOD and Occlusions in the load order. Your load order should look like this
+Pre-generated LODs are not included, both for performance reasons, and because we fully expect, and encourage you to add to this list. If you wish to generate your own LODs, make sure you disable everything in the [Flat World Map Framework] seperator before you do. After youre done generating, you can re-enable FWMF, but make sure you keep everything from FWMF *below* DynDOLOD and Occlusions in the load order. Your load order should look like this
 
 1. DynDOLOD
 2. Occlusions
 3. FWMF for Fantasy Paper Maps
 4. Additional FWMF Maps
+
+If you need a guide on LOD generation, you can follow this one https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/DynDOLOD%203.0%20and%20Grass%20Cache.md
+
+NOTE: At the time of writing this, I cannot confirm whether or not DynDOLOD Alpha will work with the latest AMD Graphics Drivers. If you get an OpenGL error, your options are to either downgrade to DynDOLOD version 2.98, or to an earlier version of AMD's drivers.
 
 If you do decide to change weather and enb, make sure you disable [Rudy - Zandgar Edit] and [Rudy ENB Cathedral Weathers ADDONS and REQUiRED Files] in the mod organizer. You can either install your prefered ENB through the mod organizer (recommended), or by going to the Skyrim Special Edition 1.6.353 directory in the MO2 Portable Profile. If you want to use NAT, Azurite, Vivid Weathers, or Aequinoctium, you need to re-install [Flat World Map Framework] and select
 1. Flat Map Markers AE (1.6.353)
