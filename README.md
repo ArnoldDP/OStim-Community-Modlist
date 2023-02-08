@@ -48,3 +48,5 @@ Your load order needs to be adjusted to
 3. FWMF for Fantasy Paper Maps
 4. FWMF Weather Patch
 5. Additional FWMF maps
+
+If you want to use Reshade, Sswaye has written an excellent guide on it. You can find that here at the bottom of the page https://www.nexusmods.com/skyrimspecialedition/mods/67966
