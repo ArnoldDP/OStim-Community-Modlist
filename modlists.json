@@ -19,8 +19,8 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
-      "readme": "<link to your readme for your modlist>",
+      "image": "https://imgur.com/a/yIskcvv",
+      "readme": "https://github.com/ArnoldDP/Vaguely-Sexual-Skyrim/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "v1_0_0",
       "discordURL": "<your discord link here>"
