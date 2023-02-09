@@ -1,8 +1,8 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Vaguely Sexual Skyrim",
-    "description": "A generic streamer modlist, but with a little more than just the chance of a nip slip. We're all adults here.",
+    "title": "Unofficial OStim Community Modlist",
+    "description": "A streamer-esque vanilla+ modlist, but with a little more than just the chance of a nip slip. Were all adults here.",
     "author": "<BiddinWar & Arnold>",
     "maintainers": [
       "github/ArnoldDP"
@@ -10,9 +10,11 @@
     "game": "skyrimspecialedition",
     "tags": [
       "OStim",
-      "Vanilla+",
+      "Vanilla",
       "Atmospheric",
       "Sexualized Content",
+      "bhunp",
+      "himbo"
     ],
     "nsfw": true,
     "image_contains_title": true,
@@ -22,17 +24,17 @@
       "image": "https://imgur.com/a/yIskcvv",
       "readme": "https://github.com/ArnoldDP/Vaguely-Sexual-Skyrim/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
-      "machineURL": "v1_0_0",
-      "discordURL": "<your discord link here>"
+      "machineURL": "ostimwabbajack",
+      "discordURL": "https://discord.gg/ostim"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "iNKec6Bw0jk=",
+      "Size": 409882428,
+      "NumberOfArchives": 799,
+      "SizeOfArchives": 92637377598,
+      "NumberOfInstalledFiles": 85343,
+      "SizeOfInstalledFiles": 148255875938
     },
     "version": "1.0"
   }
