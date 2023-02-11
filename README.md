@@ -68,3 +68,5 @@ Now just click ok, and then ignore when it warns you that the mod is probably no
 For ENBs that require an evlas config, such as NAT or Skies Above, you can install the evlas config directly into the Skyrim, or install it as a seperate mod.
 
 If you want to use Reshade, Sswaye has written an excellent guide on it. You can find that here at the bottom of the page https://www.nexusmods.com/skyrimspecialedition/mods/67966
+
+Join the discord! https://discord.gg/ostim
