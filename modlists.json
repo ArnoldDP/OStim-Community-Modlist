@@ -17,7 +17,7 @@
       "himbo"
     ],
     "nsfw": true,
-    "image_contains_title": true,
+    "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
