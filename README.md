@@ -26,6 +26,8 @@ change them to look like the following
  6. EnableComplexParallaxShadows=true
  7. EnableComplexTerrainParallax=true
  8. EnableComplexTerrainParallaxShadows=true
+ 
+ If any of these lines are missing from the enbseries.ini, you can simply copy and paste the missing lines into the file. It will work just fine.
 
 Pre-generated LODs are not included, both for performance reasons, and because we fully expect, and encourage you to add to this list. If you wish to generate your own LODs, make sure you disable everything in the [Flat World Map Framework] seperator before you do. After you're done generating, you can re-enable FWMF, but make sure you keep everything from FWMF *below* DynDOLOD and Occlusions in the load order. Your load order should look like this:
 
@@ -38,7 +40,12 @@ If you need a guide on LOD generation, you can follow this one https://github.co
 
 NOTE: At the time of writing this, I cannot confirm whether or not DynDOLOD Alpha will work with the latest AMD Graphics Drivers. If you get an OpenGL error, your options are to either downgrade to DynDOLOD version 2.98, or to an earlier version of AMD's drivers.
 
-If you do decide to change weather and enb, make sure you disable [Rudy - Zandgar Edit] and [Rudy ENB Cathedral Weathers ADDONS and REQUiRED Files] in the mod organizer. You can either install your prefered ENB through the mod organizer (recommended), or by going to the Skyrim Special Edition 1.6.353 directory in the MO2 Portable Profile. If you want to use NAT, Azurite, Vivid Weathers, or Aequinoctium, you need to re-install [Flat World Map Framework] and select
+If you do decide to change weather and enb, make sure you disable [Rudy - Zandgar Edit] and [Rudy ENB Cathedral Weathers ADDONS and REQUiRED Files] in the mod organizer, then double check the Skyrim directory and [overwrite] to make sure that none of the enb files are still hanging around. Since this wabbajack uses the stock game method, the Skyrim directory is going to be in the same folder that you installed this list to. If you have trouble finding it, you can simply click the folder icon in the top right of MO2, and select open game folder
+
+![image](https://user-images.githubusercontent.com/122011472/218272132-feec8b12-a456-43a8-be7b-7a4d495b3b1f.png)
+
+You can either install your prefered ENB through the mod organizer (recommended), or by going to the Skyrim Special Edition 1.6.353 directory in the MO2 Portable Profile. If you want to use NAT, Azurite, Vivid Weathers, or Aequinoctium, you need to re-install [Flat World Map Framework] and select
+
 1. Flat Map Markers AE (1.6.353)
 2. All Skyrim Maps + DLCs + Worldspace Mods
 3. FWMF for Fantasy Paper Maps
@@ -52,5 +59,12 @@ Your load order needs to be adjusted to
 3. FWMF for Fantasy Paper Maps
 4. FWMF Weather Patch
 5. Additional FWMF maps
+
+To install an ENB through MO2 using Root Builder, do a manual install. When it asks you to select a data folder, right click and create a [Root] folder under <data>, then drag and drop enbseries, enbseries.ini, and enblocal.ini into the root folder that you just created. When done properly, it should look like this
+
+![image](https://user-images.githubusercontent.com/122011472/218272401-8c469a5b-b246-4b13-929e-8e06fc7710d0.png)
+
+Now just click ok, and then ignore when it warns you that the mod is probably not set up correctly.
+For ENBs that require an evlas config, such as NAT or Skies Above, you can install the evlas config directly into the Skyrim, or install it as a seperate mod.
 
 If you want to use Reshade, Sswaye has written an excellent guide on it. You can find that here at the bottom of the page https://www.nexusmods.com/skyrimspecialedition/mods/67966
