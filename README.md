@@ -1,10 +1,22 @@
 # Unofficial Ostim Community Modlist
 
+ [KNOWN ISSUES]
+ 
+ This list is not finished, there might be more bugs than whatever is listed below.
+ 
+ ENBSeries may fail to install throuhg wabbajack, this is probably my fault. Thankfully theres an easy workaround where you just have to manually download the ENB binaries and drop the .zip folder into the wabbajack download folder.
+ 
+ There is an infinite loading screen if you enter the dlc1dimhollowcrypt01 cell (the first dungeon during the Dawnguard questline) AFTER starting the Awakening questline. For now, you're going to have to open the console and type coc dlc1dimhollowcrypt02, this will not break anything but your immersion. If you find the solution (or more bugs), please add me on discord @Arnold#1526 or ping me in the ostim discord
+ 
+[ACTUAL README]
+
 This is a vaguely lightweight modlist made for mid range computers. Most textures are 1-2k, with only skin textures and a few misc items that you will rarely see being 4k. The lowest my FPS dropped was around 50 in Falkreath. My system specs are: Ryzen 5 5600g, RX6600 8gb, and 16gbs of ram @ 2900 mhz. The only hard requirement is a CPU that supports at least AVX2. If you are having trouble running the modlist and dont really care for the enb, you can disable it through the mod organizer. It can give you a huge fps boost. 
+
+While its not a neccessity, its encouraged to install this list on an SSD. It's a lot smoother.
 
 This modlist should only require an installation of Skyrim SE through the Steam store, without any modifications done to the files that come stock with the game. If you have done any modifications to the base game files, you can validate your game through the steam store by right clicking the game -> properties > local files -> > verify integrity of game files. Alternatively, you can completely uninstall the game and all related folders and files, and reinstall it through Steam. 
 
-The textures included are compatible with ENB Complex Parallax. While its not a huge performance hit, its still turned off by default in this list's pre-packaged ENB. To enable it, right click Rudy - Zandgar Edit (bottom of the [root] seperator) -> open in explorer -> root -> enbseries.ini
+Many of the included texture mods are compatible with ENB Complex Parallax. While its not a huge performance hit, its still turned off by default in this list's pre-packaged ENB. To enable it, right click Rudy - Zandgar Edit (bottom of the [root] seperator) -> open in explorer -> root -> enbseries.ini
 Scroll down, just above [COLORCORRECTION] youll see the following lines
 
  1. EnableTerrainParallax=false
@@ -70,11 +82,3 @@ For ENBs that require an evlas config, such as NAT or Skies Above, you can insta
 If you want to use Reshade, Sswaye has written an excellent guide on it. You can find that here at the bottom of the page https://www.nexusmods.com/skyrimspecialedition/mods/67966
 
 Join the discord! https://discord.gg/ostim
-
- [KNOWN ISSUES]
- 
- ENBSeries may fail to install throuhg wabbajack, this is probably my fault. Thankfully theres an easy workaround where you just have to manually download the ENB binaries and drop the .zip folder into the wabbajack download folder.
- 
- There is an infinite loading screen if you enter the dlc1dimhollowcrypt01 cell (the first dungeon during the Dawnguard questline). For now, you're going to have to open the console and type coc dlc1dimhollowcrypt02, this will not break anything but your immersion
- 
- While its not a neccessity, please install this list on an SSD. It's a lot smoother.
