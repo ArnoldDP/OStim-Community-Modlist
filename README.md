@@ -1,6 +1,6 @@
 # Unofficial Ostim Community Modlist
 
-This is a relatively lightweight modlist made for mid range computers. Most textures are 1-2k, with only skin textures and a few misc items that you will rarely see being 4k. The lowest my FPS dropped was around 50 in Falkreath. My system specs are: Ryzen 5 5600g, RX6600 8gb, and 16gbs of ram @ 2900 mhz. The only hard requirement is a CPU that supports at least AVX2. If you are having trouble running the modlist and dont really care for the enb, you can disable it through the mod organizer. It can give you a huge fps boost. 
+This is a vaguely lightweight modlist made for mid range computers. Most textures are 1-2k, with only skin textures and a few misc items that you will rarely see being 4k. The lowest my FPS dropped was around 50 in Falkreath. My system specs are: Ryzen 5 5600g, RX6600 8gb, and 16gbs of ram @ 2900 mhz. The only hard requirement is a CPU that supports at least AVX2. If you are having trouble running the modlist and dont really care for the enb, you can disable it through the mod organizer. It can give you a huge fps boost. 
 
 This modlist should only require an installation of Skyrim SE through the Steam store, without any modifications done to the files that come stock with the game. If you have done any modifications to the base game files, you can validate your game through the steam store by right clicking the game -> properties > local files -> > verify integrity of game files. Alternatively, you can completely uninstall the game and all related folders and files, and reinstall it through Steam. 
 
@@ -77,3 +77,5 @@ Join the discord! https://discord.gg/ostim
  ENBSeries may fail to install throuhg wabbajack, this is probably my fault. Thankfully theres an easy workaround where you just have to manually download the ENB binaries and drop the .zip folder into the wabbajack download folder.
  
  There is an infinite loading screen if you enter the dlc1dimhollowcrypt01 cell (the first dungeon during the Dawnguard questline). For now, you're going to have to open the console and type coc dlc1dimhollowcrypt02, this will not break anything but your immersion
+ 
+ While its not a neccessity, please install this list on an SSD. It's a lot smoother.
