@@ -36,10 +36,9 @@ Pre-generated LODs are not included, both for performance reasons, and because w
 3. FWMF for Fantasy Paper Maps
 4. Additional FWMF Maps
 
-If you need a guide on LOD generation, you can follow this one https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/DynDOLOD%203.0%20and%20Grass%20Cache.md
-Alternatively, you can also follow the STEP guide, or just read the funtastic manual!
+If you need a guide on LOD generation, you can follow this one https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/DynDOLOD%203.0%20and%20Grass%20Cache.md, you can also follow the STEP guide, or just Read the Funtastic Manual! There's a lot of guides on this.
 
-NOTE: At the time of writing this, I cannot confirm whether or not DynDOLOD Alpha will work with the latest AMD Graphics Drivers. If you get an OpenGL error, your options are to either downgrade to DynDOLOD version 2.98, or to an earlier version of AMD's drivers.
+NOTE FOR AMD USERS: If you are getting an OpenGL error while trying to run DynDOLOD 3.0, download and install the latest drivers from AMD's website, or downgrade to DynDOLOD 2.98
 
 If you do decide to change weather and enb, make sure you disable [Rudy - Zandgar Edit] and [Rudy ENB Cathedral Weathers ADDONS and REQUiRED Files] in the mod organizer, then double check the Skyrim directory and [overwrite] to make sure that none of the enb files are still hanging around. Since this wabbajack uses the stock game method, the Skyrim directory is going to be in the same folder that you installed this list to. If you have trouble finding it, you can simply click the folder icon in the top right of MO2, and select open game folder
 
