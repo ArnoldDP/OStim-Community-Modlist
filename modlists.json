@@ -1,8 +1,8 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Unofficial OStim Community Modlist",
-    "description": "A streamer-esque vanilla+ modlist, but with a little more than just the chance of a nip slip. Were all adults here.",
+    "title": "OModlist",
+    "description": "A streamer-esque vanilla+ modlist, but with a little more than just the chance of a nip slip. Were all adults here :^)",
     "author": "<BiddinWar & Arnold>",
     "maintainers": [
       "github/ArnoldDP"
