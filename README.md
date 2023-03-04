@@ -10,7 +10,7 @@
  
 [ACTUAL README]
 
-This is a vaguely lightweight modlist made for mid range computers. Most textures are 1-2k, with only skin textures and a few misc items that you will rarely see being 4k. The lowest my FPS dropped was around 50 in Falkreath. My system specs are: Ryzen 5 5600g, RX6600 8gb, and 16gbs of ram @ 2900 mhz. The only hard requirement is a CPU that supports at least AVX2. If you are having trouble running the modlist and dont really care for the enb, you can disable it through the mod organizer. It can give you a huge fps boost. 
+This is a vaguely lightweight modlist made for mid range computers. Most textures are 1k, with a few being 2k, and only skin textures and a few misc items that you will rarely see being 4k. The lowest my FPS dropped was around 50 in Falkreath. My system specs are: Ryzen 5 5600g, RX6600 8gb, and 16gbs of ram @ 2900 mhz. The only hard requirement is a CPU that supports at least AVX2. If you are having trouble running the modlist and dont really care for the enb, you can disable it through the mod organizer. It can give you a huge fps boost. 
 
 While its not a neccessity, its encouraged to install this list on an SSD. It's a lot smoother.
 
@@ -46,6 +46,7 @@ Pre-generated LODs are not included, both for performance reasons, and because w
 1. DynDOLOD
 2. Occlusions
 3. FWMF for Fantasy Paper Maps
+4. FWMF Patches (evlas, weathers, etc)
 4. Additional FWMF Maps
 
 If you need a guide on LOD generation, you can follow this one https://github.com/LivelyDismay/Learn-To-Mod/blob/main/lessons/DynDOLOD%203.0%20and%20Grass%20Cache.md, you can also follow the STEP guide, or just Read the Funtastic Manual! There's a lot of guides on this.
@@ -69,7 +70,7 @@ Your load order needs to be adjusted to
 1. DynDOLOD (If you did generate your own LODS)
 2. Occlusions (If you did generate your own LODS)
 3. FWMF for Fantasy Paper Maps
-4. FWMF Weather Patch
+4. FWMF Patches (evlas, weathers, etc)
 5. Additional FWMF maps
 
 To install an ENB through MO2 using Root Builder, do a manual install. When it asks you to select a data folder, right click and create a [Root] folder under <data>, then drag and drop enbseries, enbseries.ini, and enblocal.ini into the root folder that you just created. When done properly, it should look like this
