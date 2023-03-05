@@ -4,14 +4,19 @@
  
  This list is not finished, there might be more bugs than whatever is listed below.
  
- ENBSeries may fail to install throuhg wabbajack, this is probably my fault. Thankfully theres an easy workaround where you just have to manually download the ENB binaries and drop the .zip folder into the wabbajack download folder. After you do that, you need to create an empty text file with the exact same name as the enbseries zip file, and add a .meta extension to the end of it. ![image](https://user-images.githubusercontent.com/122011472/222934459-a70e81e6-259a-43a0-abf6-582e0e1a9a96.png)
+ ENBSeries may fail to install throuhg wabbajack, this is probably my fault. Thankfully theres an easy workaround where you just have to manually download the ENB binaries and drop the .zip folder into the wabbajack download folder. After you do that, you need to create an empty text file with the exact same name as the enbseries zip file, and add a .meta extension to the end of it.
 If done correctly, it should look like this
+
+![image](https://user-images.githubusercontent.com/122011472/222934459-a70e81e6-259a-43a0-abf6-582e0e1a9a96.png)
+
+I did not set up the automatic downgrade properly, so for the time being you will have to downgrade your game to 1.6.353 using this tool
+https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
- There is an infinite loading screen if you enter the dlc1dimhollowcrypt01 cell (the first dungeon during the Dawnguard questline) AFTER starting the Awakening questline. For now, you're going to have to open the console and type coc dlc1dimhollowcrypt02, this will not break anything but your immersion. If you find the solution (or more bugs), please add me on discord @Arnold#1526 or ping me in the ostim discord
+ There is an infinite loading screen if you enter the dlc1dimhollowcrypt01 cell (the first dungeon during the Dawnguard questline) ***AFTER*** starting the Awakening questline. For now, you're going to have to open the console and type coc dlc1dimhollowcrypt02, this will not break anything but your immersion. If you find the solution (or more bugs), please add me on discord @Arnold#1526 or ping me in the ostim discord
  
 [ACTUAL README]
 
-This is a vaguely lightweight modlist made for mid range computers. Most textures are 1k, with a few being 2k, and only skin textures and a few misc items that you will rarely see being 4k. The lowest my FPS dropped was around 50 in Falkreath. My system specs are: Ryzen 5 5600g, RX6600 8gb, and 16gbs of ram @ 2900 mhz. The only hard requirement is a CPU that supports at least AVX2. If you are having trouble running the modlist and dont really care for the enb, you can disable it through the mod organizer. It can give you a huge fps boost. 
+This is a vaguely lightweight modlist made for mid range computers. Most textures are 1k, with a few being 2k, and only skin textures and a few misc items that you will rarely see being 4k. The lowest my FPS dropped was around 50 in Falkreath. My system specs are: Ryzen 5 5600g, RX6600 8gb, and 16gbs of ram @ 2900 mhz. The only hard requirement is a CPU that supports at least AVX2. If you are having trouble running the modlist and dont really care for the enb, you can disable it through the mod organizer for a large performance upgrade.
 
 While its not a neccessity, its encouraged to install this list on an SSD. It's a lot smoother.
 
