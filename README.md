@@ -4,7 +4,8 @@
  
  This list is not finished, there might be more bugs than whatever is listed below.
  
- ENBSeries may fail to install throuhg wabbajack, this is probably my fault. Thankfully theres an easy workaround where you just have to manually download the ENB binaries and drop the .zip folder into the wabbajack download folder.
+ ENBSeries may fail to install throuhg wabbajack, this is probably my fault. Thankfully theres an easy workaround where you just have to manually download the ENB binaries and drop the .zip folder into the wabbajack download folder. After you do that, you need to create an empty text file with the exact same name as the enbseries zip file, and add a .meta extension to the end of it. ![image](https://user-images.githubusercontent.com/122011472/222934459-a70e81e6-259a-43a0-abf6-582e0e1a9a96.png)
+If done correctly, it should look like this
  
  There is an infinite loading screen if you enter the dlc1dimhollowcrypt01 cell (the first dungeon during the Dawnguard questline) AFTER starting the Awakening questline. For now, you're going to have to open the console and type coc dlc1dimhollowcrypt02, this will not break anything but your immersion. If you find the solution (or more bugs), please add me on discord @Arnold#1526 or ping me in the ostim discord
  
