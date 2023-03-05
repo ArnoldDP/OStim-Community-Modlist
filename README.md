@@ -9,7 +9,7 @@ If done correctly, it should look like this
 
 ![image](https://user-images.githubusercontent.com/122011472/222934459-a70e81e6-259a-43a0-abf6-582e0e1a9a96.png)
 
-I did not set up the automatic downgrade properly, so for the time being you will have to downgrade your game to 1.6.353 using this tool
+Theres a solid chance I didn't set up the auto-downgrade feature properly, if it fails then you can downgrade the game using this tool
 https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
  There is an infinite loading screen if you enter the dlc1dimhollowcrypt01 cell (the first dungeon during the Dawnguard questline) ***AFTER*** starting the Awakening questline. For now, you're going to have to open the console and type coc dlc1dimhollowcrypt02, this will not break anything but your immersion. If you find the solution (or more bugs), please add me on discord @Arnold#1526 or ping me in the ostim discord
