@@ -22,20 +22,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/modlist%20image.webp",
       "readme": "https://github.com/ArnoldDP/Vaguely-Sexual-Skyrim/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/OModlist.wabbajack_bd96713e-9a53-403b-802f-4ebd5caac187",
+      "download": "https://authored-files.wabbajack.org/OModlist.wabbajack_afccf797-ea9c-44d6-90b3-f4a91a482cea",
       "machineURL": "ostimwabbajackmeoff",
       "discordURL": "https://discord.gg/ostim"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "iNKec6Bw0jk=",
-      "Size": 401275192,
-      "NumberOfArchives": 809,
-      "SizeOfArchives": 94377882292,
-      "NumberOfInstalledFiles": 85898,
-      "SizeOfInstalledFiles": 150370982295
+      "Hash": "qWqa2yx54Zw=",
+      "Size": 401313190,
+      "NumberOfArchives": 808,
+      "SizeOfArchives": 94266162764,
+      "NumberOfInstalledFiles": 85692,
+      "SizeOfInstalledFiles": 150177808424
     },
-    "version": "1.1.2"
+    "version": 0.1.2"
   }
 ]
 
