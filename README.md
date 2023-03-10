@@ -74,7 +74,17 @@ Most of the included textures are Complex Parallax compatible. If an ENB preset 
  
  If any of these lines are missing from the enbseries.ini, you can simply copy and paste the missing lines into the file. It will work just fine.
 
-Pre-generated LODs are not included. This is done on purpose due to the subjective nature of a lot of area overhauls, tree mods, weather mods, etc, and also for performance reasons. If you wish to generate your own LODs, make sure you disable Flat World Map Framework and all of its add-ons beforehand. They can be found under the ***Flat World Map Framework*** separator near the bottom of the list. After you're done generating, you can re-enable FWMF, but make sure you keep everything from FWMF *below* DynDOLOD and Occlusions in the plugin load order. Your load order should look like this:
+If you do decide to change weather and enb, make sure you disable [Rudy - Zandgar Edit] and [Rudy ENB Cathedral Weathers ADDONS and REQUiRED Files] in the mod organizer, then double check the Skyrim directory and [overwrite] to make sure that none of the enb files are still hanging around. Since this wabbajack uses the stock game method, the Skyrim directory is going to be in the same folder that you installed this list to. If you have trouble finding it, you can simply click the folder icon in the top right of MO2, and select open game folder
+
+![image](https://user-images.githubusercontent.com/122011472/218272132-feec8b12-a456-43a8-be7b-7a4d495b3b1f.png)
+
+You can either install your prefered ENB through the mod organizer (recommended), or by going to the Skyrim Special Edition 1.6.353 directory in the MO2 Portable Profile. If you want to use NAT, Azurite, Vivid Weathers, or Aequinoctium, you need to enable FWMF for Fantasy Paper Maps Weather and Lighting Fix.esp 
+
+![image](https://user-images.githubusercontent.com/122011472/224233588-68c316a5-8cc2-4849-aa24-9caad041069c.png)
+ 
+ Pre-generated LODs are not included. This is done on purpose for two main reasons. The first one is performance, generating high quality LODs can bring even the highest end of computers to their knees. The second reason is the subjective nature of a lot of area overhauls, tree mods, weather mods, etc. If any of those are disabled post generation, DynDOLOD will not work. 
+ 
+ If you wish to generate your own LODs, make sure you disable Flat World Map Framework and all of its add-ons beforehand. They can be found under the ***Flat World Map Framework*** separator near the bottom of the list. After you're done generating, you can re-enable FWMF, but make sure you keep everything from FWMF *below* DynDOLOD and Occlusions in the plugin load order. Your load order should look like this:
 
 1. DynDOLOD
 2. Occlusions
@@ -83,15 +93,6 @@ Pre-generated LODs are not included. This is done on purpose due to the subjecti
 4. Additional FWMF Maps
 
 It is highly recommended to read a guide on LOD generation, theres about a quarter million of them for a reason.
-
-If you do decide to change weather and enb, make sure you disable [Rudy - Zandgar Edit] and [Rudy ENB Cathedral Weathers ADDONS and REQUiRED Files] in the mod organizer, then double check the Skyrim directory and [overwrite] to make sure that none of the enb files are still hanging around. Since this wabbajack uses the stock game method, the Skyrim directory is going to be in the same folder that you installed this list to. If you have trouble finding it, you can simply click the folder icon in the top right of MO2, and select open game folder
-
-![image](https://user-images.githubusercontent.com/122011472/218272132-feec8b12-a456-43a8-be7b-7a4d495b3b1f.png)
-
-You can either install your prefered ENB through the mod organizer (recommended), or by going to the Skyrim Special Edition 1.6.353 directory in the MO2 Portable Profile. If you want to use NAT, Azurite, Vivid Weathers, or Aequinoctium, you need to enable FWMF for Fantasy Paper Maps Weather and Lighting Fix.esp 
-
-![image](https://user-images.githubusercontent.com/122011472/224233588-68c316a5-8cc2-4849-aa24-9caad041069c.png)
-
 
 Since I dont personally use ReShade, I cant give a very good guide. Thankfully, the legendary Sswaye himself has written an excellent guide on it. Check out his collection! https://www.nexusmods.com/skyrimspecialedition/mods/67966
 
