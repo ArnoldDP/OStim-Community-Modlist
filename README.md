@@ -21,6 +21,11 @@
  
  We tried to keep the textures around 1-2k, but skin textures and mountains are still 4k. These can be downscaled using Cathedral Asset Optimizer if you need that extra bit of performance. 
  
+ Need even more? Disable QW's Grass Patch and all but one of the three included grass mods + the associated ENB Complex Grass mod 
+ 
+ ![image](https://user-images.githubusercontent.com/122011472/224244569-f1a67d98-4e4e-4b3b-9866-47c9e1a47936.png)
+
+
 # KNOWN ISSUES
  
  This list is not finished, there might be more bugs than whatever is listed below.
@@ -41,9 +46,9 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
 # DESCRIPTION
 
-This is a simple vanilla+ modlist featuring modern and optimized textures, updated meshes, a visual overhaul for nearly every npc in the game, a healthy amount of follower mods, a more diverse range of enemies, plenty of new spells, and OStim.
+This is a simple vanilla+ modlist featuring modern and optimized textures, updated meshes, a visual overhaul for nearly every npc in the game, a healthy amount of follower mods, a more diverse range of enemies, plenty of new spells, OStim (obviously), and some nice player homes for you and your friends to do the nasty in if you dont like getting dirt in your hair :)
 
-Since we expect and encourage people to add to this list to make it their own, we tried to avoid large system changes like ADXP and massive dlc sized mods like Beyond Skyrim. There are still a few small things like Sacrilege vampires, Growl werewolves, and Vokrii, but these can be uninstalled (along with most of the mods in this list) if you prefer the vanilla systems or want to trade them out for something different.
+While this modlist is perfectly usable out of the box, we expect and encourage people to add to this list to make it their own. As such, we tried to avoid large system changes like ADXP, and massive dlc sized mods like Beyond Skyrim. There are still a few small things like Sacrilege vampires, Growl werewolves, and Vokrii, but these can be uninstalled (along with most of the mods in this list) if you prefer the vanilla systems or want to trade them out for something different.
 
 Sunhelm, Camping lite, and At Your Own Pace for the College of Winterhold, Dark Brotherhood, Dragonborn, and misc quests are included to provide more roleplay opportunities. These can also be safely uninstalled before a playthrough if youre unsure about them or if you just dont like them, I highly recommend giving them a try though.
 
