@@ -54,11 +54,13 @@ Sunhelm, Camping lite, and At Your Own Pace for the College of Winterhold, Dark 
 
 # ENBs, LODs, Parallax, and all the other fun stuff
 
- Managing ENB presets is easier than ever thanks to Root Builder! Install them through MO2 like any other mod, and let Root Builder take care of it. If it doesn't, reinstall and select [Manual]
+ Managing ENB presets is easier than ever thanks to Root Builder! Install them through MO2 like any other mod, and let Root Builder take care of it. If it doesn't work, reinstall and select [Manual]
  
  Right click <data>, create directory, and name it "root". Then just drag and drop enbseries.ini, enblocal.ini, and the enbseries folder into the directory you just made. If done properly, it should look like this
  
  ![image](https://user-images.githubusercontent.com/122011472/224231824-0c7f8f4b-c85d-42b3-bd82-0dbfc001d258.png)
+ 
+ Now you can disable or enable it whenever you want just like any other mod :)
 
 Most of the included textures are Complex Parallax compatible. If an ENB preset you installed doesnt have complex parallax enabled by default, change the following settings to look like this
 
