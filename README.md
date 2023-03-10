@@ -62,7 +62,7 @@ Sunhelm, Camping lite, and At Your Own Pace for the College of Winterhold, Dark 
  
  Now you can disable or enable it whenever you want just like any other mod :)
 
-Most of the included textures are Complex Parallax compatible. If an ENB preset you installed doesnt have complex parallax enabled by default, change the following settings to look like this
+Most of the included textures are Complex Parallax compatible. If an ENB preset you installed doesnt have complex parallax enabled by default, open up the inbseries.ini, and change the following settings to look like this
 
  1. EnableTerrainParallax=false
  2. EnableComplexGrass=true
