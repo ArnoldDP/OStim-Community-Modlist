@@ -50,7 +50,7 @@ This is a simple vanilla+ modlist featuring modern and optimized textures, updat
  
  ![image](https://user-images.githubusercontent.com/122011472/224231824-0c7f8f4b-c85d-42b3-bd82-0dbfc001d258.png)
 
-Most of the included textures are Complex Parallax Compatible. If an ENB preset you installed doesnt have complex parallax enabled by default, change the following settings to look like this
+Most of the included textures are Complex Parallax compatible. If an ENB preset you installed doesnt have complex parallax enabled by default, change the following settings to look like this
 
  1. EnableTerrainParallax=false
  2. EnableComplexGrass=true
