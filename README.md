@@ -30,7 +30,7 @@
  
  This list is not finished, there might be more bugs than whatever is listed below.
  
- ENBSeries may fail to install throuhg wabbajack, but dont panic! Theres an easy workaround where you just have to manually download the ENB binaries and drop the .zip folder into the wabbajack download folder. After you do that, you need to create an empty text file with the exact same name as the enbseries zip file, and add a .meta extension to the end of it.
+ ENBSeries may fail to install through wabbajack, but dont panic! Theres an easy workaround where you just have to manually download the ENB binaries and drop the .zip folder into the wabbajack download folder. After you do that, you need to create an empty text file with the exact same name as the enbseries zip file, and add a .meta extension to the end of it.
 If done correctly, it should look like this
 
 ![image](https://user-images.githubusercontent.com/122011472/222934459-a70e81e6-259a-43a0-abf6-582e0e1a9a96.png)
@@ -42,15 +42,13 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
  ~~There is an infinite loading... nothing afaik~~ Fixed, thank you Mumble :)
  
- If you find any gamebreaking/major bugs, please dm me on Discord @Arnold#1526
+ If you find any gamebreaking/major bugs (frequent crashing, infinite loading screens, extreme stuttering, etc), please dm me on Discord @Arnold#1526
  
 # DESCRIPTION
 
-This is a simple vanilla+ modlist featuring modern and optimized textures, updated meshes, a visual overhaul for nearly every npc in the game, a healthy amount of follower mods, a more diverse range of enemies, plenty of new spells, OStim (obviously), and some nice player homes for you and your friends to do the nasty in if you dont like getting dirt in your hair :)
+This is a modlist focused on refreshing the game to make it feel a bit more modern while adding some spicy roleplay oportunities :). New textures, updated meshes, a more diverse range of enemies, and an update for nearly every vanilla npc in the game. Oh, and the funny sex mod, can't forget about that.
 
-While this modlist is perfectly usable out of the box, we expect and encourage people to add to this list to make it their own. As such, we tried to avoid large system changes like ADXP, and massive dlc sized mods like Beyond Skyrim. There are still a few small things like Sacrilege vampires, Growl werewolves, and Vokrii, but these can be uninstalled (along with most of the mods in this list) if you prefer the vanilla systems or want to trade them out for something different.
-
-Sunhelm, Camping lite, and At Your Own Pace for the College of Winterhold, Dark Brotherhood, Dragonborn, and misc quests are included to provide more roleplay opportunities. These can also be safely uninstalled before a playthrough if youre unsure about them or if you just dont like them, I highly recommend giving them a try though.
+While the list is perfectly usable out of the box, its expected and encouraged to add to it and make it your own. Things that could break if you remove or add new mods were avoided for this reason.
 
 # ENBs, LODs, Parallax, and all the other fun stuff
 
