@@ -114,7 +114,7 @@ Donations for various mod authors featured on this list (just @me and I'll ad yo
 
 >Ace (animations): https://ko-fi.com/skyrimaceanimations
 
->Silver (replacers, presets, and npcs): https://ko-fi.com/silvermilfactory
+>Silver (Milfactory): https://ko-fi.com/silvermilfactory
 
 >Aietos (a lot of stuff): https://ko-fi.com/aietos
 
