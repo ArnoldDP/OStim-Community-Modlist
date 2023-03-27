@@ -46,7 +46,9 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
 # DESCRIPTION
 
-This is a modlist focused on refreshing the game to make it feel a bit more modern while adding some spicy roleplay oportunities :). New textures, updated meshes, a more diverse range of enemies, and an update for nearly every vanilla npc in the game. Oh, and the funny sex mod, can't forget about that.
+This is a modlist focused on refreshing the game to make it feel a bit more modern while adding some spicy roleplay oportunities :)
+
+New textures, updated meshes, a more diverse range of enemies, and an update for nearly every vanilla npc in the game. Oh, and the funny sex mod, can't forget about that.
 
 While the list is perfectly usable out of the box, its expected and encouraged to add to it and make it your own. Things that could break if you remove or add new mods were avoided for this reason.
 
