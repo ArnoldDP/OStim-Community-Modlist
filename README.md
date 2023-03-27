@@ -114,8 +114,8 @@ Donations for various mod authors featured on this list (@me if youre not on her
 
 >Ace (animations): https://ko-fi.com/skyrimaceanimations
 
->Silver (Milfactory): https://ko-fi.com/silvermilfactory
+>Silver (milfactory): https://ko-fi.com/silvermilfactory
 
->Aietos (a lot of stuff): https://ko-fi.com/aietos
+>Aietos (various): https://ko-fi.com/aietos
 
 >SSwaye (sswaye): https://ko-fi.com/katsusswaye
