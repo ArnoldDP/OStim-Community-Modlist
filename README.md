@@ -104,7 +104,7 @@ Since I dont personally use ReShade, I cant give a very good guide. Thankfully, 
 
 >Join the discord! https://discord.gg/ostim
 
-Donations for various mod authors featured on this list (just @me and I'll ad you)
+Donations for various mod authors featured on this list (@me if youre not on here)
  
 >Baka (BHUNP): https://www.patreon.com/BaboFactory
  
