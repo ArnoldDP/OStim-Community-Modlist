@@ -96,5 +96,20 @@ It is highly recommended to read a guide on LOD generation, theres about a quart
 
 Since I dont personally use ReShade, I cant give a very good guide. Thankfully, the legendary Sswaye himself has written an excellent guide on it. Check out his collection! https://www.nexusmods.com/skyrimspecialedition/mods/67966
 
-Mega link if you dont want to use the gallery: https://mega.nz/file/5ONSSRTa#BkCiiq9ES7VDTfVuAdiraD8Tf4We06Cj-iR5ISL_Q7Q
-Join the discord! https://discord.gg/ostim
+# Links
+
+>Mega link if you dont want to use the gallery: https://mega.nz/file/5ONSSRTa#BkCiiq9ES7VDTfVuAdiraD8Tf4We06Cj-iR5ISL_Q7Q
+
+>Join the discord! https://discord.gg/ostim
+
+Donations to various mod authors:
+
+>Moon: https://ko-fi.com/callmemoon
+
+>Ace: https://ko-fi.com/skyrimaceanimations
+
+>Silver: https://ko-fi.com/silvermilfactory
+
+>Aietos: https://ko-fi.com/aietos
+
+>
