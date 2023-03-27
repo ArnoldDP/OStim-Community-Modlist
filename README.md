@@ -104,14 +104,18 @@ Since I dont personally use ReShade, I cant give a very good guide. Thankfully, 
 
 >Join the discord! https://discord.gg/ostim
 
-Donations to various mod authors:
+Donations for various mod authors featured on this list (just @me and I'll ad you)
+ 
+>Baka (BHUNP): https://www.patreon.com/BaboFactory
+ 
+>Kreiste (HIMBO): https://www.patreon.com/kreiste
 
->Moon: https://ko-fi.com/callmemoon
+>Moon (animations): https://ko-fi.com/callmemoon
 
->Ace: https://ko-fi.com/skyrimaceanimations
+>Ace (animations): https://ko-fi.com/skyrimaceanimations
 
->Silver: https://ko-fi.com/silvermilfactory
+>Silver (replacers, presets, and npcs): https://ko-fi.com/silvermilfactory
 
->Aietos: https://ko-fi.com/aietos
+>Aietos (a lot of stuff): https://ko-fi.com/aietos
 
->SSwaye: https://ko-fi.com/katsusswaye
+>SSwaye (sswaye): https://ko-fi.com/katsusswaye
