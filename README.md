@@ -62,7 +62,7 @@ While the list is perfectly usable out of the box, its expected and encouraged t
  
  Now you can disable or enable it whenever you want just like any other mod :)
 
-Most of the included textures are Complex Parallax compatible. If an ENB preset you installed doesnt have complex parallax enabled by default, open up the inbseries.ini, and change the following settings to look like this
+Most of the included textures are Complex Parallax compatible. If an ENB preset you installed doesnt have complex parallax enabled by default, open up the enbseries.ini, and change the following settings to look like this
 
  1. EnableTerrainParallax=false
  2. EnableComplexGrass=true
@@ -84,7 +84,7 @@ You can either install your prefered ENB through the mod organizer (recommended)
 
 ![image](https://user-images.githubusercontent.com/122011472/224233588-68c316a5-8cc2-4849-aa24-9caad041069c.png)
  
- Pre-generated LODs are not included. This is done on purpose for two main reasons. The first one is performance, generating high quality LODs can bring even the highest end of computers to their knees. The second reason is the subjective nature of a lot of area overhauls, tree mods, weather mods, etc. If any of those are disabled post generation, DynDOLOD will not work. 
+ I didnt originally want to include LODs for performance and compatibility reasons, but that was kind of dumb and lazy on my part. If they hurt your performance, just disable lodgen, texgen, and dyndolod outputs.
  
  If you wish to generate your own LODs, make sure you disable Flat World Map Framework and all of its add-ons beforehand. They can be found under the ***Flat World Map Framework*** separator near the bottom of the list. After you're done generating, you can re-enable FWMF, but make sure you keep everything from FWMF *below* DynDOLOD and Occlusions in the plugin load order. Your load order should look like this:
 
@@ -95,6 +95,8 @@ You can either install your prefered ENB through the mod organizer (recommended)
 4. Additional FWMF Maps
 
 It is highly recommended to read a guide on LOD generation, theres about a quarter million of them for a reason.
+
+>You will need to add an argument like-d:"F:\SteamLibrary\steamapps\common\Skyrim Special Edition\Data". Alternatively, you can temporarily change the game data path to the default skyrim directory in the MO2 Paths settings.
 
 Since I dont personally use ReShade, I cant give a very good guide. Thankfully, the legendary Sswaye himself has written an excellent guide on it. Check out his collection! https://www.nexusmods.com/skyrimspecialedition/mods/67966
 
