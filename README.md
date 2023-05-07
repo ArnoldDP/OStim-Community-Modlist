@@ -113,8 +113,10 @@ Patreon, ko-fi, etc for various mod authors featured on this list (@me if i forg
 >Kreiste (HIMBO): https://www.patreon.com/kreiste
 
 >Moon (animations): https://ko-fi.com/callmemoon
+ 
+>Ace [Patreon] (various): https://www.patreon.com/skyrimaceanimations
 
->Ace (various): https://ko-fi.com/skyrimaceanimations
+>Ace [ko-fi] (various): https://ko-fi.com/skyrimaceanimations
 
 >Silver (milfactory): https://ko-fi.com/silvermilfactory
 
