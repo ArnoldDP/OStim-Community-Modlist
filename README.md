@@ -120,7 +120,7 @@ Patreon, ko-fi, etc for various mod authors featured on this list (@me if i forg
 
 >Aietos (various): https://ko-fi.com/aietos
 
->Sswaye (vsswaye): https://ko-fi.com/katsusswaye
+>Sswaye (sswaye): https://ko-fi.com/katsusswaye
 
 >Vaenia (OStim Lovers): https://www.patreon.com/Vaenia121
  
