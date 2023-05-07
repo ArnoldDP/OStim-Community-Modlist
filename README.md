@@ -114,12 +114,14 @@ Patreon, ko-fi, etc for various mod authors featured on this list (@me if i forg
 
 >Moon (animations): https://ko-fi.com/callmemoon
 
->Ace (animations): https://ko-fi.com/skyrimaceanimations
+>Ace (various): https://ko-fi.com/skyrimaceanimations
 
 >Silver (milfactory): https://ko-fi.com/silvermilfactory
 
 >Aietos (various): https://ko-fi.com/aietos
 
->SSwaye (sswaye): https://ko-fi.com/katsusswaye
+>Sswaye (vsswaye): https://ko-fi.com/katsusswaye
 
 >Vaenia (OStim Lovers): https://www.patreon.com/Vaenia121
+ 
+>VersuchDrei (various): https://www.patreon.com/VersuchDrei
