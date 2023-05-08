@@ -19,7 +19,7 @@
  
  Obviously if your hardware is better, there shouldn't be any issues.
  
- I tried to keep the textures around 1-2k, but skin textures and mountains are still 4k. These can be downscaled using Cathedral Asset Optimizer if you need that extra bit of performance. 
+ I tried to keep the textures around 1-2k, but female skin textures, a few armors, and mountains are still 4k. These can be downscaled using Cathedral Asset Optimizer if you need that extra bit of performance. 
  
  Need even more? Disable QW's Grass Patch and all but one of the three included grass mods + the associated ENB Complex Grass mod 
  
