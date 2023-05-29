@@ -32,7 +32,7 @@
  
 ENBSeries may fail to install through Wabbajack. More often than not, this is because Boris updated the binaries without a version change. DM me @Arnold#1526 and I'll just give you the files, just drop them in your Wabbajack download folder.
 
-![image](https://user-images.githubusercontent.com/122011472/222934459-a70e81e6-259a-43a0-abf6-582e0e1a9a96.png)
+On the off chance that the game doesnt automatically downgrade, you can use the patcher below.
 
 https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
@@ -44,9 +44,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
 
 This is a modlist focused on refreshing the game to make it feel a bit more modern while adding some spicy roleplay oportunities :)
 
-New textures, updated meshes, a more diverse range of enemies, and an update for nearly every vanilla npc in the game. Oh, and the funny sex mod, can't forget about that.
-
-While the list is perfectly usable out of the box, its expected and encouraged to add to it and make it your own. Several things were avoided for this reason.
+New textures, updated meshes, a more diverse range of enemies, and an update for nearly every vanilla npc in the game. Oh, and the funny sex mod, can't forget about that. Most, if not all, of the gameplay mods are just simple enhancers to the Vanilla Skyrim experience, and a lot of subjective quest mods were avoided because they could cause unnecessary bloat.
 
 # ENBs, LODs, Parallax, and all the other fun stuff
 
@@ -71,12 +69,12 @@ Most of the included textures are Complex Parallax compatible. If an ENB preset 
 
  
  If any of these lines are missing from the enbseries.ini, you can simply copy and paste the missing lines into the file. It will work just fine.
-
-If you do decide to change weather and enb, make sure you disable [Rudy - Zandgar Edit] and [Rudy ENB Cathedral Weathers ADDONS and REQUiRED Files] in the mod organizer, then double check the Skyrim directory and [overwrite] to make sure that none of the enb files are still hanging around (they shouldn't be, but redundancy is stability). Since this wabbajack uses the stock game method, the Skyrim directory is going to be in the same folder that you installed this list to. If you have trouble finding it, you can simply click the folder icon in the top right of MO2, and select open game folder
+ 
+ The list comes with Rudy for NAT 3. Other ENB presets I highly recommend are NAT 3.1, Berserkyr, and Cabbage.
 
 ![image](https://user-images.githubusercontent.com/122011472/218272132-feec8b12-a456-43a8-be7b-7a4d495b3b1f.png)
 
-You can either install your prefered ENB through the mod organizer (recommended), or by going to the Skyrim Special Edition 1.6.353 directory in the MO2 Portable Profile. If you want to use NAT, Azurite, Vivid Weathers, or Aequinoctium, you need to enable FWMF for Fantasy Paper Maps Weather and Lighting Fix.esp 
+If you want to change the weather to anything other than NAT, Azurite, Vivid Weathers, or Aequinoctium, you should disable ***FWMF for Fantasy Paper Maps Weather and Lighting Fix.esp***
 
 ![image](https://user-images.githubusercontent.com/122011472/224233588-68c316a5-8cc2-4849-aa24-9caad041069c.png)
  
