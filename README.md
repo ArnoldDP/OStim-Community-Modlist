@@ -7,7 +7,7 @@
  
  The only hard requirements to run this modlist are a CPU with AVX2 support and ~230 gigs of storage available.
  
- Recommended specs for 1080p:
+ Recommended min specs for 1080p:
  
   CPU: Ryzen 5 5600/intel 11600k
   
@@ -21,23 +21,21 @@
  
  I tried to keep the textures around 1-2k, but female skin textures, a few armors, and mountains are still 4k. These can be downscaled using Cathedral Asset Optimizer if you need that extra bit of performance. 
  
- Need even more? Disable QW's Grass Patch and all but one of the three included grass mods + the associated ENB Complex Grass mod 
+ Need even more? Disable QW's Grass Patch and all but one of the three included grass mods + the associated ENB Complex Grass mod ***WARNING*** This will make grass LODs not match.  
  
  ![image](https://user-images.githubusercontent.com/122011472/224244569-f1a67d98-4e4e-4b3b-9866-47c9e1a47936.png)
 
 
 # KNOWN ISSUES
  
- This list is not finished, there might be more bugs than whatever is listed below.
+ This list is usually updated once a month. More bugs can appear and be removed.
  
 ENBSeries may fail to install through Wabbajack. More often than not, this is because Boris updated the binaries without a version change. DM me @Arnold#1526 and I'll just give you the files, just drop them in your Wabbajack download folder.
 
 On the off chance that the game doesnt automatically downgrade, you can use the patcher below.
 
 https://www.nexusmods.com/skyrimspecialedition/mods/57618
- 
- ~~There is an infinite loading... nothing afaik~~ Fixed, thank you Mumble :)
- 
+
  If you find any gamebreaking/major bugs (frequent crashing, infinite loading screens, extreme stuttering, etc), please dm me on Discord @Arnold#1526
  
 # DESCRIPTION
