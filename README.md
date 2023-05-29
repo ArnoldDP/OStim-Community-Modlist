@@ -1,4 +1,10 @@
 # Unofficial Ostim Community Modlist
+# DESCRIPTION
+
+This is a modlist focused on refreshing the game to make it feel a bit more modern while adding some spicy roleplay oportunities :)
+
+New textures, updated meshes, a more diverse range of enemies, and an update for nearly every vanilla npc in the game. Oh, and the funny sex mod, can't forget about that. Most, if not all, of the gameplay mods are just simple enhancers to the vanilla Skyrim experience, and a lot of subjective quest mods were avoided because they could cause unnecessary bloat.
+
 
 # PREINSTALLATION
  
@@ -38,12 +44,6 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
 
  If you find any gamebreaking/major bugs (frequent crashing, infinite loading screens, extreme stuttering, etc), please dm me on Discord @Arnold#1526
  
-# DESCRIPTION
-
-This is a modlist focused on refreshing the game to make it feel a bit more modern while adding some spicy roleplay oportunities :)
-
-New textures, updated meshes, a more diverse range of enemies, and an update for nearly every vanilla npc in the game. Oh, and the funny sex mod, can't forget about that. Most, if not all, of the gameplay mods are just simple enhancers to the Vanilla Skyrim experience, and a lot of subjective quest mods were avoided because they could cause unnecessary bloat.
-
 # ENBs, LODs, Parallax, and all the other fun stuff
 
  Managing ENB presets is easier than ever thanks to Root Builder! Install them through MO2 like any other mod, and let Root Builder take care of it. If it doesn't work the first time, reinstall and select [Manual]
