@@ -70,8 +70,6 @@ Most of the included textures are Complex Parallax compatible. If an ENB preset 
  
  The list comes with Rudy for NAT 3. Other ENB presets I highly recommend are NAT 3.1, Berserkyr, and Cabbage.
 
-![image](https://user-images.githubusercontent.com/122011472/218272132-feec8b12-a456-43a8-be7b-7a4d495b3b1f.png)
-
 If you want to change the weather to anything other than NAT, Azurite, Vivid Weathers, or Aequinoctium, you should disable ***FWMF for Fantasy Paper Maps Weather and Lighting Fix.esp***
 
 ![image](https://user-images.githubusercontent.com/122011472/224233588-68c316a5-8cc2-4849-aa24-9caad041069c.png)
