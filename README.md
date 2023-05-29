@@ -94,7 +94,7 @@ Since I dont personally use ReShade, I cant give a very good guide. Thankfully, 
 
 # Links
 
->Mega link for the .wabbajack file: https://mega.nz/file/VXM0TYJR#oDp13p4d9wOD_ESpVS4drIDGjS1F45FXo8sASbzCa_c
+>Mega link for the .wabbajack file: https://mega.nz/file/sbtk1RLC#a3WUe8xcOpp01DaiENv2ygrD1E0voaVOsIIkaEoMSsw
 
 >Join the discord! https://discord.gg/ostim
 
