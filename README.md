@@ -6,7 +6,7 @@ This is a modlist focused on refreshing the game to make it feel a bit more mode
 New textures, updated meshes, a more diverse range of enemies, and an update for nearly every vanilla npc in the game. Oh, and the funny sex mod, can't forget about that. Most, if not all, of the gameplay mods are just simple enhancers to the vanilla Skyrim experience, and a lot of subjective quest mods were avoided because they could cause unnecessary bloat.
 
 
-# PREINSTALLATION
+# PRE/POST INSTALLATION
  
  It is recommended that you start with a clean, unmodified, and up to date installation of Skyrim through the Steam store (no GOG, sorry). A modified version may fail to install properly, if at all.
  If you downgraded, validate your files by going to your library, right clicking "The Elder Scrolls V: Skyrim Special Edition", select properties, local files, and then click verify integrity of game files. Alternatively, you can completely uninstall the game and all related files and then reinstall it. After thats done, you can proceed with the installation.
