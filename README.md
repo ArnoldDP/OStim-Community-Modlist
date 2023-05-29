@@ -30,14 +30,10 @@
  
  This list is not finished, there might be more bugs than whatever is listed below.
  
- ENBSeries may fail to install through wabbajack, but dont panic! Theres an easy workaround where you just have to manually download the ENB binaries and drop the .zip folder into the wabbajack download folder. After you do that, you need to create an empty text file with the exact same name as the enbseries zip file, and add a .meta extension to the end of it.
-If done correctly, it should look like this
+ENBSeries may fail to install through Wabbajack. More often than not, this is because Boris updated the binaries without a version change. DM me @Arnold#1526 and I'll just give you the files, just drop them in your Wabbajack download folder.
 
 ![image](https://user-images.githubusercontent.com/122011472/222934459-a70e81e6-259a-43a0-abf6-582e0e1a9a96.png)
 
-If this *still* fails, DM me on Discord @Arnold#1526. ENBDev might have updated without me realizing it.
-
-Theres a solid chance I didn't set up the auto-downgrade feature properly, if it fails then you can downgrade the game to 1.6.353 using this tool. Use the relevant BOBW version
 https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
  ~~There is an infinite loading... nothing afaik~~ Fixed, thank you Mumble :)
