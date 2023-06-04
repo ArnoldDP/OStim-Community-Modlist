@@ -25,7 +25,7 @@ New textures, updated meshes, a more diverse range of enemies, and an update for
  
  Obviously if your hardware is better, there shouldn't be any issues.
  
- I tried to keep the textures around 1-2k, but female skin textures, a few armors, and mountains are still 4k. These can be downscaled using Cathedral Asset Optimizer if you need that extra bit of performance. 
+ I tried to keep the textures around 1-2k, but female skin textures, and a few armors are 4k. These can be downscaled using Cathedral Asset Optimizer if you need that extra bit of performance. 
  
  Need even more? Disable QW's Grass Patch and all but one of the three included grass mods + the associated ENB Complex Grass mod ***WARNING*** This will make grass LODs not match.  
  
