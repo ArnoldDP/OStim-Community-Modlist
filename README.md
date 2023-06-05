@@ -3,13 +3,13 @@
 
 ***What this isnt***
 
-This isnt an Elysium Remastered clone (no disprespect to the author) with the addition of OStim, nor is it a hyperrealistic soulslike that barely hits 30 fps. It's also not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves.
+This is not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves, nor it is a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall. It's also not an Elysium Remastered clone (no disrespect to the original author) with the small addition of OStim.
 
 ***What this is***
 
  It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game that stays true to The Elder Scrolls style, while adding plenty of spicy roleplay opportunities :^)
 
-Most, if not all, of the gameplay mods are just simple enhancers to the vanilla Skyrim experience, and a lot of subjective quest mods were avoided because they could cause unnecessary bloat.
+Most, if not all, of the gameplay mods are just simple enhancers to the vanilla Skyrim experience. A lot of subjective quest mods were avoided because they could cause unnecessary bloat.
 
 
 # PRE/POST INSTALLATION
@@ -19,17 +19,17 @@ Most, if not all, of the gameplay mods are just simple enhancers to the vanilla 
  
  The only hard requirements to run this modlist are a CPU with AVX2 support and ~260 gigs of storage available.
  
- Recommended specs for 1080p:
- 
-  CPU: Ryzen 5 5600/intel i5 11600k
-  
-  GPU: RTX 3060 8gb/RX 6600 8gb
-  
-  RAM: 16gb ddr4 @2666 mhz
- 
- ~~Basically just generic gaming pc built after 2020~~
- 
- Obviously if your hardware is better, there shouldn't be any issues.
+> Recommended specs for 1080p:
+> 
+> CPU: Ryzen 5 5600/intel i5 11600k
+>  
+> GPU: RTX 3060 8gb/RX 6600 8gb
+>  
+> RAM: 16gb ddr4 @2666 mhz
+> 
+> ~~Basically just generic gaming pc built after 2020~~
+> 
+> Obviously if your hardware is better, there shouldn't be any issues.
  
  I tried to keep the textures around 1-2k, but female skin textures, and a few misc items are 4k. These can be downscaled using Cathedral Asset Optimizer if you need that extra bit of performance. 
  
