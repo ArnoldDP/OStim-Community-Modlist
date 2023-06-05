@@ -1,9 +1,13 @@
 # Unofficial Ostim Community Modlist
 # DESCRIPTION
 
-This is a modlist focused on refreshing the game to make it feel a bit more modern while adding some spicy roleplay oportunities :)
+***What this isnt***
+This isnt an Elysium Remastered clone (no disprespect to the author) with the addition of OStim, nor is it a hyperrealistic soulslike that barely hits 30 fps. It's also not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves.
 
-New textures, updated meshes, a more diverse range of enemies, and an update for nearly every vanilla npc in the game. Oh, and the funny sex mod, can't forget about that. Most, if not all, of the gameplay mods are just simple enhancers to the vanilla Skyrim experience, and a lot of subjective quest mods were avoided because they could cause unnecessary bloat.
+***What this isnt***
+ It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game that stays true to The Elder Scrolls style, while adding plenty of spicy roleplay opportunities :^)
+
+Most, if not all, of the gameplay mods are just simple enhancers to the vanilla Skyrim experience, and a lot of subjective quest mods were avoided because they could cause unnecessary bloat.
 
 
 # PRE/POST INSTALLATION
@@ -11,11 +15,11 @@ New textures, updated meshes, a more diverse range of enemies, and an update for
  It is recommended that you start with a clean, unmodified, and up to date installation of Skyrim through the Steam store (no GOG, sorry). A modified version may fail to install properly, if at all.
  If you downgraded, validate your files by going to your library, right clicking "The Elder Scrolls V: Skyrim Special Edition", select properties, local files, and then click verify integrity of game files. Alternatively, you can completely uninstall the game and all related files and then reinstall it. After thats done, you can proceed with the installation.
  
- The only hard requirements to run this modlist are a CPU with AVX2 support and ~230 gigs of storage available.
+ The only hard requirements to run this modlist are a CPU with AVX2 support and ~260 gigs of storage available.
  
- Recommended min specs for 1080p:
+ Recommended specs for 1080p:
  
-  CPU: Ryzen 5 5600/intel 11600k
+  CPU: Ryzen 5 5600/intel i5 11600k
   
   GPU: RTX 3060 8gb/RX 6600 8gb
   
@@ -25,7 +29,7 @@ New textures, updated meshes, a more diverse range of enemies, and an update for
  
  Obviously if your hardware is better, there shouldn't be any issues.
  
- I tried to keep the textures around 1-2k, but female skin textures, and a few armors are 4k. These can be downscaled using Cathedral Asset Optimizer if you need that extra bit of performance. 
+ I tried to keep the textures around 1-2k, but female skin textures, and a few misc items are 4k. These can be downscaled using Cathedral Asset Optimizer if you need that extra bit of performance. 
  
  Need even more? Disable QW's Grass Patch and all but one of the three included grass mods + the associated ENB Complex Grass mod ***WARNING*** This will make grass LODs not match.  
  
@@ -34,9 +38,9 @@ New textures, updated meshes, a more diverse range of enemies, and an update for
 
 # KNOWN ISSUES
  
- This list is usually updated once a month. More bugs can appear and be removed.
+ This list only really gets updated once a month. More bugs can appear and be removed.
  
-ENBSeries may fail to install through Wabbajack. More often than not, this is because Boris updated the binaries without a version change. DM me @Arnold#1526 and I'll just give you the files, just drop them in your Wabbajack download folder.
+ENBSeries may fail to install through Wabbajack. More often than not, this is because Boris updated the binaries without a version change. DM me @Arnold#1526 and I'll give you the files, just drop them in your Wabbajack download folder.
 
 On the off chance that the game doesnt automatically downgrade, you can use the patcher below.
 
@@ -68,15 +72,13 @@ Most of the included textures are Complex Parallax compatible. If an ENB preset 
  
  If any of these lines are missing from the enbseries.ini, you can simply copy and paste the missing lines into the file. It will work just fine.
  
- The list comes with Rudy for NAT 3. Other ENB presets I highly recommend are NAT 3.1, Berserkyr, and Cabbage.
+ The list comes pre-installed with Rudy for NAT 3. Other ENB presets I highly recommend are NAT 3.1, Berserkyr, and Cabbage.
 
 If you want to change the weather to anything other than NAT, Azurite, Vivid Weathers, or Aequinoctium, you should disable ***FWMF for Fantasy Paper Maps Weather and Lighting Fix.esp***
 
 ![image](https://user-images.githubusercontent.com/122011472/224233588-68c316a5-8cc2-4849-aa24-9caad041069c.png)
  
- I didnt originally want to include LODs for performance and compatibility reasons, but that was kind of dumb and lazy on my part. If they hurt your performance, just disable lodgen, texgen, and dyndolod outputs.
- 
- If you wish to generate your own LODs, make sure you disable Flat World Map Framework and all of its add-ons beforehand. They can be found under the ***Flat World Map Framework*** separator near the bottom of the list. After you're done generating, you can re-enable FWMF, but make sure you keep everything from FWMF *below* DynDOLOD and Occlusions in the plugin load order. Your load order should look like this:
+ If you wish to generate your own LODs for whatever reason, make sure you disable Flat World Map Framework and all of its add-ons beforehand. They can be found under the ***Flat World Map Framework*** separator near the bottom of the list. After you're done generating, you can re-enable FWMF, but make sure you keep everything from FWMF *below* DynDOLOD and Occlusions in the plugin load order. Your load order should look like this:
 
 1. DynDOLOD
 2. Occlusions
@@ -96,7 +98,7 @@ Since I dont personally use ReShade, I cant give a very good guide. Thankfully, 
 
 >Join the discord! https://discord.gg/ostim
 
-Patreon, ko-fi, etc for various mod authors featured on this list (@me if i forgot about you, I don't know who does and doesn't have a thing set up)
+Patreon, ko-fi, etc for various mod authors featured on this list (@me if I forgot about you, I don't know who does and doesn't have a thing set up)
  
 >Baka (BHUNP): https://www.patreon.com/BaboFactory
  
