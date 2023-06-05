@@ -2,9 +2,11 @@
 # DESCRIPTION
 
 ***What this isnt***
+
 This isnt an Elysium Remastered clone (no disprespect to the author) with the addition of OStim, nor is it a hyperrealistic soulslike that barely hits 30 fps. It's also not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves.
 
-***What this isnt***
+***What this is***
+
  It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game that stays true to The Elder Scrolls style, while adding plenty of spicy roleplay opportunities :^)
 
 Most, if not all, of the gameplay mods are just simple enhancers to the vanilla Skyrim experience, and a lot of subjective quest mods were avoided because they could cause unnecessary bloat.
