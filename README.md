@@ -97,6 +97,22 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
  Survival is handled by Sunhelm Survival and Camping Lite. These two mods are lightweight, customizable, and entirely optional. You can enable or disable survival through the MCM.
  
+ * Camera
+ 
+ True directional movement and Smoothcam are used to make third person gameplay feel a bit more modern. I included a few smoothcam presets, but theres hundreds that you can download off of Nexus if you dont like either of them (or you can just turn off smoothcam in the MCM). First person is handled by Improved Camera. It's also configured for clippingless first person OStim scenes. True direction movement has a target lock feature that is automatically set to m3 (middle mouse button) but this can be changed in the MCM, along with several other things.
+ 
+ * User Interface
+ 
+ The vanilla UI has been completely overhauled by several, fully customizable mods listed below
+ 
+ 1. SkyHUD
+ 2. TrueHUD
+ 3. MoreHUD
+ 4. A Matter of Time
+ 5. Untarnished UI
+ 
+These can all be configured in their respective MCMs.
+ 
  Almost all of these gameplay mods can be completely ignored, or fully embraced. The choice is yours.
  
  </details>
