@@ -1,5 +1,7 @@
 # Unofficial Ostim Community Modlist
-# DESCRIPTION
+
+<details>
+ <summary>DESCRIPTION</summary>
 
 ***What this isnt***
 
@@ -11,8 +13,10 @@ This is not pornrim with barely clothed women, public masturebation, and sexuall
 
 The gameplay mods are just simple enhancers to the vanilla Skyrim experience. A lot of subjective quest mods were avoided because they could cause unnecessary bloat.
 
+</details>
 
-# PRE/POST INSTALLATION
+<details>
+  <summary>Preinstallation and Performance</summary>
  
  It is recommended that you start with a clean, unmodified, and up to date installation of Skyrim through the Steam store (no GOG, sorry). A modified version may fail to install properly, if at all.
  If you downgraded, validate your files by going to your library, right clicking "The Elder Scrolls V: Skyrim Special Edition", select properties, local files, and then click verify integrity of game files. Alternatively, you can completely uninstall the game and all related files and then reinstall it. After thats done, you can proceed with the installation.
@@ -37,8 +41,10 @@ The gameplay mods are just simple enhancers to the vanilla Skyrim experience. A 
  
  ![image](https://user-images.githubusercontent.com/122011472/224244569-f1a67d98-4e4e-4b3b-9866-47c9e1a47936.png)
 
+ </details>
 
-# KNOWN ISSUES
+<details>
+  <summary>Known issues</summary>
  
  This list only really gets updated once a month. More bugs can appear and be removed.
  
@@ -50,7 +56,10 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
 
  If you find any gamebreaking/major bugs (frequent crashing, infinite loading screens, extreme stuttering, etc), please dm me on Discord @Arnold#1526
  
-# A brief explanation of every gameplay overhaul included
+ </details>
+ 
+<details>
+  <summary>A Brief explanation of the "major" gameplay changes</summary>
 
 
 Melee combat is handled by ADXP + OCPA NG, as well as Valvalis Combat - Visceral Tactics. This is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way. Any of these mods can be uninstalled at any time, provided you know what you're doing. Dodge - MCO is also provided. You can adjust the keybinds for your power attacks and dodge in the MCM.
@@ -66,6 +75,8 @@ Perks are handled by Vokrii. This is an extremely lightweight and minimalistic a
 Lycanthropy and Vampirism are handled by Growl and Sacrilege. These two mods, like Vokrii, make small adjustments to the balance of these "diseases" that allows for more diverse and fun playstyles.
 
 Stealth had a few changes to make the vanilla thief more interesting. Book of Shadows adds several new systems such as fully animated masks, takedowns, and smoke bombs. Take a Peak is also included, and allows you to simply look through keyholes, who knows what youll see inside?. Most of these new systems can be completely ignored, or fully embraced. The choice is yours.
+ 
+ </details>
  
 # ENBs, LODs, Parallax, and all the other fun stuff
 
