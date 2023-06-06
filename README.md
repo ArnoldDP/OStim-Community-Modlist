@@ -3,11 +3,14 @@
 <details>
  <summary>Description</summary>
 
-***What this isnt***
+ ### Description
+ 
+ 
+* What this isnt
 
 This is not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves, nor it is a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall. It's also not an Elysium Remastered clone (no disrespect to the original author) with the small addition of OStim.
 
-***What this is***
+* What this is
 
  It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game that stays true to The Elder Scrolls style, while adding plenty of spicy roleplay opportunities :^)
 
@@ -16,7 +19,7 @@ The gameplay mods are just simple enhancers to the vanilla Skyrim experience. A 
 </details>
 
 <details>
-  <summary>Preinstallation and Performance</summary>
+ <summary>Preinstallation and Requirements</summary>
  
  It is recommended that you start with a clean, unmodified, and up to date installation of Skyrim through the Steam store (no GOG, sorry). A modified version may fail to install properly, if at all.
  If you downgraded, validate your files by going to your library, right clicking "The Elder Scrolls V: Skyrim Special Edition", select properties, local files, and then click verify integrity of game files. Alternatively, you can completely uninstall the game and all related files and then reinstall it. After thats done, you can proceed with the installation.
