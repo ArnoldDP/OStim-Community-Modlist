@@ -60,25 +60,38 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
 <details>
   <summary>A Brief explanation of the "major" gameplay changes</summary>
-
-
+ 
+ 
+ **Melee**
+ 
 Melee combat is handled by ADXP + OCPA NG, as well as Valvalis Combat - Visceral Tactics. This is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way. Any of these mods can be uninstalled at any time, provided you know what you're doing. Dodge - MCO is also provided. You can adjust the keybinds for your power attacks and dodge in the MCM.
 
 Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it would fit the vanilla style the best. You are free to swap it out with anything you'd like, you don't need to run Nemesis or anything.
-
+ 
+ **Magic**
+ 
 Magic has had dozens of new spells added to the game including Hemomancy, Mysticicsm, Abyss, Lunaris, and Natura. I also included Spellsiphon, an incredibly unique set of spells that any mage would love to add to their arsenal (you'll find the book eventually)
 
+ **Races**
+ 
 Racial abilities are covered by Evolution - Skyrim Races Rejuvenated. It makes several small changes to make races feel more unique, and not just reskins with a minor power that youll rarely use.
 
+ **Perks**
+ 
 Perks are handled by Vokrii. This is an extremely lightweight and minimalistic approach to perk overhauls. You can enjoy the small quality of life improvements it makes without being overwhelmed by an absurd number of changes.
 
+ **Vampires and Werewolves** 
+ 
 Lycanthropy and Vampirism are handled by Growl and Sacrilege. These two mods, like Vokrii, make small adjustments to the balance of these "diseases" that allows for more diverse and fun playstyles.
 
+ **Stealth**
+ 
 Stealth had a few changes to make the vanilla thief more interesting. Book of Shadows adds several new systems such as fully animated masks, takedowns, and smoke bombs. Take a Peak is also included, and allows you to simply look through keyholes, who knows what youll see inside?. Most of these new systems can be completely ignored, or fully embraced. The choice is yours.
  
  </details>
  
-# ENBs, LODs, Parallax, and all the other fun stuff
+<details>
+  <summary>ENBs, ReShade and Root Builder</summary>
 
  Managing ENB presets is easier than ever thanks to Root Builder! Install them through MO2 like any other mod, and let Root Builder take care of it. If it doesn't work the first time, reinstall and select [Manual]
  
@@ -108,27 +121,19 @@ If you want to change the weather to anything other than NAT, Azurite, Vivid Wea
 
 ![image](https://user-images.githubusercontent.com/122011472/224233588-68c316a5-8cc2-4849-aa24-9caad041069c.png)
  
- If you wish to generate your own LODs for whatever reason, make sure you disable Flat World Map Framework and all of its add-ons beforehand. They can be found under the ***Flat World Map Framework*** separator near the bottom of the list. After you're done generating, you can re-enable FWMF, but make sure you keep everything from FWMF *below* DynDOLOD and Occlusions in the plugin load order. Your load order should look like this:
-
-1. DynDOLOD
-2. Occlusions
-3. FWMF for Fantasy Paper Maps
-4. FWMF Patches (evlas, weathers, etc)
-4. Additional FWMF Maps
-
-It is highly recommended to read a guide on LOD generation, theres about a quarter million of them for a reason.
-
->You will need to add an argument like-d:"F:\SteamLibrary\steamapps\common\Skyrim Special Edition\Data". Alternatively, you can temporarily change the game data path to the default skyrim directory in the MO2 Paths settings.
-
-Since I dont personally use ReShade, I cant give a very good guide. Thankfully, the legendary Sswaye himself has written an excellent guide on it. Check out his collection! https://www.nexusmods.com/skyrimspecialedition/mods/67966
+Since I dont personally use ReShade, I unfortunately cannot write a very good guide on it. Thankfully, the legendary Sswaye himslef has written an excellent guide. Checck out his collection! https://www.nexusmods.com/skyrimspecialedition/mods/67966
+ 
+ </details>
 
 # Links
 
 >Mega link for the .wabbajack file: https://mega.nz/file/sbtk1RLC#a3WUe8xcOpp01DaiENv2ygrD1E0voaVOsIIkaEoMSsw
 
 >Join the discord! https://discord.gg/qEhSpvUc5Z
+ 
+>Ace's Discord https://discord.gg/ostim
 
-Patreon, ko-fi, etc for various mod authors featured on this list (@me if I forgot about you, I don't know who does and doesn't have a thing set up)
+Patreon, ko-fi, etc for various mod authors featured on this list (@me if I forgot about you)
  
 >Baka (BHUNP): https://www.patreon.com/BaboFactory
  
