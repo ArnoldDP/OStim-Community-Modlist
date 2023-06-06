@@ -91,7 +91,11 @@ Lycanthropy and Vampirism are handled by Growl and Sacrilege. These two mods, li
 
  * Stealth
  
-Stealth had a few changes to make the vanilla thief more interesting. Book of Shadows adds several new systems such as fully animated masks, takedowns, and smoke bombs. Take a Peak is also included, and allows you to simply look through keyholes, who knows what youll see inside?. Most of these new systems can be completely ignored, or fully embraced. The choice is yours.
+Stealth had a few changes to make the vanilla thief more interesting. Book of Shadows adds several new systems such as takedowns, smokebombs, and more. Take a Peak is also included, and allows you to simply look through keyholes, maybe you'll see something fun? :^)
+ 
+ * Survival
+ 
+ Survival is handled by Sunhelm Survival and Camping Lite. These two mods are lightweight, customizable, and entirely optional. You can enable or disable survival through the MCM.
  
  </details>
  
