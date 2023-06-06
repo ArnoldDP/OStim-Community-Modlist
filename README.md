@@ -129,7 +129,7 @@ Since I dont personally use ReShade, I unfortunately cannot write a very good gu
 
 >Mega link for the .wabbajack file: https://mega.nz/file/sbtk1RLC#a3WUe8xcOpp01DaiENv2ygrD1E0voaVOsIIkaEoMSsw
 
->Join the discord! https://discord.gg/qEhSpvUc5Z
+>VersuchDrei'ss discord https://discord.gg/qEhSpvUc5Z
  
 >Ace's Discord https://discord.gg/ostim
 
