@@ -75,7 +75,7 @@ Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it
  
  * Magic
  
-Magic has had dozens of new spells added to the game including Hemomancy, Mysticicsm, Abyss, Lunaris, and Natura. I also included Spellsiphon, an incredibly unique set of spells that any mage would love to add to their arsenal (you'll find the book eventually)
+Magic has had dozens of new spells added to the game including Hemomancy, Mysticicsm, Abyss, Lunaris, and Natura. I also included Spellsiphon, an incredibly unique gameplay mod that can automatically integrate both vanilla and modded spells into its system should you choose to use it, the book can be found in High Hrothgar.
 
  * Races
  
