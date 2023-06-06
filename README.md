@@ -69,7 +69,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
  * Melee
  
-Melee combat is handled by ADXP + OCPA NG, as well as Valvalis Combat - Visceral Tactics. This is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way. Dodge - MCO is also provided. You can adjust these mods and their keybinds in their respective MCMs.
+Melee combat is handled by by ADXP + One Click Power Attack NG, as well as Valvalis Combat - Visceral Tactics. This is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way. Dodge - MCO is also provided. You can adjust these mods and their keybinds in their respective MCMs.
 
 Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it would fit the best, but you are free to swap it out with any ADXP/MCO compatible moveset you'd like.
  
