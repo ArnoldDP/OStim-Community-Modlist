@@ -159,19 +159,19 @@ Since I dont personally use ReShade, I unfortunately cannot write a very good gu
  
 Patreon, ko-fi, etc for various mod authors featured on this list (@me if I forgot about you)
  
+>Ace [Patreon] (various): https://www.patreon.com/skyrimaceanimations
+
+>Ace [ko-fi] (various): https://ko-fi.com/skyrimaceanimations
+ 
+>Aietos (various): https://ko-fi.com/aietos
+ 
 >Baka (BHUNP): https://www.patreon.com/BaboFactory
  
 >Kreiste (HIMBO): https://www.patreon.com/kreiste
 
 >Moon (animations): https://ko-fi.com/callmemoon
- 
->Ace [Patreon] (various): https://www.patreon.com/skyrimaceanimations
-
->Ace [ko-fi] (various): https://ko-fi.com/skyrimaceanimations
 
 >Silver (milfactory): https://ko-fi.com/silvermilfactory
-
->Aietos (various): https://ko-fi.com/aietos
 
 >Sswaye (sswaye): https://ko-fi.com/katsusswaye
 
