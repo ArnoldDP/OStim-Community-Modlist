@@ -21,8 +21,12 @@ The gameplay mods are just simple enhancers to the vanilla Skyrim experience. A 
 <details>
  <summary>Preinstallation and Requirements</summary>
  
+ ### Preinstallation
+ 
  It is recommended that you start with a clean, unmodified, and up to date installation of Skyrim through the Steam store (no GOG, sorry). A modified version may fail to install properly, if at all.
  If you downgraded, validate your files by going to your library, right clicking "The Elder Scrolls V: Skyrim Special Edition", select properties, local files, and then click verify integrity of game files. Alternatively, you can completely uninstall the game and all related files and then reinstall it. After thats done, you can proceed with the installation.
+ 
+ ### Requirements
  
  The only hard requirements to run this modlist are a CPU with AVX2 support and ~260 gigs of storage available.
  
@@ -38,56 +42,54 @@ The gameplay mods are just simple enhancers to the vanilla Skyrim experience. A 
 > 
 > Obviously if your hardware is better, there shouldn't be any issues.
  
- I tried to keep the textures around 1-2k, but female skin textures, and a few misc items are 4k. These can be downscaled using Cathedral Asset Optimizer if you need that extra bit of performance. 
+ I tried to keep the textures around 1-2k, but female skin textures and a few misc items are 4k. These can be downscaled using Cathedral Asset Optimizer if you need that extra bit of performance. 
  
- Need even more? Disable QW's Grass Patch and all but one of the three included grass mods + the associated ENB Complex Grass mod ***WARNING*** This will make grass LODs not match.  
- 
- ![image](https://user-images.githubusercontent.com/122011472/224244569-f1a67d98-4e4e-4b3b-9866-47c9e1a47936.png)
-
  </details>
-
+ 
 <details>
   <summary>Known issues</summary>
  
- This list only really gets updated once a month. More bugs can appear and be removed.
+ ### Bugs and Installation Failures
  
-ENBSeries may fail to install through Wabbajack. More often than not, this is because Boris updated the binaries without a version change. DM me @Arnold#1526 and I'll give you the files, just drop them in your Wabbajack download folder.
+ This list only really gets updated whenever any of the major mods it utilizes are updated or if I see something that should be added to it. If you find any major/gamebreaking bugs, please report them to me on discord @Arnold#1526
+ 
+ENBSeries may fail to install through Wabbajack. More often than not, this is because Boris updated the binaries without a version change. DM me and I'll give you the files, just drop them in your Wabbajack download folder.
 
 On the off chance that the game doesnt automatically downgrade, you can use the patcher below.
 
 https://www.nexusmods.com/skyrimspecialedition/mods/57618
-
- If you find any gamebreaking/major bugs (frequent crashing, infinite loading screens, extreme stuttering, etc), please dm me on Discord @Arnold#1526
  
  </details>
  
 <details>
   <summary>A Brief explanation of the "major" gameplay changes</summary>
  
+ ### Gameplay overhauls and rebalancing
  
- **Melee**
+ 
+ * Melee
  
 Melee combat is handled by ADXP + OCPA NG, as well as Valvalis Combat - Visceral Tactics. This is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way. Any of these mods can be uninstalled at any time, provided you know what you're doing. Dodge - MCO is also provided. You can adjust the keybinds for your power attacks and dodge in the MCM.
 
 Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it would fit the vanilla style the best. You are free to swap it out with anything you'd like, you don't need to run Nemesis or anything.
  
- **Magic**
+ * Magic
  
 Magic has had dozens of new spells added to the game including Hemomancy, Mysticicsm, Abyss, Lunaris, and Natura. I also included Spellsiphon, an incredibly unique set of spells that any mage would love to add to their arsenal (you'll find the book eventually)
 
- **Races**
+ * Races
  
 Racial abilities are covered by Evolution - Skyrim Races Rejuvenated. It makes several small changes to make races feel more unique, and not just reskins with a minor power that youll rarely use.
 
- **Perks**
+ * Perks
  
 Perks are handled by Vokrii. This is an extremely lightweight and minimalistic approach to perk overhauls. You can enjoy the small quality of life improvements it makes without being overwhelmed by an absurd number of changes.
 
- **Vampires and Werewolves** 
+ * Vampires and Werewolves
  
 Lycanthropy and Vampirism are handled by Growl and Sacrilege. These two mods, like Vokrii, make small adjustments to the balance of these "diseases" that allows for more diverse and fun playstyles.
 
- **Stealth**
+ * Stealth
  
 Stealth had a few changes to make the vanilla thief more interesting. Book of Shadows adds several new systems such as fully animated masks, takedowns, and smoke bombs. Take a Peak is also included, and allows you to simply look through keyholes, who knows what youll see inside?. Most of these new systems can be completely ignored, or fully embraced. The choice is yours.
  
@@ -95,6 +97,8 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
 <details>
   <summary>ENBs, ReShade and Root Builder</summary>
+ 
+ ### ENB
 
  Managing ENB presets is easier than ever thanks to Root Builder! Install them through MO2 like any other mod, and let Root Builder take care of it. If it doesn't work the first time, reinstall and select [Manual]
  
@@ -124,7 +128,9 @@ If you want to change the weather to anything other than NAT, Azurite, Vivid Wea
 
 ![image](https://user-images.githubusercontent.com/122011472/224233588-68c316a5-8cc2-4849-aa24-9caad041069c.png)
  
-Since I dont personally use ReShade, I unfortunately cannot write a very good guide on it. Thankfully, the legendary Sswaye himslef has written an excellent guide. Checck out his collection! https://www.nexusmods.com/skyrimspecialedition/mods/67966
+### ReShade
+ 
+Since I dont personally use ReShade, I unfortunately cannot write a very good guide on it. Thankfully, the legendary Sswaye himself has written an excellent guide. Checck out his collection! https://www.nexusmods.com/skyrimspecialedition/mods/67966
  
  </details>
 
@@ -138,6 +144,8 @@ Since I dont personally use ReShade, I unfortunately cannot write a very good gu
  
  <details>
   <summary>Community note</summary>
+  
+  ### There are two discords
 
   Since there can't technically be an "official" OStim discord (to my knowledge), both of the servers listed are "official". Feel free to join both.
   
