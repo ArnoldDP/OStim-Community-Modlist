@@ -14,7 +14,7 @@ This is not pornrim with barely clothed women, public masturebation, and sexuall
 
  It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game that stays true to The Elder Scrolls style, while adding plenty of spicy roleplay opportunities :^)
 
-The gameplay mods are just simple enhancers to the vanilla Skyrim experience. A lot of subjective quest mods were avoided because they could cause unnecessary bloat.
+The gameplay mods are customizable enhancers to the vanilla Skyrim experience. A lot of subjective quest mods were avoided because they could cause unnecessary bloat.
 
 </details>
 
@@ -42,7 +42,7 @@ The gameplay mods are just simple enhancers to the vanilla Skyrim experience. A 
 > 
 > Obviously if your hardware is better, there shouldn't be any issues.
  
- I tried to keep the textures around 1-2k, but female skin textures and a few misc items are 4k. These can be downscaled using Cathedral Asset Optimizer if you need that extra bit of performance. 
+ I tried to keep the textures around 2k, but a few misc items, notably mountains and female skin textures, are higher resolution. While the graphical fidelity isn't anywhere near as high as some modlists, it accomplishes my goal of making a list that looks nice, runs nice, and "feels" nice.
  
  </details>
  
@@ -101,6 +101,35 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
  </details>
  
+  <details>
+  <summary>OStim</summary>
+  
+  ### OStim
+  
+  I Tried as hard as I could to integrate this in way that makes sense and doesnt disrupt gameplay. It isnt perfect, but its getting there. We'd be here all day if I listed every mod being used, so I'll just go over a few of my personal favorites
+ 
+ * Rift's Rest
+ 
+ A Witcher style brothel located in Riften. There's a few short stories centered around it that you might enjoy. 
+ 
+ * OStim NPCs
+ 
+ Allows NPCs to engage in scenes without your input. You might find some bandits having fun in a cave and you might hear some noises coming from a locked door in your local inn
+ 
+ * OStim Solutions
+ 
+ An adaptation of an old mod called Sexlab Solutions. You can finally roleplay as a D&D Bard.
+ 
+ * OStim Lovers
+ 
+ This is a mod that adds high quality fully voiced romance options to several vanilla NPCs. It is mainly intended for a female PC, but gay is okay so go ahead and have fun!
+  
+> OStim and its add-ons are highly configurable through their respective MCMs, most of them are neatly grouped together and can be found by just typing "O" in the MCM filter.
+ 
+ Remember, OStim isnt just about sex, it adds a lot more depth and realism to the game.
+  
+ </details>
+ 
 <details>
   <summary>ENBs, ReShade and Root Builder</summary>
  
@@ -139,6 +168,7 @@ If you want to change the weather to anything other than NAT, Azurite, Vivid Wea
 Since I dont personally use ReShade, I unfortunately cannot write a very good guide on it. Thankfully, the legendary Sswaye himself has written an excellent guide. Checck out his collection! https://www.nexusmods.com/skyrimspecialedition/mods/67966
  
  </details>
+ 
 
 # Links
 
