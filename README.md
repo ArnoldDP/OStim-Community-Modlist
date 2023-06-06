@@ -147,6 +147,19 @@ These can all be configured in their respective MCMs.
  </details>
  
 <details>
+ <summary>Audio</summary>
+ 
+ ### SFX
+ 
+ Every vanilla sound has been improved or changed. A lot of these changes can be subjective, but luckily they can all be easily disabled by scrolling down to the ***Sounds*** seperator in MO2
+ 
+ ### Music
+ 
+ Just like SFX, the vanilla audio has been improved and a lot of new music has been added. Also, like the SFX changes, the additions can be incredibly subjective and are easily disabled by scrolling down to the ***Sounds*** in MO2
+ 
+ </details>
+ 
+<details>
   <summary>ENBs, ReShade and Root Builder</summary>
  
  ### ENB
@@ -181,7 +194,7 @@ If you want to change the weather to anything other than NAT, Azurite, Vivid Wea
  
 ### ReShade
  
-Since I dont personally use ReShade, I unfortunately cannot write a very good guide on it. Thankfully, the legendary Sswaye himself has written an excellent guide. Checck out his collection! https://www.nexusmods.com/skyrimspecialedition/mods/67966
+Since I dont personally use ReShade, I unfortunately cannot write a very good guide on it. Thankfully, the legendary Sswaye himself has written an excellent guide. Check out his collection! https://www.nexusmods.com/skyrimspecialedition/mods/78502
  
  </details>
  
