@@ -9,7 +9,7 @@ This is not pornrim with barely clothed women, public masturebation, and sexuall
 
  It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game that stays true to The Elder Scrolls style, while adding plenty of spicy roleplay opportunities :^)
 
-Most, if not all, of the gameplay mods are just simple enhancers to the vanilla Skyrim experience. A lot of subjective quest mods were avoided because they could cause unnecessary bloat.
+The gameplay mods are just simple enhancers to the vanilla Skyrim experience. A lot of subjective quest mods were avoided because they could cause unnecessary bloat.
 
 
 # PRE/POST INSTALLATION
@@ -49,6 +49,23 @@ On the off chance that the game doesnt automatically downgrade, you can use the 
 https://www.nexusmods.com/skyrimspecialedition/mods/57618
 
  If you find any gamebreaking/major bugs (frequent crashing, infinite loading screens, extreme stuttering, etc), please dm me on Discord @Arnold#1526
+ 
+# A brief explanation of every gameplay overhaul included
+
+
+Melee combat is handled by ADXP + OCPA NG, as well as Valvalis Combat - Visceral Tactics. This is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way. Any of these mods can be uninstalled at any time, provided you know what you're doing. Dodge - MCO is also provided. You can adjust the keybinds for your power attacks and dodge in the MCM.
+
+Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it would fit the vanilla style the best. You are free to swap it out with anything you'd like, you don't need to run Nemesis or anything.
+
+Magic has had dozens of new spells added to the game including Hemomancy, Mysticicsm, Abyss, Lunaris, and Natura. I also included Spellsiphon, an incredibly unique set of spells that any mage would love to add to their arsenal (you'll find the book eventually)
+
+Racial abilities are covered by Evolution - Skyrim Races Rejuvenated. It makes several small changes to make races feel more unique, and not just reskins with a minor power that youll rarely use.
+
+Perks are handled by Vokrii. This is an extremely lightweight and minimalistic approach to perk overhauls. You can enjoy the small quality of life improvements it makes without being overwhelmed by an absurd number of changes.
+
+Lycanthropy and Vampirism are handled by Growl and Sacrilege. These two mods, like Vokrii, make small adjustments to the balance of these "diseases" that allows for more diverse and fun playstyles.
+
+Stealth had a few changes to make the vanilla thief more interesting. Book of Shadows adds several new systems such as fully animated masks, takedowns, and smoke bombs. Take a Peak is also included, and allows you to simply look through keyholes, who knows what youll see inside?. Most of these new systems can be completely ignored, or fully embraced. The choice is yours.
  
 # ENBs, LODs, Parallax, and all the other fun stuff
 
