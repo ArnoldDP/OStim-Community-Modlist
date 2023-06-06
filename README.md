@@ -69,9 +69,9 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
  * Melee
  
-Melee combat is handled by ADXP + OCPA NG, as well as Valvalis Combat - Visceral Tactics. This is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way. Any of these mods can be uninstalled at any time, provided you know what you're doing. Dodge - MCO is also provided. You can adjust the keybinds for your power attacks and dodge in the MCM.
+Melee combat is handled by ADXP + OCPA NG, as well as Valvalis Combat - Visceral Tactics. This is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way. Dodge - MCO is also provided. You can adjust these mods and their keybinds in their respective MCMs.
 
-Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it would fit the vanilla style the best. You are free to swap it out with anything you'd like, you don't need to run Nemesis or anything.
+Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it would fit the best, but you are free to swap it out with any ADXP/MCO compatible moveset you'd like.
  
  * Magic
  
@@ -96,6 +96,8 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  * Survival
  
  Survival is handled by Sunhelm Survival and Camping Lite. These two mods are lightweight, customizable, and entirely optional. You can enable or disable survival through the MCM.
+ 
+ Almost all of these gameplay mods can be completely ignored, or fully embraced. The choice is yours.
  
  </details>
  
