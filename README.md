@@ -132,7 +132,14 @@ Since I dont personally use ReShade, I unfortunately cannot write a very good gu
 >VersuchDrei's discord https://discord.gg/qEhSpvUc5Z
  
 >Ace's Discord https://discord.gg/ostim
+ 
+ <details>
+  <summary>Community note</summary>
 
+  Since there can't technically be an "official" OStim discord (to my knowledge), both of the servers listed are "official". Feel free to join both.
+  
+ </details>
+ 
 Patreon, ko-fi, etc for various mod authors featured on this list (@me if I forgot about you)
  
 >Baka (BHUNP): https://www.patreon.com/BaboFactory
