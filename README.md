@@ -209,9 +209,9 @@ Patreon, ko-fi, etc for various mod authors featured on this list (@me if I forg
  
 >VersuchDrei (various): https://www.patreon.com/VersuchDrei
  
->Me: Lol
- 
  <Details>
   <summary>donations</summary>
+ 
   I am simply compiling a list that I would be making for myself anyways. If you feel the need to donate, spin a wheel and pick any of the amazing authors above. They have put in hundreds, if not thousands, of hours of work to make Skyrim as good of a game as it is today.
+  
   </details>
