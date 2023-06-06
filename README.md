@@ -1,7 +1,7 @@
 # Unofficial Ostim Community Modlist
 
 <details>
- <summary>DESCRIPTION</summary>
+ <summary>Description</summary>
 
 ***What this isnt***
 
