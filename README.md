@@ -134,7 +134,7 @@ These can all be configured in their respective MCMs.
  
  * OStim Solutions
  
- An adaptation of an old mod called Sexlab Solutions. You can finally roleplay as a D&D Bard.
+ An adaptation of an old mod called Sexlab Solutions. You can finally roleplay as a D&D Bard, and fuck your way out of everything
  
  * OStim Lovers
  
