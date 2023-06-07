@@ -58,9 +58,11 @@ The gameplay mods are customizable enhancers to the vanilla Skyrim experience. A
  
  ### Bugs and Installation Failures
  
+ * **Low FPS In Whiterun** This isn't really a bug, just a side effect of the exterior mods and the density of the grass. It's potentially the heaviest area in the game.
+ 
  This list only really gets updated whenever any of the major mods it uses do, so small bugs may survive for a while. If you find any major/gamebreaking bugs, please report them to me on discord @Arnold#1526
  
-If for any reason the Wabbajack installation fails, please DM me. More often than not this is because Boris put out an update for ENB without a version change, but theres always the chance that I screwed something up.
+If for any reason the Wabbajack installation fails, please DM me
 
 On the off chance that the game doesnt automatically downgrade, you can use the patcher below.
 
