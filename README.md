@@ -51,9 +51,9 @@ The gameplay mods are customizable enhancers to the vanilla Skyrim experience. A
  
  ### Bugs and Installation Failures
  
- This list only really gets updated whenever any of the major mods, so small bugs may survive for a while. If you find any major/gamebreaking bugs, please report them to me on discord @Arnold#1526
+ This list only really gets updated whenever any of the major mods it uses do, so small bugs may survive for a while. If you find any major/gamebreaking bugs, please report them to me on discord @Arnold#1526
  
-ENBSeries may fail to install through Wabbajack. More often than not, this is because Boris updated the binaries without a version change. DM me and I'll give you the files, just drop them in your Wabbajack download folder.
+If for any reason the Wabbajack installation fails, please DM me. More often than not this is because Boris put out an update for ENB without a version change, but theres always the chance that I screwed something up.
 
 On the off chance that the game doesnt automatically downgrade, you can use the patcher below.
 
