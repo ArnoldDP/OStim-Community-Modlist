@@ -1,5 +1,9 @@
 # Unofficial Ostim Community Modlist
 
+# Disclaimer
+
+Ace's post is a little bit outdated. The modlist has grown to be more of a total game overhaul at this point. It now features several rather subjective changes, and while you are still absolutely able to modify it in any way you want, it may require slightly more in depth knowledge. The list is also now totalling around 250 gigs, a lot of this can be saved by just clearing the downloads folder after its done installing, but the jump from 140 to 250 may still be shocking to people who initially read his post.
+
 <details>
  <summary>Description</summary>
 
@@ -201,7 +205,7 @@ Since I dont personally use ReShade, I unfortunately cannot write a very good gu
 
 # Links
 
->Mega link for the .wabbajack file: https://mega.nz/file/sbtk1RLC#a3WUe8xcOpp01DaiENv2ygrD1E0voaVOsIIkaEoMSsw
+>Mega link for the .wabbajack file: https://mega.nz/file/gWs3HJKQ#_pFM2oh1vgBjlUe9I5cq_eXNYzG4XSWEo7q_kHYPZ7U
 
 >VersuchDrei's discord https://discord.gg/qEhSpvUc5Z
  
