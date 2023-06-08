@@ -226,7 +226,7 @@ Since I dont personally use ReShade, I unfortunately cannot write a very good gu
   
   ### There are two discords
 
-  Since there can't technically be an "official" OStim discord (to my knowledge), both of the servers listed are "official". Feel free to join both.
+  I do not care about the drama, I will not take part in it. Feel free to join both discords or just one, it makes no difference to me.
   
  </details>
  
