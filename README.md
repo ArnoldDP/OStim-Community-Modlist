@@ -124,6 +124,7 @@ These can all be configured in their respective MCMs.
  * Followers
  
  Several new followers have been added to the game, some of which even have OStim compatible romance options *wink*
+ 
  Nethers Follower Framework is used to manage non-custom followers and has several options that can be configured in the Follower Framework MCM. 
  
  Almost all of these gameplay mods can be completely ignored, or fully embraced. The choice is yours.
