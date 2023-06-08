@@ -15,13 +15,13 @@ In the future I might put together a stripped down version with just the bare es
  
 * What this isnt
 
-This is not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves, nor it is a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall. It's also not an Elysium Remastered clone (no disrespect to the original author) with the small addition of OStim.
+This is not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves, nor it is a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall. It's also not an Elysium Remastered clone (no disrespect to the author) with the small addition of OStim.
 
 * What this is
 
  It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game that stays true to The Elder Scrolls style, while adding plenty of spicy roleplay opportunities :^)
 
-The gameplay mods are customizable enhancers to the vanilla Skyrim experience. A lot of subjective quest mods were avoided because they could cause unnecessary bloat.
+The gameplay mods are customizable enhancers to the experience. A lot of subjective quest mods were avoided because they could cause unnecessary bloat.
 
 </details>
 
@@ -35,7 +35,7 @@ The gameplay mods are customizable enhancers to the vanilla Skyrim experience. A
  
  ### Requirements
  
- The only hard requirements to run this modlist are a CPU with AVX2 support and ~260 gigs of storage available.
+ The only hard requirements to run this modlist are a CPU with AVX2 support and ~250 gigs of storage available.
  
 > Recommended specs for 1080p:
 > 
@@ -49,7 +49,7 @@ The gameplay mods are customizable enhancers to the vanilla Skyrim experience. A
 > 
 > Obviously if your hardware is better, there shouldn't be any issues.
  
- I tried to keep the textures around 2k, but a few misc items, notably mountains and female skin textures, are higher resolution. While the graphical fidelity isn't anywhere near as high as some modlists, it accomplishes my goal of making a list that looks nice, runs nice, and "feels" nice.
+ I tried to keep the textures around 2k, but a few misc items, notably mountains and skin textures, are higher resolution. While the graphical fidelity isn't anywhere near as high as some modlists, it accomplishes my goal of making a list that looks nice, runs nice, and "feels" nice.
  
  </details>
  
@@ -78,13 +78,13 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
  * Melee
  
-Melee combat is handled by by ADXP + One Click Power Attack NG, as well as Valvalis Combat - Visceral Tactics. This is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way. Dodge - MCO is also provided. You can adjust these mods and their keybinds in their respective MCMs.
+Melee combat is handled by by ADXP + One Click Power Attack NG, as well as Valvalis Combat - Visceral Tactics. This is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way. to introduce new mechanics like timed blocks/attacks, stamina based combat, and better AI. Dodge - MCO/DXP is also included becuase of course it is, who do you think I am? OCPA NG and Dodge both need to be configured by you in their respective MCMs.
 
 Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it would fit the best, but you are free to swap it out with any ADXP/MCO compatible moveset you'd like.
  
  * Magic
  
-Magic has had dozens of new spells added to the game including Hemomancy, Mysticicsm, Abyss, Lunaris, and Natura. I also included Spellsiphon, an incredibly unique gameplay mod that can automatically integrate both vanilla and modded spells into its system should you choose to use it, the book can be found in High Hrothgar.
+Magic has had dozens of new spells added to the game including Hemomancy, Mysticicsm, Abyss, Lunaris, and Natura. I also included Spellsiphon, an incredibly unique gameplay mod that can automatically integrate both vanilla and modded spells into its system should you choose to use it.
 
  * Races
  
@@ -104,7 +104,7 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
  * Survival
  
- Survival is handled by Sunhelm Survival and Camping Lite. These two mods are lightweight, customizable, and entirely optional. You can enable or disable survival through the MCM.
+ Survival is handled by Sunhelm Survival and Camping Lite. These two mods are lightweight, customizable, and entirely optional. There's a small quest that involves sleeping in a bed if you'd like to start survival mode, but you can also enable/disable it through the MCM.
  
  * Camera
  
@@ -112,15 +112,19 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
  * User Interface
  
- The vanilla UI has been completely overhauled by several, fully customizable mods listed below
+ The vanilla UI has been completely overhauled by several, fully customizable mods listed below:
  
  1. SkyHUD
  2. TrueHUD
  3. MoreHUD
  4. A Matter of Time
- 5. Untarnished UI
  
 These can all be configured in their respective MCMs.
+ 
+ * Followers
+ 
+ Several new followers have been added to the game, some of which even have OStim compatible romance options *wink*
+ Nethers Follower Framework is used to manage non-custom followers and has several options that can be configured in the Follower Framework MCM. 
  
  Almost all of these gameplay mods can be completely ignored, or fully embraced. The choice is yours.
  
@@ -131,7 +135,7 @@ These can all be configured in their respective MCMs.
   
   ### OStim
   
-  I Tried as hard as I could to integrate this in way that makes sense and doesnt disrupt gameplay. It isnt perfect, but its getting there. We'd be here all day if I listed every mod being used, so I'll just go over a few of my personal favorites
+  I tried as hard as I could to integrate this in way that makes sense and doesnt disrupt gameplay. It isnt perfect, but its getting there. We'd be here all day if I listed every mod being used, so I'll just go over a few of my personal favorites.
  
  * Rift's Rest
  
@@ -149,9 +153,9 @@ These can all be configured in their respective MCMs.
  
  This is a mod that adds high quality fully voiced romance options to several vanilla NPCs. It is mainly intended for a female PC, but gay is okay so go ahead and have fun!
   
-> OStim and its add-ons are highly configurable through their respective MCMs, most of them are neatly grouped together and can be found by just typing "O" in the MCM filter.
+> OStim and its add-ons are configurable through their respective MCMs, most of them are neatly grouped together and can be found by just typing "O" in the MCM filter.
  
- Remember, OStim isnt just about sex, it adds a lot more depth and realism to the game.
+ Remember, OStim isnt just about sex, it adds another level of depth and realism to the game.
   
  </details>
  
