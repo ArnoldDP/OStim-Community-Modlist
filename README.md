@@ -221,7 +221,7 @@ Since I dont personally use ReShade, I unfortunately cannot write a very good gu
 
 # Links
 
->Mega link for the .wabbajack file: https://mega.nz/file/gWs3HJKQ#_pFM2oh1vgBjlUe9I5cq_eXNYzG4XSWEo7q_kHYPZ7U
+>Mega link for the .wabbajack file: https://mega.nz/file/AeUVXAqQ#AHqN36Ii0wj-OYYFNtVx7wjaqHilWeCT9k3_BbnuLa8
 
 >VersuchDrei's discord https://discord.gg/qEhSpvUc5Z
  
