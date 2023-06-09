@@ -60,7 +60,7 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
  
  * **Low FPS In Whiterun** This isn't really a bug, just a side effect of the exterior mods and the density of the grass. It's potentially the heaviest area in the game.
  
- * **weird road thing in southwoods district** working on it
+ * **weird road thing in southwoods district** Working on it.
  
  This list only really gets updated whenever any of the major mods it uses do, so small bugs may survive for a while. If you find any major/gamebreaking bugs, please report them to me on discord @Arnold#1526
  
