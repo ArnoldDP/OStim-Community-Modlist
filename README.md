@@ -177,7 +177,7 @@ These can all be configured in their respective MCMs.
  
  ### Music
  
- Just like SFX, the vanilla audio has been improved and a lot of new music has been added. Also, like the SFX changes, the additions can be incredibly subjective and are easily disabled by scrolling down to the ***Sounds*** in MO2
+ Just like SFX, the vanilla audio has been improved and a lot of new music has been added. Also, like the SFX changes, the additions can be incredibly subjective and are easily disabled by scrolling down to the ***Sounds*** seperator in MO2
  
  </details>
  
