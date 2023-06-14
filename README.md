@@ -49,7 +49,11 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
 > 
 > Obviously if your hardware is better, there shouldn't be any issues.
  
- I tried to keep the textures around 2k, but a few misc items, notably mountains and skin textures, are higher resolution. While the graphical fidelity isn't anywhere near as high as some modlists, it accomplishes my goal of making a list that looks nice, runs nice, and "feels" nice.
+ I tried to keep the textures around 1-2k, but a few misc items, notably mountains and skin textures, are higher resolution. While the graphical fidelity isn't anywhere near as high as some modlists, it accomplishes my goal of making a list that looks nice, runs nice, and "feels" nice.
+ 
+ ### Previous Versions
+ 
+ If you were using a previous version of this list, it is recommended that you delete everything but the downloads folder before you install the new version. It's also recommended to start a completely new save, if you really need to use your current save you can clean your save using Fallrim tools, but this may be unstable.
  
  </details>
  
