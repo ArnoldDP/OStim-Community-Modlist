@@ -120,7 +120,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
  * Melee
  
-Melee combat is handled by by ADXP + One Click Power Attack NG, as well as Valvalis Combat - Visceral Tactics. This is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way. to introduce new mechanics like timed blocks/attacks, stamina based combat, and better AI. Dodge - MCO/DXP is also included becuase of course it is, who do you think I am? OCPA NG and Dodge both need to be configured by you in their respective MCMs.
+Melee combat is handled by ADXP/MCO + One Click Power Attack NG, and Valvalis Combat - Visceral Tactics. Valvalis is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way and introduce new mechanics like timed blocks/attacks, stamina based combat, and better AI. Dodge - MCO/DXP is also included becuase of course it is, who do you think I am? OCPA NG and Dodge both need to be configured by you in their respective MCMs.
 
 Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it would fit the best, but you are free to swap it out with any ADXP/MCO compatible moveset you'd like.
  
@@ -130,7 +130,7 @@ Magic has had dozens of new spells added to the game including Hemomancy, Mystic
 
  * Races
  
-Racial abilities are covered by Evolution - Skyrim Races Rejuvenated. It makes several small changes to make races feel more unique, and not just reskins with a minor power that youll rarely use.
+Racial abilities are covered by a combination of Mannaz and Freyr. These mods overhaul the generic racial abilities and provide unique standing stone abilities based on your race, making this part of character creation much more important.
 
  * Perks
  
