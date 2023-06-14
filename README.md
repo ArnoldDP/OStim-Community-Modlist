@@ -53,6 +53,38 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
  
  </details>
  
+ <details>
+   <summary>Post-installation</summary>
+ 
+### Alternate Start
+ 
+ I didn't go with the generic alternate start because I'm super funny and quirky. Instead, Realm of Lorkhan is used. You will immediately be taken to the character creation screen. After creating and naming your murderhobo, walk around and explore the realm for a few minutes while all of the mods load in. If you get a message like "OStim not ready for installation", don't worry, its just script lag.
+ 
+ ### Game settings and MCM
+ 
+* Audio
+ 
+Audio balance is not preconfigured, if you're fine with the base audio settings, then you have nothing to worry about. If you're not, open up the audio settings and change it to your liking.
+ 
+* Open Animation Replacer
+ 
+ The default key to open the menu for this is "o", this conflicts with OBody's default key. Open the menu and click the settings button on the bottom right, then change the key to something that doesn't get in the way. Since you're most likely not going to be opening this very often, I'd recommend a key thats out of the way and won't conflict with other keybinds
+ 
+* Improved Camera
+ 
+ While the OStim fpv camera settings do come pre-installed, the camera still uses the default settings until you change it. To open up the Improved Camera menu, just hold shift and hit the "home" key on your keyboard. You can either use the OStim camera settings (recommended) or modify it in any way you'd like
+ 
+* OSearch
+ 
+ This is a simple animation selector for OStim. It does not include every animation, but its there for the people that want it. It's default key is backslash/right bracket.
+ 
+* MCM
+ 
+ None of the MCM Settings come preconfigured. Here you can modify your keybinds for Dodge, the way OCPA NG works, survival mode, almost every gameplay mod, and much more. 
+ 
+ </details>
+ 
+ 
 <details>
   <summary>Known issues</summary>
  
@@ -60,11 +92,13 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
  
  * **Low FPS In Whiterun:** This isn't really a bug, just a side effect of the exterior mods and the density of the grass. It's potentially the heaviest area in the game.
  
- * **weird road thing in southwoods district:** Working on it
+ * **weird road thing in southwoods district:** Fixed
  
  * **Random Tree Billboard in x place:** Working on it
  
- * **Crashing in Eastmarch when opening the map:** Working on it
+ * **Crashing in Eastmarch when opening the map:** Fixed (?)
+ 
+ * **Strange missing texture in witchmist grove:** Working on it
  
  * **Weird AI Pathing in Whiterun:** Most likely a navmesh problem, working on it
  
@@ -225,9 +259,9 @@ Since I dont personally use ReShade, I unfortunately cannot write a very good gu
 
 >Mega link for the .wabbajack file: https://mega.nz/file/AeUVXAqQ#AHqN36Ii0wj-OYYFNtVx7wjaqHilWeCT9k3_BbnuLa8
 
->VersuchDrei's discord https://discord.gg/qEhSpvUc5Z
+>VersuchDrei's discord (OStim NG Official) https://discord.gg/qEhSpvUc5Z
  
->Ace's Discord https://discord.gg/ostim
+>Ace's Discord (OStim NG Community) https://discord.gg/ostim
  
  <details>
   <summary>Community note</summary>
