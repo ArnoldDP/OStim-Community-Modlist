@@ -307,6 +307,8 @@ Patreon, ko-fi, etc for various mod authors featured on this list (@me if I forg
 >Silver (milfactory): https://ko-fi.com/silvermilfactory
 
 >Sswaye (sswaye): https://ko-fi.com/katsusswaye
+ 
+>Urbon (various): https://ko-fi.com/urbon
 
 >Vaenia (OStim Lovers): https://www.patreon.com/Vaenia121
  
@@ -315,6 +317,6 @@ Patreon, ko-fi, etc for various mod authors featured on this list (@me if I forg
  <Details>
   <summary>donations</summary>
  
-  I am simply compiling a list that I would be making for myself anyways. If you feel the need to donate, spin a wheel and pick any of the amazing authors above. They have put in hundreds, if not thousands, of hours of work to make Skyrim as good of a game as it is today.
+  I am simply compiling a list that I would be making for myself anyways. If you feel the need to donate, spin a wheel and pick any of the amazing authors featured in this list. They have put in hundreds, if not thousands, of hours of work to make Skyrim as good of a game as it is today.
   
   </details>
