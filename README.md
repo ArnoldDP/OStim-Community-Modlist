@@ -220,17 +220,29 @@ These can all be configured in their respective MCMs.
  </details>
  
 <details>
-  <summary>ENBs, ReShade and Root Builder</summary>
+  <summary>Root Builder</summary>
+ 
+ ### Root builder
+ 
+ This is a MO2 plugin that can be used for anything that needs to be installed to the root directory of your game. This allows for easy management of things like skse, engine fixes, and ENB presets. While it can usually install simple things like older ENBs just fine, you should still make sure its done properly.
+ 
+ To install a mod through root builder, select manual
+ 
+ ![image](https://github.com/ArnoldDP/OStim-Community-Modlist/assets/122011472/b62aa5e3-ead0-4928-a00a-0649b42f94f7)
+ 
+ Right click <data> and create a new directory named "root"
+ 
+ Drag everything that should be installed to the root directory of your game into the "root" folder that you just created. Disable everything else.
+ 
+ ![image](https://github.com/ArnoldDP/OStim-Community-Modlist/assets/122011472/77ba3828-d458-403a-b683-874c3b90c7b2)
+ 
+Now just click okay. You can manage this like any other mod.
+
+
  
  ### ENB
-
- Managing ENB presets is easier than ever thanks to Root Builder! Install them through MO2 like any other mod, and let Root Builder take care of it. If it doesn't work the first time, reinstall and select [Manual]
  
- Right click <data>, create directory, and name it "root". Then just drag and drop enbseries.ini, enblocal.ini, and the enbseries folder into the directory you just made. If done properly, it should look like this
- 
- ![image](https://user-images.githubusercontent.com/122011472/224231824-0c7f8f4b-c85d-42b3-bd82-0dbfc001d258.png)
- 
- Now you can disable or enable it whenever you want just like any other mod :)
+ While the older version of the list came with Rudy - Zandgar edit or Rudy for NAT 3.1, this version comes with E.V.C. While I personally prefer this, I generated the LODs without a weather mod so that it can be easily changed to any ENB/weather combo that you'd like.
 
 Most of the included textures are Complex Parallax compatible. If an ENB preset you installed doesnt have complex parallax enabled by default, open up the enbseries.ini, and change the following settings to look like this
 
@@ -245,8 +257,6 @@ Most of the included textures are Complex Parallax compatible. If an ENB preset 
 
  
  If any of these lines are missing from the enbseries.ini, you can simply copy and paste the missing lines into the file. It will work just fine.
- 
- The list comes pre-installed with Rudy for NAT 3. Other ENB presets I highly recommend are NAT 3.1, Berserkyr, and Cabbage.
 
 If you want to change the weather to anything other than NAT, Azurite, Vivid Weathers, or Aequinoctium, you should disable ***FWMF for Fantasy Paper Maps Weather and Lighting Fix.esp***
 
@@ -255,6 +265,10 @@ If you want to change the weather to anything other than NAT, Azurite, Vivid Wea
 ### ReShade
  
 Since I dont personally use ReShade, I unfortunately cannot write a very good guide on it. Thankfully, the legendary Sswaye himself has written an excellent guide. Check out his collection! https://www.nexusmods.com/skyrimspecialedition/mods/78502
+ 
+ * Note
+ 
+ I do not know how this will interact with root builder, install at your own discretion. 
  
  </details>
  
