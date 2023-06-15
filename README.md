@@ -19,7 +19,7 @@ This is not pornrim with barely clothed women, public masturebation, and sexuall
 
 * What this is
 
- It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game that stays true to The Elder Scrolls style, while adding plenty of spicy roleplay opportunities :^)
+ It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game, while adding plenty of spicy roleplay opportunities :^)
 
 The gameplay mods are customizable enhancers to the experience. A lot of subjective quest mods were avoided because they could cause unnecessary bloat.
 
@@ -72,7 +72,7 @@ Audio balance is not preconfigured, if you're fine with the base audio settings,
  
 * Open Animation Replacer
  
- The default key to open the menu for this is "o", this conflicts with OBody's default key. Open the menu and click the settings button on the bottom right, then change the key to something that doesn't get in the way. Since you're most likely not going to be opening this very often, I'd recommend a key thats out of the way and won't conflict with other keybinds
+ The default key to open the menu for this is Scroll Lock. This might conflict with other mods you want to install, so feel free to change it at any point.
  
 * Improved Camera
  
@@ -118,7 +118,9 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
  * Melee
  
-Melee combat is handled by ADXP/MCO + One Click Power Attack NG, and Valvalis Combat - Visceral Tactics. Valvalis is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way and introduce new mechanics like timed blocks/attacks, stamina based combat, and better AI. Dodge - MCO/DXP is also included becuase of course it is, who do you think I am? OCPA NG and Dodge both need to be configured by you in their respective MCMs.
+Melee combat is handled by ADXP/MCO + One Click Power Attack NG, and Valvalis Combat - Visceral Tactics. Valvalis is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way and introduce new mechanics like timed blocks/attacks, stamina based combat, and better AI. Dodge - MCO/DXP is also included becuase of course it is, who do you think I am?
+ 
+Tap V to step dodge, double tap to roll. Hold left click for continued normal attacks, or hold shift and tap right click for a power attack. Power attacks can be chained. You can configure your keybinds in their respective MCMs.
 
 Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it would fit the best, but you are free to swap it out with any ADXP/MCO compatible moveset you'd like.
  
@@ -152,20 +154,13 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
  * User Interface
  
- The vanilla UI has been completely overhauled by several, fully customizable mods listed below:
- 
- 1. SkyHUD
- 2. TrueHUD
- 3. MoreHUD
- 4. A Matter of Time
- 
-These can all be configured in their respective MCMs.
+ The vanilla UI has been completely overhauled by several, fully customizable mods. While the HUD has been pre-configured, feel free to modify it in any way youd like. Everything used is found in the **UI** section.
  
  * Followers
  
  Several new followers have been added to the game, some of which even have OStim compatible romance options *wink*
  
- Nethers Follower Framework is used to manage non-custom followers and has several options that can be configured in the Follower Framework MCM. 
+ Nethers Follower Framework is used to manage non-custom followers and has several options that can be configured in the Follower Framework MCM. Auri is the only custom follower, to my knowledge, that will automatically be imported and managed by the framework. Please do not add any other custom voiced followers to the framework, it might break their brain. 
  
  Almost all of these gameplay mods can be completely ignored, or fully embraced. The choice is yours.
  
