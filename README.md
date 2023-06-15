@@ -96,12 +96,6 @@ Audio balance is not preconfigured, if you're fine with the base audio settings,
  
  * **Low FPS In Whiterun:** This isn't really a bug, just a side effect of the exterior mods and the density of the grass. It's potentially the heaviest area in the game.
  
- * **weird road thing in southwoods district:** Fixed
- 
- * **Random Tree Billboard in x place:** Working on it
- 
- * **Crashing in Eastmarch when opening the map:** Fixed (?)
- 
  * **Strange missing texture in witchmist grove:** Working on it
  
  * **Weird AI Pathing in Whiterun:** Most likely a navmesh problem, working on it
