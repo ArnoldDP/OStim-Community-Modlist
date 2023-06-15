@@ -84,7 +84,7 @@ Audio balance is not preconfigured, if you're fine with the base audio settings,
  
 * MCM
  
- None of the MCM Settings come preconfigured. Here you can modify your keybinds for Dodge, the way OCPA NG works, survival mode, almost every gameplay mod, and much more. 
+ Here you can modify your keybinds for Dodge, the way OCPA NG works, survival mode, almost every gameplay mod, and much more. 
  
  </details>
  
