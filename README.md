@@ -62,7 +62,7 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
  
 ### Alternate Start
  
- I didn't go with the generic alternate start because I'm super funny and quirky. Instead, Realm of Lorkhan is used. You will immediately be taken to the character creation screen. After creating and naming your murderhobo, walk around and explore the realm for a few minutes while all of the mods load in. If you get a message like "OStim not ready for installation", don't worry, its just script lag.
+ I didn't go with the generic alternate start because I'm super funny and quirky. Instead, Realm of Lorkhan is used, make your murderhobo and have fun. If you get a message like "OStim not ready for installation", don't worry, its just script lag.
  
  ### Game settings and MCM
  
@@ -78,13 +78,15 @@ Audio balance is not preconfigured, if you're fine with the base audio settings,
  
  While the OStim fpv camera settings do come pre-installed, the camera still uses the default settings until you change it. To open up the Improved Camera menu, just hold shift and hit the "home" key on your keyboard. You can either use the OStim camera settings (recommended) or modify it in any way you'd like
  
-* OSearch
+* MiniMap
  
- This is a simple animation selector for OStim. It does not include every animation, but its there for the people that want it. It's default key is backslash/right bracket.
+Hit "n" to toggle the minimap on and off, its position is customizable in its ini file
  
-* MCM
+* Kreate
  
- Here you can modify your keybinds for Dodge, the way OCPA NG works, survival mode, almost every gameplay mod, and much more. 
+ Kreate is an in game gui that allows you to modify your weather/lighting/time of day whenever you want without the use of console commands. While it can be used for super complex things (like Skies Above), I just use it for screenshots. It's default key is END
+ 
+
  
  </details>
  
@@ -126,7 +128,7 @@ Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it
  
  * Magic
  
-Magic has had dozens of new spells added to the game, some spells are easily aquired and some are hidden throughout the world. I also included Spellsiphon, an incredibly unique gameplay mod that can automatically integrate both vanilla and modded spells into its system should you choose to use it.
+Magic has had dozens of new spells added to the game, some spells are easily aquired and some are hidden throughout the world. I also included Spellsiphon, an incredibly unique gameplay mod that can automatically integrate almost any spell into its system.
 
  * Races
  
