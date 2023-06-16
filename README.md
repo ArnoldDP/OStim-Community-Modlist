@@ -233,7 +233,7 @@ Now just click okay. You can manage this like any other mod.
  
  ### ENB
  
- While the older version of the list came with Rudy - Zandgar edit or Rudy for NAT 3.1, this version comes with E.V.C. While I personally prefer this, I generated the LODs without a weather mod so that it can be easily changed to any ENB/weather combo that you'd like.
+ While I used Rudy for NAT 3.1 for the last version, I've decided to go back to the old Cathedral Weathers version. It's not a huge loss in quality, and performs slightly better with the added benefit of Cathedral weathers having more ENB Presets out of the box.
 
 Most of the included textures are Complex Parallax compatible. If an ENB preset you installed doesnt have complex parallax enabled by default, open up the enbseries.ini, and change the following settings to look like this
 
