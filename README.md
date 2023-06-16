@@ -113,7 +113,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
 <details>
   <summary>A Brief explanation of the "major" gameplay changes</summary>
  
- ### Gameplay overhauls and rebalancing
+ ### Gameplay changes and rebalancing
  
  
  * Melee
@@ -126,7 +126,7 @@ Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it
  
  * Magic
  
-Magic has had dozens of new spells added to the game including Hemomancy, Mysticicsm, Abyss, Lunaris, and Natura. I also included Spellsiphon, an incredibly unique gameplay mod that can automatically integrate both vanilla and modded spells into its system should you choose to use it.
+Magic has had dozens of new spells added to the game, some spells are easily aquired and some are hidden throughout the world. I also included Spellsiphon, an incredibly unique gameplay mod that can automatically integrate both vanilla and modded spells into its system should you choose to use it.
 
  * Races
  
@@ -150,7 +150,7 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
  * Camera
  
- True directional movement and Smoothcam are used to make third person gameplay feel a bit more modern. I included a few smoothcam presets, but theres hundreds that you can download off of Nexus if you dont like either of them (or you can just turn off smoothcam in the MCM). First person is handled by Improved Camera. It's also configured for clippingless first person OStim scenes. True direction movement has a target lock feature that is automatically set to m3 (middle mouse button) but this can be changed in the MCM, along with several other things.
+ True directional movement and Smoothcam are used to make third person gameplay feel a bit more modern. I included a few smoothcam presets, but theres hundreds that you can download off of Nexus if you dont like either of them (or you can just turn off smoothcam in the MCM). First person is handled by Improved Camera. It comes with an optional configuration for clippingless fpv OStim scenes
  
  * User Interface
  
@@ -158,7 +158,7 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
  * Followers
  
- Several new followers have been added to the game, some of which even have OStim compatible romance options *wink*
+ Several new followers have been added to the game, some of which even have OStim supported "romance" *wink*
  
  Nethers Follower Framework is used to manage non-custom followers and has several options that can be configured in the Follower Framework MCM. Auri is the only custom follower, to my knowledge, that will automatically be imported and managed by the framework. Please do not add any other custom voiced followers to the framework, it might break their brain. 
  
