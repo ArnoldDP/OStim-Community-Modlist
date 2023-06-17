@@ -2,6 +2,8 @@
 
 **Disclaimer:**
 
+I am currently in the process of cleaning and updating the list, the downloadable version you see below will be the last version that uses Skyrim version 1.6.353. The next version will be on 1.5.97, have most of the bugs fixed, three profiles with varying levels of performance and graphical fidelity to choose from, and a streamlined and easy way to disable combat mods if youd rather play with vanilla combat. While you are 100% free to download the version thats availible right now, it might not be exactly what you're looking for, and its not at the standards I'm holding the new version of the list to.
+
 Ace's post is a little bit outdated. The modlist has grown to be more of a total game overhaul at this point. It now features several rather subjective changes, and while you are still absolutely able to modify it in any way you want, it may require slightly more in depth knowledge. The list is also now totalling around 250 gigs, a lot of this can be saved by just clearing the downloads folder after its done installing, but the jump from 140 to 250 may still be shocking to people who initially read his post.
 
 In the future I might put together a stripped down version with just the bare essentials, but thats the future.
