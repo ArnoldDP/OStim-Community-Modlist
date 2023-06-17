@@ -286,7 +286,7 @@ Low graphics profile makes use of Community Shaders, by Doodlum. While its not q
   
   * ReShade and Commmunity Shaders
   
-  Community shaders is used instead of a weather+enb combo, it does not make use of complex parallax. This saves a ton of fps at the cost of a lot of high end lighting effects.
+  Community shaders is used instead of a weather+enb combo, it still makes use of complex parallax. This saves a ton of fps at the cost of a lot of high end lighting effects.
   
   * LODs
   
