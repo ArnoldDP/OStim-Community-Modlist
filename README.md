@@ -230,6 +230,8 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  ![image](https://github.com/ArnoldDP/OStim-Community-Modlist/assets/122011472/77ba3828-d458-403a-b683-874c3b90c7b2)
  
 Now just click okay. You can manage this like any other mod.
+ 
+ReShade can also be managed by root builder, but the setup can be a bit more finnicky. First install the reshade preset youd like to the version of the game that comes with this modlist. Now create an empty mod in MO2, open it in explorer and create a "root" folder inside of it. Drag and drop all of the files that ReShade installed into that root folder that you just created. If you're confused by the initial ReShade installation process, Sswaye has written an excellent guide that can be found here https://www.nexusmods.com/skyrimspecialedition/mods/78502
 
 
  
