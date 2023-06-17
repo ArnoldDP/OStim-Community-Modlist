@@ -262,9 +262,37 @@ Low graphics profile makes use of Community Shaders, by Doodlum. While its not q
  <details>
   <summary>Profiles</summary>
   
-  * High
+  # High
   
-  High profile uses Rudy for NAT 3.1, 3D Tree LOD, and grass LOD. This averages around 40 fps in most places on my setup.
+  * Weather and ENB
+  
+  This profile uses Rudy for NAT 3.1 with complex parallax enabled
+  
+  * LODs
+  
+  LODs are generated with 3D trees and dense grass, fargrid is not upgraded to neargrid.
+  
+  # Medium
+  
+  * Weather and ENB
+  
+  This profile uses Cathedral weathers + mists of tamriel along with Zandgar's edit of Rudy for Cathedral weathers. Complex parallax is also enabled.
+  
+  * LODs
+  
+  LODs are generated with billboards instead of the hybrid 3D meshes used for high settings. Grass LODs are also turned off.
+  
+  # Low
+  
+  * ReShade and Commmunity Shaders
+  
+  Community shaders is used instead of a weather+enb combo, it does not make use of complex parallax. This saves a ton of fps at the cost of a lot of high end lighting effects.
+  
+  * LODs
+  
+  LODs are the same as medium, billboards for trees and no grass LOD.
+  
+ </details>
  
 
 # Links
