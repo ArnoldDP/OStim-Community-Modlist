@@ -234,8 +234,6 @@ Now just click okay. You can manage this like any other mod.
 
  
  ### ENB
- 
- While I used Rudy for NAT 3.1 for the last version, I've decided to go back to the old Cathedral Weathers version. It's not a huge loss in quality, and performs slightly better with the added benefit of Cathedral weathers having more ENB Presets out of the box.
 
 Most of the included textures are Complex Parallax compatible. If an ENB preset you installed doesnt have complex parallax enabled by default, open up the enbseries.ini, and change the following settings to look like this
 
@@ -251,19 +249,22 @@ Most of the included textures are Complex Parallax compatible. If an ENB preset 
  
  If any of these lines are missing from the enbseries.ini, you can simply copy and paste the missing lines into the file. It will work just fine.
 
-If you want to change the weather to anything other than NAT, Azurite, Vivid Weathers, or Aequinoctium, you should disable ***FWMF for Fantasy Paper Maps Weather and Lighting Fix.esp***
+If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you should enable ***FWMF for Fantasy Paper Maps Weather and Lighting Fix.esp***
 
 ![image](https://user-images.githubusercontent.com/122011472/224233588-68c316a5-8cc2-4849-aa24-9caad041069c.png)
  
-### ReShade
+### ReShade and Community Shaders
  
-Since I dont personally use ReShade, I unfortunately cannot write a very good guide on it. Thankfully, the legendary Sswaye himself has written an excellent guide. Check out his collection! https://www.nexusmods.com/skyrimspecialedition/mods/78502
- 
- * Note
- 
- I do not know how this will interact with root builder, install at your own discretion. 
+Low graphics profile makes use of Community Shaders, by Doodlum. While its not quite as high end as ENB, it averages much better framerates while still keeping most of the nicer effects like complex grass and screenspace shadows. 
  
  </details>
+ 
+ <details>
+  <summary>Profiles</summary>
+  
+  * High
+  
+  High profile uses Rudy for NAT 3.1, 3D Tree LOD, and grass LOD. This averages around 40 fps in most places on my setup.
  
 
 # Links
