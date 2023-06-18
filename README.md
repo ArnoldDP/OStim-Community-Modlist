@@ -252,42 +252,24 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
  
 ### ReShade and Community Shaders
  
-Low graphics profile makes use of Community Shaders, by Doodlum. While its not quite as high end as ENB, it averages much better framerates while still keeping most of the nicer effects like complex grass and screenspace shadows. 
+Lite makes use of Community Shaders, by Doodlum. While its not quite as crazy as ENB, it provides a lot of similar features. It also performs MUCH better, especially on older or low end hardware.
  
  </details>
  
  <details>
   <summary>Profiles</summary>
   
-  # High
+  # Quality
   
-  * Weather and ENB
-  
-  This profile uses Rudy for NAT 3.1 with complex parallax enabled
-  
-  * LODs
-  
-  LODs are generated with 3D trees and dense grass, fargrid is not upgraded to neargrid.
+ This profile uses Rudy for NAT 3.1 along with higher quality LODs. This is meant for people who like to take screenshots more than play the game.
   
   # Medium
   
-  * Weather and ENB
+ This version uses Zandgar's edit of Rudy for Cathedral weathers. LODs are generated using billboards without grass. This is meant for people who like to play and maybe take a couple cool pictures.
   
-  This profile uses Cathedral weathers + mists of tamriel along with Zandgar's edit of Rudy for Cathedral weathers. Complex parallax is also enabled.
+  # Lite
   
-  * LODs
-  
-  LODs are generated with billboards instead of the hybrid 3D meshes used for high settings. Grass LODs are also turned off.
-  
-  # Low
-  
-  * ReShade and Commmunity Shaders
-  
-  Community shaders is used instead of a weather+enb combo, it still makes use of complex parallax. This saves a ton of fps at the cost of a lot of high end lighting effects.
-  
-  * LODs
-  
-  LODs are the same as medium, billboards for trees and no grass LOD.
+ Most of the large scale overhauls and gameplay mods are stripped from this version, including ENB and LODs. Instead it will only feature Community Shaders, OStim NG + a few addons, and some minor enhancements to vanilla textures/meshes. This is the one you want if you're on a laptop, or if you just want to skip the ostim installation and go straight to adding your own everything else.
   
  </details>
  
