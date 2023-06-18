@@ -2,12 +2,7 @@
 
 **Disclaimer:**
 
-I am currently in the process of cleaning and updating the list, the downloadable version you see below will be the last version that uses Skyrim version 1.6.353. The next version will be on 1.5.97, have most of the bugs fixed, three profiles with varying levels of performance and graphical fidelity to choose from, and a streamlined and easy way to disable combat mods if youd rather play with vanilla combat. While you are 100% free to download the version thats availible right now, it might not be exactly what you're looking for, and its not at the standards I'm holding the next update to.
-
-Ace's post is a little bit outdated. The modlist has grown quite a bit at this point, and now has a few things that some people might find rather subjective. It's also totalling around 250gb as opposed to the advertised 140. A lot of this can be saved by simply clearing out the downloads folder after its installed, but some people might still be shocked by this.
-
-In the future I might put together a stripped down version with just the bare essentials, but thats the future.
-
+I am currently in the process of cleaning and updating the list, the downloadable version you see below will be the last version that uses Skyrim version 1.6.353. The next version will be on 1.5.97, have most of the bugs fixed, and two profiles, one for performance and one for quality. In addition, there will also be an extremely lightweight and stripped down version of the modlist with just the bare essentials. You can use the current version of the list, but it was not held to the same standard as the coming update.
 
 <details>
  <summary>Description</summary>
@@ -299,7 +294,9 @@ Low graphics profile makes use of Community Shaders, by Doodlum. While its not q
 
 # Links
 
->Mega link for the .wabbajack file: https://mega.nz/file/AeUVXAqQ#AHqN36Ii0wj-OYYFNtVx7wjaqHilWeCT9k3_BbnuLa8
+>UOCM Full (in the process of being updated): https://mega.nz/file/AeUVXAqQ#AHqN36Ii0wj-OYYFNtVx7wjaqHilWeCT9k3_BbnuLa8
+ 
+>UOCM Lite: Not yet released
 
 >VersuchDrei's discord (OStim NG Official) https://discord.gg/qEhSpvUc5Z
  
