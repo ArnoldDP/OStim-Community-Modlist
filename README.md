@@ -2,7 +2,7 @@
 
 **Disclaimer:**
 
-I am currently in the process of cleaning and updating the list, the downloadable version you see below will be the last version that uses Skyrim version 1.6.353. The next version will be on 1.5.97, have most of the bugs fixed, and two profiles, one for performance and one for quality. In addition, there will also be an extremely lightweight and stripped down version of the modlist with just the bare essentials. You can use the current version of the list, but it was not held to the same standard as the coming update.
+I am currently in the process of cleaning and updating the list, the downloadable version you see below will be the last version that uses Skyrim version 1.6.353. The next version will be on 1.5.97, have most of the bugs fixed, some minor optimizations for better performance, and a little bit more content. While I did want to create seperate profiles for performance and quality variations of the list, it would honestly be a waste of time.
 
 <details>
  <summary>Description</summary>
@@ -16,7 +16,7 @@ This is not pornrim with barely clothed women, public masturebation, and sexuall
 
 * What this is
 
- It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game, while adding plenty of spicy roleplay opportunities :^)
+ It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game that happens to add some spicy roleplay opportunities. OStim isn't just about the milfs, it allows for some amazing stories and worldbuilding.
 
 The gameplay mods are customizable enhancers to the experience. A lot of subjective quest mods were avoided because they could cause unnecessary bloat.
 
@@ -36,7 +36,7 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
  
 > Recommended specs for 1080p:
 > 
-> CPU: Ryzen 5 5600/intel i5 11600k
+> CPU: Ryzen 5 5600/intel i5 11600
 >  
 > GPU: RTX 3060 8gb/RX 6600 8gb
 >  
@@ -50,7 +50,7 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
  
  ### Previous Versions
  
- If you were using a previous version of this list, it is recommended that you delete everything but the downloads folder before you install the new version. It's also recommended to start a completely new save, if you really need to use your current save you can clean your save using Fallrim tools, but this may be unstable.
+ If you were using a previous version of this list, it is recommended that you *completely uninstall it* before updating to the new version. It's also recommended to start a completely new save, if you really need to use your current save you can clean your save using Fallrim tools, but this may be unstable.
  
  </details>
  
@@ -95,11 +95,9 @@ Hit "n" to toggle the minimap on and off, its position is customizable in its in
  
  * **Low FPS In Whiterun:** This isn't really a bug, just a side effect of the exterior mods and the density of the grass. It's potentially the heaviest area in the game.
  
- * **Strange missing texture in witchmist grove:** Working on it
- 
  * **Weird AI Pathing in Whiterun:** Most likely a navmesh problem, working on it
  
- This list only really gets updated whenever any of the major mods it uses do, so small bugs may survive for a while. If you find any major/gamebreaking bugs, please report them to me on discord @arnoldp
+ This list only really gets updated whenever any of the major mods it uses do, so small bugs may survive for a while. If you find any anything, please report them to me on discord @arnoldp
  
 If for any reason the Wabbajack installation fails, please DM me
 
@@ -196,6 +194,10 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
 <details>
  <summary>Audio</summary>
+
+ # Audio
+
+ While this list isn't built to be an auditory experience, I am still a bit of an audiophile, so naturally some things have been changed
  
  ### SFX
  
@@ -203,7 +205,7 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
  ### Music
  
- Just like SFX, the vanilla audio has been improved and a lot of new music has been added. Also, like the SFX changes, the additions can be incredibly subjective and are easily disabled by scrolling down to the ***Sounds*** seperator in MO2
+ Just like SFX, the vanilla audio has been improved and several new songs have been added. This kind of stuff is rather subjective so feel free to disable Around the Fire, Nyghtfall, and Nordenhamr, if you only want the vanilla OST. 
  
  </details>
  
@@ -230,7 +232,7 @@ ReShade can also be managed by root builder, but the setup can be a bit more fin
 
 
  
- ### ENB
+ ### Parallax
 
 Most of the included textures are Complex Parallax compatible. If an ENB preset you installed doesnt have complex parallax enabled by default, open up the enbseries.ini, and change the following settings to look like this
 
@@ -250,35 +252,12 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
 
 ![image](https://user-images.githubusercontent.com/122011472/224233588-68c316a5-8cc2-4849-aa24-9caad041069c.png)
  
-### ReShade and Community Shaders
- 
-Lite makes use of Community Shaders, by Doodlum. While its not quite as crazy as ENB, it provides a lot of similar features. It also performs MUCH better, especially on older or low end hardware.
- 
- </details>
- 
- <details>
-  <summary>Profiles</summary>
-  
-  # Quality
-  
- This profile uses Rudy for NAT 3.1 along with higher quality LODs. This is meant for people who like to take screenshots more than play the game.
-  
-  # Medium
-  
- This version uses Zandgar's edit of Rudy for Cathedral weathers. LODs are generated using billboards without grass. This is meant for people who like to play and maybe take a couple cool pictures.
-  
-  # Lite
-  
- Most of the large scale overhauls and gameplay mods are stripped from this version, including ENB and LODs. Instead it will only feature Community Shaders, OStim NG + a few addons, and some minor enhancements to vanilla textures/meshes. This is the one you want if you're on a laptop, or if you just want to skip the ostim installation and go straight to adding your own everything else.
-  
  </details>
  
 
 # Links
 
 >UOCM Full (in the process of being updated): https://mega.nz/file/AeUVXAqQ#AHqN36Ii0wj-OYYFNtVx7wjaqHilWeCT9k3_BbnuLa8
- 
->UOCM Lite: Not yet released
 
 >VersuchDrei's discord (OStim NG Official) https://discord.gg/qEhSpvUc5Z
  
