@@ -123,7 +123,7 @@ Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it
  
  * Magic
  
-Magic has had dozens of new spells added to the game, some spells are easily aquired and some are hidden throughout the world. I also included Spellsiphon, an incredibly unique gameplay mod that can automatically integrate almost any spell into its system.
+Magic has had dozens of new spells added to the game, some spells are easily aquired and some are hidden throughout the world. I also included Spellsiphon, an incredibly unique gameplay mod you can integrate into any magic oriented playstyle
 
  * Races
  
