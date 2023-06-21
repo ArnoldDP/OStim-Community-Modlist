@@ -16,7 +16,7 @@ This is not pornrim with barely clothed women, public masturebation, and sexuall
 
 * What this is
 
- It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game that happens to add some spicy roleplay opportunities. OStim isn't just about the milfs, it allows for some amazing stories and worldbuilding.
+ It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game that happens to add some spicy roleplay opportunities. The game is a complete sandbox, and you are a murderhobo with a freaky voice.
 
 The gameplay mods are customizable enhancers to the experience. A lot of subjective quest mods were avoided because they could cause unnecessary bloat.
 
