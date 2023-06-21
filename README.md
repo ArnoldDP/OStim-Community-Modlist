@@ -177,14 +177,10 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  * OStim NPCs
  
  Allows NPCs to engage in scenes without your input. You might find some bandits having fun in a cave and you might hear some noises coming from a locked door in your local inn
- 
- * OStim Solutions
- 
- An adaptation of an old mod called Sexlab Solutions. You can finally roleplay as a D&D Bard, and fuck your way out of everything
- 
+  
  * OStim Lovers
  
- This is a mod that adds high quality fully voiced romance options to several vanilla NPCs. It is mainly intended for a female PC, but gay is okay so go ahead and have fun!
+ This is a mod that adds fully voiced romance options to several vanilla NPCs, think of it as a newer Armorous Adventures. It was mainly intended for a female PC, but its 2023 so use it as you see fit
   
 > OStim and its add-ons are configurable through their respective MCMs, most of them are neatly grouped together and can be found by just typing "O" in the MCM filter.
  
