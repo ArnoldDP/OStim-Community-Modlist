@@ -255,7 +255,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
 
 # Links
 
->UOCM Full (in the process of being updated): https://mega.nz/file/AeUVXAqQ#AHqN36Ii0wj-OYYFNtVx7wjaqHilWeCT9k3_BbnuLa8
+>UOCM (last version that was on 353, new version still not released): https://mega.nz/file/AeUVXAqQ#AHqN36Ii0wj-OYYFNtVx7wjaqHilWeCT9k3_BbnuLa8
 
 >VersuchDrei's discord (OStim NG Official) https://discord.gg/qEhSpvUc5Z
  
