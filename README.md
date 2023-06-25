@@ -23,7 +23,7 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
 </details>
 
 <details>
- <summary>Preinstallation and Requirements</summary>
+ <summary>Pre-installation and Requirements</summary>
  
  ### Preinstallation
  
@@ -59,7 +59,7 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
  
 ### Alternate Start
  
- I didn't go with the generic alternate start because I'm super funny and quirky. Instead, Realm of Lorkhan is used, make your murderhobo and have fun. If you get a message like "OStim not ready for installation", don't worry, its just script lag.
+ I didn't go with the generic alternate start because I'm super funny and quirky. Instead, Realm of Lorkhan is used, so make your murderhobo and have fun. If you get a message like "OStim not ready for installation", don't worry, its just script lag.
  
  ### Game settings and MCM
  
@@ -75,7 +75,7 @@ Audio balance is not preconfigured, if you're fine with the base audio settings,
  
  While the OStim fpv camera settings do come pre-installed, the camera still uses the default settings until you change it. To open up the Improved Camera menu, just hold shift and hit the "home" key on your keyboard. You can either use the OStim camera settings (recommended) or modify it in any way you'd like
  
-* MiniMap
+* Minimap
  
 Hit "n" to toggle the minimap on and off, its position is customizable in its ini file
  
