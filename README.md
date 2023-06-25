@@ -115,19 +115,21 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
  
  * Melee
  
-Melee combat is handled by ADXP/MCO + One Click Power Attack NG, and Valvalis Combat - Visceral Tactics. Valvalis is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way and introduce new mechanics like timed blocks/attacks, stamina based combat, and better AI. Dodge - MCO/DXP is also included becuase of course it is, who do you think I am?
+Melee combat is handled by ADXP + One Click Power Attack NG, and Valvalis Combat - Visceral Tactics. Valvalis is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way and introduce new mechanics like timed blocks/attacks, stamina based combat, and better AI. Dodge - MCO/DXP is also included becuase of course it is, who do you think I am?
  
 Tap V to step dodge, double tap to roll. Hold left click for continued normal attacks, or hold shift and tap right click for a power attack. Power attacks can be chained. You can configure your keybinds in their respective MCMs.
 
 Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it would fit the best, but you are free to swap it out with any ADXP/MCO compatible moveset you'd like.
+
+You are free to disable all of this, as long as you rerun Nemesis. The mods can be found in the ***Gameplay - Melee*** separator.
  
  * Magic
  
-Magic has had dozens of new spells added to the game, some spells are easily aquired and some are hidden throughout the world. I also included Spellsiphon, an incredibly unique gameplay mod you can integrate into any magic oriented playstyle
+Magic has had dozens of new spells added to the game, some spells are easily aquired and some are hidden throughout the world. I also included Spellsiphon, an incredibly unique gameplay mod you can be integrated into any magic oriented playstyle
 
  * Races
  
-Racial abilities are covered by a combination of Mannaz and Freyr. These mods overhaul the generic racial abilities and provide unique standing stone abilities based on your race, making this part of character creation much more important.
+Racial abilities are covered by a combination of Mannaz and Freyr. These mods overhaul the generic racial abilities and provide unique standing stone abilities based on your race. This makes races a more important part of character creation, but not to the point where there is a clearly defined "meta"
 
  * Perks
  
@@ -155,9 +157,9 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
  * Followers
  
- Several new followers have been added to the game, some of which even have OStim supported "romance" *wink*
- 
- Nethers Follower Framework is used to manage non-custom followers and has several options that can be configured in the Follower Framework MCM. Auri is the only custom follower, to my knowledge, that will automatically be imported and managed by the framework. Please do not add any other custom voiced followers to the framework, it might break their brain. 
+ Several new and fully voiced followers have been added to the game, some of which even have OStim supported "romance" *wink*
+
+ Vanilla followers are managed using Amazing Follower Tweeks. Please do not port any non-vanilla voiced follower into the framework. It will most likely break them..
  
  Almost all of these gameplay mods can be completely ignored, or fully embraced. The choice is yours.
  
@@ -168,7 +170,7 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
   
   ### OStim
   
-  I tried as hard as I could to integrate this in way that makes sense and doesnt disrupt gameplay. It isnt perfect, but its getting there. We'd be here all day if I listed every mod being used, so I'll just go over a few of my personal favorites.
+  I tried as hard as I could to integrate this in way that makes sense and doesnt disrupt gameplay. It isnt perfect, but its getting there. Since this is the primary focus of this list and sets it apart from other mod lists, id be here all day if I listed every add-on used. Heres a few of my favorites though.
  
  * Rift's Rest
  
@@ -201,7 +203,7 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
  ### Music
  
- Just like SFX, the vanilla audio has been improved and several new songs have been added. This kind of stuff is rather subjective so feel free to disable Around the Fire, Nyghtfall, and Nordenhamr, if you only want the vanilla OST. 
+ Just like SFX, the vanilla OST has improved clarity and several new songs have been added. This kind of stuff is rather subjective so feel free to disable Around the Fire, Nyghtfall, and Nordenhamr, if you only want the vanilla OST. 
  
  </details>
  
