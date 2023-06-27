@@ -2,7 +2,9 @@
 
 **Disclaimer:**
 
-I am currently in the process of cleaning and updating the list, the downloadable version you see below will be the last version that uses Skyrim version 1.6.353. The next version will be on 1.5.97, have most of the bugs fixed, some minor optimizations for better performance, and a little bit more content. While I did want to create seperate profiles for performance and quality variations of the list, it would honestly be a waste of time.
+The version out right now is the high quality version, i will include a performance version later.
+
+Ace's post is a little bit outdated. The list is now around 290 gigs. Deleting the downloads folder once its installed can save around a hundred gigabytes of storage, but it still might be a bit shocking to see the difference in size.
 
 <details>
  <summary>Description</summary>
