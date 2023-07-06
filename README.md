@@ -63,29 +63,35 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
  
  I didn't go with the generic alternate start because I'm super funny and quirky. Instead, Realm of Lorkhan is used, so make your murderhobo and have fun. If you get a message like "OStim not ready for installation", don't worry, its just script lag.
  
- ### Game settings and MCM
+ ### Hotkeys and Game Settings
  
 * Audio
  
-Audio balance is not preconfigured, if you're fine with the base audio settings, then you have nothing to worry about. If you're not, open up the audio settings and change it to your liking.
+Every pair of ears and set of headphones is different, audio balance is not preconfigued. You should change this to your liking
  
-* Open Animation Replacer
- 
- The default key to open the menu for this is Scroll Lock. This might conflict with other mods you want to install, so feel free to change it at any point.
- 
-* Improved Camera
- 
- While the OStim fpv camera settings do come pre-installed, the camera still uses the default settings until you change it. To open up the Improved Camera menu, just hold shift and hit the "home" key on your keyboard. You can either use the OStim camera settings (recommended) or modify it in any way you'd like
- 
-* Minimap
- 
-Hit "n" to toggle the minimap on and off, its position is customizable in its ini file
- 
-* Kreate
- 
- Kreate is an in game gui that allows you to modify your weather/lighting/time of day whenever you want without the use of console commands. While it can be used for super complex things (like Skies Above), I just use it for screenshots. It's default key is END
- 
+* Display
 
+This does come preconfigured. I dont recommend changing it, but if you think your system can handle it you should probably use BethINI to edit this instead of the Skyrim Launcher or in game settings.
+ 
+* Hotkeys and non-vanilla controls
+
+END: Kreate menu
+
+Shift + Enter: ENB Menu
+
+Shift + Home: Improved Camera
+
+Backspace: Immersive equipment display
+
+Scroll Lock: Open Animation Replacer menu
+
+V: Step Dodge
+
+V (double tap): Dodge roll
+
+Shift + Right click: Power attack
+
+Left click (hold): Continued normal attacks
  
  </details>
  
@@ -118,8 +124,6 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
  * Melee
  
 Melee combat is handled by ADXP + One Click Power Attack NG, and Valvalis Combat - Visceral Tactics. Valvalis is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way and introduce new mechanics like timed blocks/attacks, stamina based combat, and better AI. Dodge - MCO/DXP is also included becuase of course it is, who do you think I am?
- 
-Tap V to step dodge, double tap to roll. Hold left click for continued normal attacks, or hold shift and tap right click for a power attack. Power attacks can be chained. You can configure your keybinds in their respective MCMs.
 
 Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it would fit the best, but you are free to swap it out with any ADXP/MCO compatible moveset you'd like.
 
