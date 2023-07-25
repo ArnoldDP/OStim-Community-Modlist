@@ -2,7 +2,7 @@
 
 **Disclaimer:**
 
-The version out right now is the high quality version, i will include a performance version later.
+The list is currently being updated. If the update is not live by 23:00 MT 7/25/2023, you are allowed to shoot me
 
 Ace's post is a little bit outdated. The list is now around 290 gigs. Deleting the downloads folder once its installed can save around a hundred gigabytes of storage, but it still might be a bit shocking to see the difference in size.
 
@@ -189,10 +189,6 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  * OStim Lovers
  
  This is a mod that adds fully voiced romance options to several vanilla NPCs, think of it as a newer Armorous Adventures. It was mainly intended for a female PC, but its 2023 so use it as you see fit
-
- * Fertility Mode
-
- This introduces a sort of family building dynamic to the game. It's not really a fetishy or sexual mod, but its definitely something 
  
 > OStim and its add-ons are configurable through their respective MCMs, most of them are neatly grouped together and can be found by just typing "O" in the MCM filter.
  
