@@ -34,7 +34,7 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
  
  ### Requirements
  
- The only hard requirements to run this modlist are a CPU with AVX2 support and ~250 gigs of storage available.
+ The only hard requirements to run this modlist are a CPU with AVX2 support and ~300 gigs of storage available.
  
 > Recommended specs for 1080p:
 > 
