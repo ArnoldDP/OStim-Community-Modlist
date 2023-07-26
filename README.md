@@ -261,7 +261,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
 
 # Links
 
->UOCM Wabbajack File: https://mega.nz/file/wOU1ESLY#cTs2But3qhkd9nWmqdP31PgGvQTyjcKSSJcyZVPb21s
+>UOCM Wabbajack File: https://mega.nz/file/Fe9RVbqb#-_hpvt0kaYWeSE2uT-GszWGHPg04TCcHNEsRsplvmNM
 
 >VersuchDrei's discord (OStim NG Official) https://discord.gg/qEhSpvUc5Z
  
