@@ -2,9 +2,9 @@
 
 **Disclaimer:**
 
-The list is currently being updated. If the update is not live by 23:00 MT 7/25/2023, you are allowed to shoot me
+The version out is the most up to date version of the list.
 
-Ace's post is a little bit outdated. The list is now around 290 gigs. Deleting the downloads folder once its installed can save around a hundred gigabytes of storage, but it still might be a bit shocking to see the difference in size.
+Ace's post is a little bit outdated. The list is now 317 gigs. Deleting the downloads folder once its installed can save 119gb of storage, but it still might be a bit shocking to see the difference in size.
 
 <details>
  <summary>Description</summary>
@@ -20,7 +20,7 @@ This is not pornrim with barely clothed women, public masturebation, and sexuall
 
  It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game that happens to add some spicy roleplay opportunities. The game is a complete sandbox, and you are a murderhobo with a freaky voice.
 
-The gameplay mods are customizable enhancers to the experience. A lot of subjective quest mods were avoided because they could cause unnecessary bloat.
+The gameplay mods are customizable enhancers to the experience. A lot of subjective quest mods (LOTD, Bruma, Wyrmstooth, etc) were avoided because they could cause unnecessary bloat. You are 100% free to add whatever youd like, you can even recompile the list and post it to the Wabbajack gallery.
 
 </details>
 
@@ -58,10 +58,14 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
  
  <details>
    <summary>Post-installation</summary>
+
+### Profiles
+
+ There are two different profiles included. One featuring Rudy for NAT weathers, and the other featuring Zandgars edit for Rudy for Cathedral weathers and Lux. While they have similar aesthetics, there are some minor differences and one might perform better than the other. I personally play on the Cathedral version.
  
 ### Alternate Start
  
- I didn't go with the generic alternate start because I'm super funny and quirky. Instead, Realm of Lorkhan is used, so make your murderhobo and have fun. If you get a message like "OStim not ready for installation", don't worry, its just script lag.
+ I didn't go with the generic alternate start because I'm super funny and quirky (I dont want to support Arthmoor any more than I have to). Instead, Realm of Lorkhan is used, so make your murderhobo and have fun. If you get a message like "OStim not ready for installation", don't worry, its just script lag.
  
  ### Hotkeys and Game Settings
  
@@ -101,7 +105,7 @@ Left click (hold): Continued normal attacks
  
  ### Bugs and Installation Failures
  
- * **Low FPS In Whiterun:** This isn't really a bug, just a side effect of the exterior mods and the density of the grass. It's potentially the heaviest area in the game.
+ * **Low FPS In Whiterun:** This isn't really a bug, just a side effect of the exterior mods and the density of the grass. I did do a bit of a bandaid fix that aleviates most of the problems, but you might still have some minor frame drops.
  
  * **Weird AI Pathing in Whiterun:** Most likely a navmesh problem, working on it
  
@@ -176,7 +180,7 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
   
   ### OStim
   
-  I tried as hard as I could to integrate this in way that makes sense and doesnt disrupt gameplay. It isnt perfect, but its getting there. Since this is the primary focus of this list and sets it apart from other mod lists, id be here all day if I listed every add-on used. Heres a few of my favorites though.
+   OStim integration is the primary focus of the list and what separates it from other lists. I tried to keep away from intrusive mods and only use things that integrate it into the game in a way that makes sense. It's not perfect, but its getting there. Here's a few of the notable mods included.
  
  * Rift's Rest
  
@@ -189,6 +193,10 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  * OStim Lovers
  
  This is a mod that adds fully voiced romance options to several vanilla NPCs, think of it as a newer Armorous Adventures. It was mainly intended for a female PC, but its 2023 so use it as you see fit
+
+ * Immersive Wenches
+
+A fairly large mod that adds several quests, NPCs, and encounters to the game, all with OStim integration.
  
 > OStim and its add-ons are configurable through their respective MCMs, most of them are neatly grouped together and can be found by just typing "O" in the MCM filter.
  
