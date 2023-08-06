@@ -14,13 +14,11 @@ Ace's post is a little bit outdated. The list is now 317 gigs. Deleting the down
  
 * What this isnt
 
-This is not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves, nor it is a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall. It's also not an Elysium Remastered clone (no disrespect to the author) with the small addition of OStim.
+This is not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves, nor it is a hyperrealistic soulslike power fantasy with a grueling survival mode and a map size that rivals Daggerfall. It's also not an Elysium Remastered clone (no disrespect to the author) with the small addition of OStim.
 
 * What this is
 
- It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game that happens to add some spicy roleplay opportunities. The game is a complete sandbox, and you are a murderhobo with a freaky voice.
-
-The gameplay mods are customizable enhancers to the experience. A lot of subjective quest mods (LOTD, Bruma, Wyrmstooth, etc) were avoided because they could cause unnecessary bloat. You are 100% free to add whatever youd like, you can even recompile the list and post it to the Wabbajack gallery.
+ It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game featuring At Your Own Pace, Seasons of Skyrim, OStim integration, a huge variety of fully integrated armor and clothing mods, improved survival mechanics, and much more.
 
 </details>
 
@@ -58,10 +56,6 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
  
  <details>
    <summary>Post-installation</summary>
-
-### Profiles
-
- There are two different profiles included. One featuring Rudy for NAT weathers, and the other featuring Zandgars edit for Rudy for Cathedral weathers and Lux. While they have similar aesthetics, there are some minor differences and one might perform better than the other. I personally play on the Cathedral version.
  
 ### Alternate Start
  
@@ -71,7 +65,7 @@ The gameplay mods are customizable enhancers to the experience. A lot of subject
  
 * Audio
  
-Every pair of ears and set of headphones is different, audio balance is not preconfigued. You should change this to your liking
+Every pair of ears and set of headphones is different so audio balance does not come preconfigued. You should change this to your liking
  
 * Display
 
@@ -143,11 +137,11 @@ Racial abilities are covered by a combination of Mannaz and Freyr. These mods ov
 
  * Perks
  
-Perks are handled by Vokrii. This is an extremely lightweight and minimalistic approach to perk overhauls. You can enjoy the small quality of life improvements it makes without being overwhelmed by an absurd number of changes.
+Perks are handled by Vokriinator black. This is a combination of the mods SPERG, Adamant, vokrii, and Ordinator. This provides you with a massive perk tree that allows for an astounding number of builds for you to come up with.
 
  * Vampires and Werewolves
  
-Lycanthropy and Vampirism are handled by Growl and Sacrilege. These two mods, like Vokrii, make small adjustments to the balance of these "diseases" that allows for more diverse and fun playstyles.
+Lycanthropy and Vampirism are handled by Growl and Sacrilege. These two mods make small adjustments to the balance of these "diseases" that allows for more diverse playstyles. Vampires are no longer limited to running a restoration build and werewolves are actually playable.
 
  * Stealth
  
