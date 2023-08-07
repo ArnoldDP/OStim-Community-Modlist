@@ -18,7 +18,7 @@ This is not pornrim with barely clothed women, public masturebation, and sexuall
 
 * What this is
 
- It's a lore friendly, aesthetically pleasing, and immersive overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, OStim, and Sunhelm Survival, this is list made to give a complete roleplaying experience to as many people as possible. 
+ It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, OStim, and Sunhelm Survival, this is list made to give a complete roleplaying experience to as many people as possible. Tl;dr this is a list for immersiphiles.
 
 </details>
 
