@@ -138,7 +138,7 @@ Racial abilities are covered by a combination of Mannaz and Freyr. These mods ov
 
  * Perks
  
-Perks are handled by Vokriinator black. This is a combination of the mods SPERG, Adamant, vokrii, and Ordinator. This provides you with a massive perk tree that allows for an astounding number of builds for you to come up with.
+Perks are handled by Vokriinator black. This is a patch that ccombines several perk overhaul mods from various authors. This provides you with a massive perk tree that allows for an astounding number of builds for you to come up with.
 
  * Vampires and Werewolves
  
@@ -281,7 +281,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
 
 # Links
 
->UOCM Wabbajack File: https://mega.nz/file/Fe9RVbqb#-_hpvt0kaYWeSE2uT-GszWGHPg04TCcHNEsRsplvmNM
+>UOCM Wabbajack File: https://mega.nz/file/1OEWSZiZ#0PMOmZawLs67KwI6VrPus51aC-znvxrKGlaE1vrJtBg
 
 >VersuchDrei's discord (OStim NG Official) https://discord.gg/qEhSpvUc5Z
  
