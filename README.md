@@ -14,11 +14,11 @@ Ace's post is a little bit outdated. The list is now 317 gigs. Deleting the down
  
 * What this isnt
 
-This is not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves, nor it is a hyperrealistic soulslike power fantasy with a grueling survival mode and a map size that rivals Daggerfall. It's also not an Elysium Remastered clone (no disrespect to the author) with the small addition of OStim.
+This is not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves, it is not a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall, and it isn't a lore breaking power fantasy where you're practically a god. It's also not another Phoenix Flavor based modlist (no disrespect to the authors) with the small addition of OStim.
 
 * What this is
 
- It's an aesthetically pleasing and immersive overhaul for nearly every aspect of the game featuring At Your Own Pace, Seasons of Skyrim, OStim integration, a huge variety of fully integrated armor and clothing mods, improved survival mechanics, and much more.
+ It's a lore friendly, aesthetically pleasing, and immersive overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, OStim, and Sunhelm Survival, this is list made to give a complete roleplaying experience to as many people as possible. 
 
 </details>
 
@@ -56,6 +56,10 @@ This is not pornrim with barely clothed women, public masturebation, and sexuall
  
  <details>
    <summary>Post-installation</summary>
+
+### ENB
+
+ Two ENB presets are included. Rudy for NAT, and my own personal blend of Verdenna + PRT + NAT. Don't like either of them? Thats fine! I have a small guide below that you can use to swap the ENB for anything else you want.
  
 ### Alternate Start
  
@@ -100,8 +104,6 @@ Left click (hold): Continued normal attacks
  ### Bugs and Installation Failures
  
  * **Low FPS In Whiterun:** This isn't really a bug, just a side effect of the exterior mods and the density of the grass. I did do a bit of a bandaid fix that aleviates most of the problems, but you might still have some minor frame drops.
- 
- * **Weird AI Pathing in Whiterun:** Most likely a navmesh problem, working on it
  
  This list only really gets updated whenever any of the major mods it uses do, so small bugs may survive for a while. If you find any anything, please report them to me on discord @arnoldp
  
