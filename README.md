@@ -4,7 +4,7 @@
 
 The version out is the most up to date version of the list.
 
-Ace's post is a little bit outdated. The list is now 317 gigs. Deleting the downloads folder once its installed can save 119gb of storage, but it still might be a bit shocking to see the difference in size.
+Ace's post is a little bit outdated. The list is now 320 gigs. Deleting the downloads folder once its installed can save around 120gb of storage, but it still might be a bit shocking to see the difference in size.
 
 <details>
  <summary>Description</summary>
