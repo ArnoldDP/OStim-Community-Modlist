@@ -156,21 +156,34 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
  True directional movement and Smoothcam are used to make third person gameplay feel a bit more modern. I included a few smoothcam presets, but theres hundreds that you can download off of Nexus if you dont like the prepackaged ones (or you can just turn off smoothcam in the MCM). First person is handled by Improved Camera. It comes with an optional configuration for clippingless fpv OStim scenes
 
- * Exploration
-
-Exploration has had several mods added to make it just a bit more fun. With the paraglider mod and the new SkyClimb mod, as well as a plethora of new and renewed locations added to the game, even the most hardened Skyrim veterans will have a whole trove of secrets to uncover. 
-
  * User Interface
  
- The vanilla UI has been completely overhauled by several, fully customizable mods. While the HUD has been pre-configured, feel free to modify it in any way youd like. Everything used is found in the **UI** section.
+The vanilla UI has been completely overhauled by several, fully customizable mods. While the HUD has been pre-configured, feel free to modify it in any way youd like. Everything used is found in the **UI** section.
  
  * Followers
  
- Several new and fully voiced followers have been added to the game, some of which even have OStim supported "romance" *wink*
+Several new and fully voiced followers have been added to the game, some of which even have OStim supported "romance" *wink*
 
- Vanilla followers are managed using Nethers Follower Framework. Please do not port any non-vanilla voiced follower into the framework. It will most likely break them..
+Vanilla followers are managed using Nethers Follower Framework. Please do not port any non-vanilla voiced follower into the framework. It will most likely break them..
  
- Almost all of these gameplay mods can be completely ignored, or fully embraced. The choice is yours.
+Almost all of these gameplay mods can be completely ignored, or fully embraced. The choice is yours.
+
+ ### The World
+
+ * Towns and Cities
+
+Many of the towns and cities have been expanded on, or overhauled entirely. All of these changes are meant to be lore friendly and simply seak to make the are feel more alive.
+
+ * Random places
+
+Many notable but underwhelming places have been updated to feel a bit more important. Ryn's mods make up the bulk of these changes, but there are a few others thrown in for a bit more flavor.
+
+ * Additions
+
+Several small but unique places from various mods have been added, and while they arent massive new lands with hundreds of quests, they do make our little section of Tamriel feel a bit more lively.
+
+These mods in tandem with Skyrim's Paraglider and the new SkyClimb mod make exploration feel like a brand new experience. Even the most hardened Skyrim veterans will have a whole trove of secrets to uncover if they so choose.
+
  
  </details>
  
