@@ -59,7 +59,7 @@ This is not pornrim with barely clothed women, public masturebation, and sexuall
 
 ### ENB
 
- Two ENB presets are included. Rudy for NAT, and my own personal blend of Verdenna + PRT + NAT. Don't like either of them? Thats fine! I have a small guide below that you can use to swap the ENB for anything else you want.
+ Two ENB presets are included. Rudy for NAT, and my own personal blend of Verdenna + PRT + NAT. Don't like either of them? Thats fine! I have a small guide in the "Root Builder" section that you can use to swap the ENB for anything you want.
  
 ### Alternate Start
  
