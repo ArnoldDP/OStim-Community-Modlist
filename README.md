@@ -116,10 +116,9 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
  </details>
  
 <details>
-  <summary>A Brief explanation of the "major" gameplay changes</summary>
+  <summary>A Brief explanation of some of some of the various things this list covers</summary>
  
  ### Gameplay changes and rebalancing
- 
  
  * Melee
  
@@ -155,8 +154,12 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
  * Camera
  
- True directional movement and Smoothcam are used to make third person gameplay feel a bit more modern. I included a few smoothcam presets, but theres hundreds that you can download off of Nexus if you dont like either of them (or you can just turn off smoothcam in the MCM). First person is handled by Improved Camera. It comes with an optional configuration for clippingless fpv OStim scenes
- 
+ True directional movement and Smoothcam are used to make third person gameplay feel a bit more modern. I included a few smoothcam presets, but theres hundreds that you can download off of Nexus if you dont like the prepackaged ones (or you can just turn off smoothcam in the MCM). First person is handled by Improved Camera. It comes with an optional configuration for clippingless fpv OStim scenes
+
+ * Exploration
+
+Exploration has had several mods added to make it just a bit more fun. With the paraglider mod and the new SkyClimb mod, as well as a plethora of new and renewed locations added to the game, even the most hardened Skyrim veterans will have a whole trove of secrets to uncover. 
+
  * User Interface
  
  The vanilla UI has been completely overhauled by several, fully customizable mods. While the HUD has been pre-configured, feel free to modify it in any way youd like. Everything used is found in the **UI** section.
@@ -165,7 +168,7 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
  
  Several new and fully voiced followers have been added to the game, some of which even have OStim supported "romance" *wink*
 
- Vanilla followers are managed using Amazing Follower Tweeks. Please do not port any non-vanilla voiced follower into the framework. It will most likely break them..
+ Vanilla followers are managed using Nethers Follower Framework. Please do not port any non-vanilla voiced follower into the framework. It will most likely break them..
  
  Almost all of these gameplay mods can be completely ignored, or fully embraced. The choice is yours.
  
