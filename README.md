@@ -164,7 +164,7 @@ The vanilla UI has been completely overhauled by several, fully customizable mod
  
 Several new and fully voiced followers have been added to the game, some of which even have OStim supported "romance" *wink*
 
-Vanilla followers are managed using Nethers Follower Framework. Please do not port any non-vanilla voiced follower into the framework. It will most likely break them..
+Vanilla followers are managed using Nethers Follower Framework. Please do not port any non-vanilla voiced follower into the framework. It will most likely break them.
  
 Almost all of these gameplay mods can be completely ignored, or fully embraced. The choice is yours.
 
@@ -192,7 +192,7 @@ These mods in tandem with Skyrim's Paraglider and the new SkyClimb mod make expl
   
   ### OStim
   
-   OStim integration is the primary focus of the list and what separates it from other lists. I tried to keep away from intrusive mods and only use things that integrate it into the game in a way that makes sense. It's not perfect, but its getting there. Here's a few of the notable mods included.
+   OStim integration was the primary focus of the list and what separates it from other "immsersion" focused modlists. There's too much to cover all at once here, so I'll just use a few of my favorites.
  
  * Rift's Rest
  
@@ -212,7 +212,7 @@ A fairly large mod that adds several quests, NPCs, and encounters to the game, a
  
 > OStim and its add-ons are configurable through their respective MCMs, most of them are neatly grouped together and can be found by just typing "O" in the MCM filter.
  
- Remember, OStim isnt just about sex, it adds another level of depth and realism to the game.
+ Remember, OStim isnt just another sex mod, it adds another level of depth and realism to the game.
   
  </details>
  
