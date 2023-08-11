@@ -138,7 +138,9 @@ Racial abilities are covered by a combination of Mannaz and Freyr. These mods ov
 
  * Perks
  
-Perks are handled by Vokriinator black. This is a patch that ccombines several perk overhaul mods from various authors. This provides you with a massive perk tree that allows for an astounding number of builds for you to come up with.
+Perks are (temporarily) handled by Vokriinator black. This is a patch that ccombines several perk overhaul mods from various authors. This provides you with a massive perk tree that allows for an astounding number of builds for you to come up with.
+
+I made the mistake of generating LODs while playing around with something, will be reverted in the near future
 
  * Vampires and Werewolves
  
