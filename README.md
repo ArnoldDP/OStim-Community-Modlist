@@ -18,7 +18,7 @@ This is not pornrim with barely clothed women, public masturebation, and sexuall
 
 * What this is
 
- It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, OStim, and Sunhelm Survival, this is list made to give a complete roleplaying experience to as many people as possible. Tl;dr this is a list for immersiphiles.
+ It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, OStim, and the Simonrim Suite, this is list made to give a complete roleplaying experience to as many people as possible. Immersiphilia is real, embrace it.
 
 </details>
 
@@ -143,6 +143,8 @@ Starfrost in conjunction with Campsight make up the bulk of the survival gamepla
 Perks are (possibly temporarily) handled by Vokriinator Black. This adds an extremely large perk tree to the game that allows for hundreds of unique builds. This may or may not be changed to Adamant later down the road
 
 ~~i made the mistake of running dyndolod with ordinator active while testing some things, my appologies~~
+
+### UX
 
  * Camera
  
