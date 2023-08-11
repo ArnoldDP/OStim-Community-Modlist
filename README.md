@@ -217,7 +217,7 @@ A fairly large mod that adds several quests, NPCs, and encounters to the game, a
 
  # Audio
 
- While this list isn't built to be an auditory experience, I am still a bit of an audiophile, so naturally some things have been changed
+ While this list isn't built to be an auditory experience, everyone likes good audio. 
  
  ### SFX
  
