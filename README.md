@@ -118,42 +118,32 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
 <details>
   <summary>A Brief explanation of some of some of the various things this list covers</summary>
  
- ### Gameplay changes and rebalancing
- 
+ ### Simonrim
+
+This list uses almost the full Simonrim Suite, along with a few other lightweight mods, to make the game feel just a little bit better, while staying true to the Skyrim experience. 
+
  * Melee
- 
-Melee combat is handled by ADXP + One Click Power Attack NG, and Valvalis Combat - Visceral Tactics. Valvalis is a patch that allows the mods Precision, Valhalla Combat, and Valravyn to work together in a cohesive way and introduce new mechanics like timed blocks/attacks, stamina based combat, and better AI. Dodge - MCO/DXP is also included becuase of course it is, who do you think I am?
 
-Chemmings Nordic animations for ADXP/MCO were chosen because I just felt like it would fit the best, but you are free to swap it out with any ADXP/MCO compatible moveset you'd like.
+Melee combat is handled by Attack - Distar Experience, along with Blade & Blunt + Valhalla. This introduces things like stamina based combat, injuries, and timed blocking, in a way that feels fair and balanced. Dodge - Motion Combat Overhaul is also included because of course it is, who do you think I am?
 
-You are free to disable all of this, as long as you rerun Nemesis. The mods can be found in the ***Gameplay - Melee*** separator.
- 
  * Magic
- 
-Magic has had dozens of new spells added to the game, some spells are easily aquired and some are hidden throughout the world. I also included Spellsiphon, an incredibly unique gameplay mod you can be integrated into any magic oriented playstyle
 
- * Races
- 
-Racial abilities are covered by a combination of Mannaz and Freyr. These mods overhaul the generic racial abilities and provide unique standing stone abilities based on your race. This makes races a more important part of character creation, but not to the point where there is a clearly defined "meta"
-
- * Perks
- 
-Perks are (temporarily) handled by Vokriinator black. This is a patch that ccombines several perk overhaul mods from various authors. This provides you with a massive perk tree that allows for an astounding number of builds for you to come up with.
-
-I made the mistake of generating LODs while playing around with something, will be reverted in the near future
-
- * Vampires and Werewolves
- 
-Lycanthropy and Vampirism are handled by Growl and Sacrilege. These two mods make small adjustments to the balance of these "diseases" that allows for more diverse playstyles. Vampires are no longer limited to running a restoration build and werewolves are actually playable.
+Dozens of unique and balanced new spells have been added to the game to make mage classes feel just a little bit more complete. Gameplay mods such as Sorcerer and Spellsiphon are also included to make magic feel more interactive and flexible.
 
  * Stealth
  
 Stealth had a few changes to make the vanilla thief more interesting. Book of Shadows adds several new systems such as takedowns, smokebombs, and more. Take a Peak is also included, and allows you to simply look through keyholes, maybe you'll see something fun? :^)
- 
+
  * Survival
- 
- Survival is handled by Sunhelm Survival and Camping Lite. These two mods are lightweight, customizable, and entirely optional. There's a small quest that involves sleeping in a bed if you'd like to start survival mode, but you can also enable/disable it through the MCM.
- 
+
+Starfrost in conjunction with Campsight make up the bulk of the survival gameplay. When combined with Seasons of Skyrim and a few other small mods included in this list, survival feels like a natural part of the game. 
+
+ * Perks
+
+Perks are (possibly temporarily) handled by Vokriinator Black. This adds an extremely large perk tree to the game that allows for hundreds of unique builds. This may or may not be changed to Adamant later down the road
+
+~~i made the mistake of running dyndolod with ordinator active while testing some things, my appologies~~
+
  * Camera
  
  True directional movement and Smoothcam are used to make third person gameplay feel a bit more modern. I included a few smoothcam presets, but theres hundreds that you can download off of Nexus if you dont like the prepackaged ones (or you can just turn off smoothcam in the MCM). First person is handled by Improved Camera. It comes with an optional configuration for clippingless fpv OStim scenes
