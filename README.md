@@ -18,7 +18,9 @@ This is not pornrim with barely clothed women, public masturebation, and sexuall
 
 * What this is
 
- It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, OStim, and the Simonrim Suite, this is list made to give a complete roleplaying experience to as many people as possible. Immersiphilia is real, embrace it.
+ It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, OStim, and the Simonrim Suite, this is list made to give a complete roleplaying experience to as many people as possible.
+ 
+ Immersiphilia is real, embrace it.
 
 </details>
 
