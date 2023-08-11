@@ -12,15 +12,15 @@ Ace's post is a little bit outdated. The list is now 320 gigs. Deleting the down
  ### Description
  
  
-* What this isnt
+  * What this isnt
 
 This is not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves, it is not a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall, and it isn't a lore breaking power fantasy where you become a god at level 15. It's also not a Phoenix Flavor based modlist (no disrespect to the authors) with the small addition of OStim.
 
-* What this is
+  * What this is
 
- It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, OStim, and the Simonrim Suite, this is list made to give a complete roleplaying experience to as many people as possible.
- 
- Immersiphilia is real, embrace it.
+It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, OStim, and the Simonrim Suite, this is list made to give a complete roleplaying experience to as many people as possible.
+
+Immersiphilia is real, embrace it.
 
 </details>
 
@@ -69,15 +69,15 @@ This is not pornrim with barely clothed women, public masturebation, and sexuall
  
  ### Hotkeys and Game Settings
  
-* Audio
+ * Audio
  
-Every pair of ears and set of headphones is different so audio balance does not come preconfigued. You should change this to your liking
+Since every pair of ears and set of headphones is different so audio balance does not come preconfigued. You should change this to your liking
  
-* Display
+ * Display
 
 This does come preconfigured. I dont recommend changing it, but if you think your system can handle it you should probably use BethINI to edit this instead of the Skyrim Launcher or in game settings.
  
-* Hotkeys and non-vanilla controls
+ * Hotkeys and non-vanilla controls
 
 END: Kreate menu
 
@@ -105,9 +105,9 @@ Left click (hold): Continued normal attacks
  
  ### Bugs and Installation Failures
  
- * **Low FPS In Whiterun:** This isn't really a bug, just a side effect of the exterior mods and the density of the grass. I did do a bit of a bandaid fix that aleviates most of the problems, but you might still have some minor frame drops.
+  * **Low FPS In Whiterun:** This isn't really a bug, just a side effect of the exterior mods and the density of the grass. I did do a bit of a bandaid fix that aleviates most of the problems, but you might still have some minor frame drops.
  
- This list only really gets updated whenever any of the major mods it uses do, so small bugs may survive for a while. If you find any anything, please report them to me on discord @arnoldp
+This list only really gets updated whenever any of the major mods it uses do, so small bugs may survive for a while. If you find any anything, please report them to me on discord @arnoldp
  
 If for any reason the Wabbajack installation fails, please DM me
 
@@ -150,7 +150,7 @@ Perks are (possibly temporarily) handled by Vokriinator Black. This adds an extr
 
  * Camera
  
- True directional movement and Smoothcam are used to make third person gameplay feel a bit more modern. I included a few smoothcam presets, but theres hundreds that you can download off of Nexus if you dont like the prepackaged ones (or you can just turn off smoothcam in the MCM). First person is handled by Improved Camera. It comes with an optional configuration for clippingless fpv OStim scenes
+True directional movement and Smoothcam are used to make third person gameplay feel a bit more modern. I included a few smoothcam presets, but theres hundreds that you can download off of Nexus if you dont like the prepackaged ones (or you can just turn off smoothcam in the MCM). First person is handled by Improved Camera. It comes with an optional configuration for clippingless fpv OStim scenes
 
  * User Interface
  
@@ -190,15 +190,15 @@ These mods in tandem with Skyrim's Paraglider and the new SkyClimb mod make expl
   
    OStim integration was the primary focus of the list and what separates it from other "immsersion" focused modlists. There's too much to cover all at once here, so I'll just use a few of my favorites.
  
- * Rift's Rest
+  * Rift's Rest
  
  A Witcher style brothel located in Riften. There's a few short stories centered around it that you might enjoy. 
  
- * OStim NPCs
+  * OStim NPCs
  
  Allows NPCs to engage in scenes without your input. You might find some bandits having fun in a cave and you might hear some noises coming from a locked door in your local inn
   
- * OStim Lovers
+  * OStim Lovers
  
  This is a mod that adds fully voiced romance options to several vanilla NPCs, think of it as a newer Armorous Adventures. It was mainly intended for a female PC, but its 2023 so use it as you see fit
 
