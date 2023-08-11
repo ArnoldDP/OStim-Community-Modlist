@@ -14,7 +14,7 @@ Ace's post is a little bit outdated. The list is now 320 gigs. Deleting the down
  
 * What this isnt
 
-This is not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves, it is not a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall, and it isn't a lore breaking power fantasy where you're practically a god. It's also not a Phoenix Flavor based modlist (no disrespect to the authors) with the small addition of OStim.
+This is not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves, it is not a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall, and it isn't a lore breaking power fantasy where you become a god at level 15. It's also not a Phoenix Flavor based modlist (no disrespect to the authors) with the small addition of OStim.
 
 * What this is
 
