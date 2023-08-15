@@ -2,7 +2,9 @@
 
 **Disclaimer:**
 
-The version out is the most up to date version of the list.
+The list is currently being updated.
+
+ETA August 16th 1pm PST.
 
 Ace's post is a little bit outdated. The list is now 320 gigs. Deleting the downloads folder once its installed can save around 120gb of storage, but it still might be a bit shocking to see the difference in size.
 
@@ -140,12 +142,6 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
 
 Starfrost in conjunction with Campsight make up the bulk of the survival gameplay. When combined with Seasons of Skyrim and a few other small mods included in this list, survival feels like a natural part of the game. 
 
- * Perks
-
-Perks are (possibly temporarily) handled by Vokriinator Black. This adds an extremely large perk tree to the game that allows for hundreds of unique builds. This may or may not be changed to Adamant later down the road
-
-~~i made the mistake of running dyndolod with ordinator active while testing some things, my appologies~~
-
 ### UX
 
  * Camera
@@ -275,9 +271,9 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
  </details>
  
 
-# Links
+# 
 
->UOCM Wabbajack File: https://mega.nz/file/1OEWSZiZ#0PMOmZawLs67KwI6VrPus51aC-znvxrKGlaE1vrJtBg
+OCM Wabbajack: under construction 
 
 >VersuchDrei's discord (OStim NG Official) https://discord.gg/qEhSpvUc5Z
  
