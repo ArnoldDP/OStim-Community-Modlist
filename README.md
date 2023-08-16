@@ -12,14 +12,14 @@ Ace's post is a little bit outdated. The list is now 320 gigs. Deleting the down
  <summary>Description</summary>
 
  ### Description
+
+   * What this is
+
+It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, and OStim, this is list made to give a complete roleplaying experience to as many people as possible.
  
   * What this isnt
 
 This is not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves, it is not a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall, and it isn't a lore breaking power fantasy where you become a god at level 15. It's also not a Phoenix Flavor based modlist (no disrespect to the authors) with the small addition of OStim.
-
-  * What this is
-
-It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, OStim, and the Simonrim Suite, this is list made to give a complete roleplaying experience to as many people as possible.
 
 Immersiphilia is real, embrace it.
 
