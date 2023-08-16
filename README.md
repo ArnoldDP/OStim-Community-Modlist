@@ -1,4 +1,4 @@
-# Unofficial Ostim Community Modlist
+# Ostim Community Modlist
 
 **Disclaimer:**
 
@@ -12,7 +12,6 @@ Ace's post is a little bit outdated. The list is now 320 gigs. Deleting the down
  <summary>Description</summary>
 
  ### Description
- 
  
   * What this isnt
 
@@ -273,7 +272,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
 
 # 
 
-OCM Wabbajack: under construction 
+>OCM Wabbajack: under construction 
 
 >VersuchDrei's discord (OStim NG Official) https://discord.gg/qEhSpvUc5Z
  
