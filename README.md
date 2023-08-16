@@ -183,7 +183,7 @@ Custom voiced followers are made by some of the most passionate modders you'll e
 
 [Bjorn](https://www.nexusmods.com/skyrimspecialedition/mods/91652) The new kid on the block, hates bandits as much as Lydia
 
-[IFD - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473) Adds a lot moe depth to a character that has a special place in everyones heart. (Is managed by NFF)
+[IFD - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473) Hates bandits as much as Bjorn (Is managed by NFF)
 
 [Vayne](https://www.nexusmods.com/skyrimspecialedition/mods/77924) *The* dunmer waifu
 
