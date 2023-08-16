@@ -151,27 +151,44 @@ The vanilla UI has been completely overhauled by several mods. While the UI does
 
 ### Followers
 
+ * Nether's Follower Framework
+
 Vanilla followers are handled by Nether's Follower Framework. Please do not import custom voiced followers (unless otherwise stated) into the framework. NFF can be managed in the "follower framework" MCM.
 
-Custom voiced followers are made by incredibly passionate authors, at the very least they add character to some of the rather bland content in Skyrim.
+ * Custom Followers
 
-[Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) Adorable cannibalistic wood elf girl
+Custom voiced followers are made by some of the most passionate modders you'll ever meet, and are the majority of the list's modded content.
+
+[Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) Adorable cannibalistic wood elf girl (Is managed by NFF)
 
 [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) Lovable imperial nerd researching the dwemer
 
 [Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874) Nerdy breton girl researching the dwemer
 
-[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) The smart blue cat. Likes spiders(???)
+[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) The smart blue cat. Likes spiders
 
+[Kaidan](https://kaidanmod.com) Everyones favorite himbo.
 
- 
+[Nessa](https://www.nexusmods.com/skyrimspecialedition/mods/77337) I haven't spent a lot of time with her, recommend reading her page
 
- 
-Several new and fully voiced followers have been added to the game, some of which even have OStim supported "romance" *wink*
+[Gore](https://www.nexusmods.com/skyrimspecialedition/mods/85298?tab=description) Edgy but in a good way, he will defend you with his life
 
-Vanilla followers are managed using Nethers Follower Framework. Please do not port any non-vanilla voiced follower into the framework. It will most likely break them.
- 
-Almost all of these gameplay mods can be completely ignored, or fully embraced. The choice is yours.
+[Caesia](https://www.nexusmods.com/skyrimspecialedition/mods/13389) Haven't spent a lot of time with her either, recommend reading her page
+
+[M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666) Catgirl with a lot of personality
+
+[Taliesin](https://www.nexusmods.com/skyrimspecialedition/mods/93413) A bit fruity, a bit edgy, and very lovable
+
+[Secunda](https://www.nexusmods.com/skyrimspecialedition/mods/93739) One of the many princesses that come from High Rock; I'd call her a sweetheart but she'd probably resort to autocannibalism
+
+[Bjorn](https://www.nexusmods.com/skyrimspecialedition/mods/91652) The new kid on the block, hates bandits as much as Lydia
+
+[IFD - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473) Adds a lot moe depth to a character that has a special place in everyones heart. (Is managed by NFF)
+
+[Vayne](https://www.nexusmods.com/skyrimspecialedition/mods/77924) *The* dunmer waifu
+
+[Coralyn](https://www.nexusmods.com/skyrimspecialedition/mods/79669) Another wood elf, but with less cannibalism
+
 
  ### The World
 
