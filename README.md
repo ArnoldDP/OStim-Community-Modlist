@@ -125,15 +125,15 @@ On the off chance that the game doesnt automatically downgrade, you can use [the
  
  ### Simonrim
 
-This list uses almost the full Simonrim Suite, along with a few other lightweight mods, to make the game feel just a little bit better, while staying true to the Skyrim experience. 
+This list uses almost the full Simonrim Suite, along with a few other lightweight mods, to make the game feel just a little bit more modern. 
 
  * Melee
 
-Melee combat is handled by Attack - Distar Experience, along with Blade & Blunt + Valhalla. This introduces things like stamina based combat, injuries, and timed blocking, in a way that feels fair and balanced. Dodge - Motion Combat Overhaul is also included because of course it is, who do you think I am?
+Melee combat is handled by Attack - Distar Experience, along with Blade & Blunt + Valhalla. This introduces things like stamina based combat, injuries, and timed blocking. Dodge - Motion Combat Overhaul is also included because of course it is, who do you think I am?
 
  * Magic
 
-Dozens of unique and balanced new spells have been added to the game to make mage classes feel just a little bit more complete. Gameplay mods such as Sorcerer and Spellsiphon are also included to make magic feel more interactive and flexible.
+Dozens of unique new spells have been added to the game to make mage classes feel just a little bit more complete. Gameplay mods such as Sorcerer and Spellsiphon are also included to make magic feel more interactive and flexible.
 
  * Stealth
  
@@ -141,7 +141,7 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
 
  * Survival
 
-Starfrost in conjunction with Campsight make up the bulk of the survival gameplay. When combined with Seasons of Skyrim and a few other small mods included in this list, survival feels like a natural part of the game. 
+Starfrost in conjunction with Campsight make up the bulk of the survival gameplay. When combined with Seasons of Skyrim and a few other small mods included in this list, survival feels like a natural part of the game. If you do not want to play in survival mode, simply turn it off in the gameplay settings menu. 
 
 ### UX
 
@@ -161,7 +161,7 @@ Vanilla followers are handled by Nether's Follower Framework. Please do not impo
 
  * Custom Followers
 
-Custom voiced followers are made by some of the most passionate modders you'll ever meet, and are the majority of the list's modded content.
+Custom voiced followers are made by some of the most passionate modders you'll ever meet, and are the majority of the list's new quests.
 
 [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) Adorable cannibalistic wood elf girl (Is managed by NFF)
 
