@@ -33,19 +33,17 @@ This is ***not*** pornrim with barely clothed women, public masturebation, and s
  
  ### Requirements
  
- The only hard requirements to run this modlist are a CPU with AVX2 support and ~300 gigs of storage available.
+ The only hard requirements to run the modlist are a CPU with AVX2 support and ~300 gigs of storage available.
  
-> Recommended specs for 1080p:
+> Recommended min specs for 1080p (Default profile):
 > 
-> CPU: Ryzen 5 5600/intel i5 11600
+> CPU: Ryzen 5 5600/intel i5 11600S
 >  
 > GPU: RTX 3060 8gb/RX 6600 8gb
 >  
 > RAM: 16gb ddr4 @2666 mhz
 > 
 > ~~Basically just generic gaming pc built after 2020~~
-> 
-> Obviously if your hardware is better, there shouldn't be any issues.
  
  I tried to keep the textures around 1-2k, but a few misc items, notably mountains and skin textures, are higher resolution. While the graphical fidelity isn't anywhere near as high as some modlists, it accomplishes my goal of making a list that looks nice, runs nice, and "feels" nice.
  
@@ -57,10 +55,18 @@ This is ***not*** pornrim with barely clothed women, public masturebation, and s
  
  <details>
    <summary>Post-installation</summary>
+  
+### Profiles
 
-### ENB
+While you are free to switch between profiles at any point in time, I can't say I recommend switching mid save. Doing so disables a few mods and enables a few others.
 
- Two ENB presets are included. Rudy for NAT, and my own personal blend of Verdenna + PRT + NAT. Don't like either of them? Thats fine! I have a small guide in the "Root Builder" section that you can use to swap the ENB for anything you want.
+ * Default
+
+The graphics focused profile. Uses NAT Weathers + your choice of Rudy for NAT or my own personal ENB.
+
+ * Community Shaders
+
+The performance focused profile. Uses Vivid Weathers + the Community Shaders suite + Vanilla HDR + SSS for Skins + Soft Shadows + Twilight.
  
 ### Alternate Start
  
@@ -78,7 +84,7 @@ This does come preconfigured. I dont recommend changing it, but if you think you
  
  * Hotkeys and non-vanilla controls
 
-END: Kreate menu
+END: Community Shaders window (CS profile only)
 
 Shift + Enter: ENB Menu
 
