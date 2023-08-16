@@ -249,7 +249,7 @@ A fairly large mod that adds several quests, NPCs, and encounters to the game, a
  
  ### Music
  
- Just like SFX, the vanilla OST has improved clarity and several new songs have been added. This kind of stuff is rather subjective so feel free to disable Around the Fire, Nyghtfall, and Nordenhamr, if you only want the vanilla OST. 
+ Just like SFX, the vanilla OST has improved clarity and songs from the mods Nyghtfall, Around the Fire, and Still have been added. This kind of stuff is also incredibly subjective, so feel free to disable the three mods and the assicated 
  
  </details>
  
@@ -272,7 +272,7 @@ A fairly large mod that adds several quests, NPCs, and encounters to the game, a
  
 Now just click okay. You can manage this like any other mod.
  
-ReShade can also be managed by root builder, but the setup can be a bit more finnicky. First install the reshade preset youd like to the version of the game that comes with this modlist. Now create an empty mod in MO2, open it in explorer and create a "root" folder inside of it. Drag and drop all of the files that ReShade installed into that root folder that you just created. If you're confused by the initial ReShade installation process, Sswaye has written an excellent guide that can be found here https://www.nexusmods.com/skyrimspecialedition/mods/78502
+ReShade can also be managed by root builder, but the setup can be a bit more finnicky. First install the reshade preset youd like to the version of the game that comes with this modlist. Now create an empty mod in MO2, open it in explorer and create a "root" folder inside of it. Drag and drop all of the files that ReShade installed into that root folder that you just created. If you're confused by the initial ReShade installation process, Sswaye has written an excellent guide that can be found [here](https://www.nexusmods.com/skyrimspecialedition/mods/78502)
 
 
  
