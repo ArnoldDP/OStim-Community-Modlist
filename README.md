@@ -147,9 +147,25 @@ True directional movement and Smoothcam are used to make third person gameplay f
 
  * User Interface
  
-The vanilla UI has been completely overhauled by several, fully customizable mods. While the HUD has been pre-configured, feel free to modify it in any way youd like. Everything used is found in the **UI** section.
+The vanilla UI has been completely overhauled by several mods. While the UI does come preconfigured, you're more than welcome to modify it. The main mods you'll need to worry about are TrueHUD, MoreHUD, and A Matter of Time.
+
+### Followers
+
+Vanilla followers are handled by Nether's Follower Framework. Please do not import custom voiced followers (unless otherwise stated) into the framework. NFF can be managed in the "follower framework" MCM.
+
+Custom voiced followers are made by incredibly passionate authors, at the very least they add character to some of the rather bland content in Skyrim.
+
+[Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) Adorable cannibalistic wood elf girl
+
+[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) Lovable imperial nerd researching the dwemer
+
+[Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874) Nerdy breton girl researching the dwemer
+
+[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) The smart blue cat. Likes spiders(???)
+
+
  
- * Followers
+
  
 Several new and fully voiced followers have been added to the game, some of which even have OStim supported "romance" *wink*
 
