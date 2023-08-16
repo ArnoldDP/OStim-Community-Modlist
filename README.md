@@ -117,7 +117,7 @@ https://www.nexusmods.com/skyrimspecialedition/mods/57618
  </details>
  
 <details>
-  <summary>A Brief explanation of some of some of the various things this list covers</summary>
+  <summary>Some of the things the list covers</summary>
  
  ### Simonrim
 
