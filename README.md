@@ -110,9 +110,7 @@ This list only really gets updated whenever any of the major mods it uses do, so
  
 If for any reason the Wabbajack installation fails, please DM me
 
-On the off chance that the game doesnt automatically downgrade, you can use the patcher below.
-
-https://www.nexusmods.com/skyrimspecialedition/mods/57618
+On the off chance that the game doesnt automatically downgrade, you can use [the patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618)
  
  </details>
  
