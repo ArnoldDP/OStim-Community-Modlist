@@ -179,7 +179,7 @@ Custom voiced followers are made by some of the most passionate modders you'll e
 
 [Taliesin](https://www.nexusmods.com/skyrimspecialedition/mods/93413) A bit fruity, a bit edgy, and very lovable
 
-[Secunda](https://www.nexusmods.com/skyrimspecialedition/mods/93739) One of the many princesses that come from High Rock; I'd call her a sweetheart but she'd probably resort to autocannibalism
+[Secunda](https://www.nexusmods.com/skyrimspecialedition/mods/93739) I'd call her a sweetheart but she'd probably resort to autocannibalism
 
 [Bjorn](https://www.nexusmods.com/skyrimspecialedition/mods/91652) The new kid on the block, hates bandits as much as Lydia
 
