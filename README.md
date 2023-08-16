@@ -21,8 +21,6 @@ It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect
 
 This is not pornrim with barely clothed women, public masturebation, and sexually aggressive wolves, it is not a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall, and it isn't a lore breaking power fantasy where you become a god at level 15. It's also not a Phoenix Flavor based modlist (no disrespect to the authors) with the small addition of OStim.
 
-Immersiphilia is real, embrace it.
-
 </details>
 
 <details>
