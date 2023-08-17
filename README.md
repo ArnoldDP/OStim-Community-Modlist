@@ -1,6 +1,6 @@
 # Ostim Community Modlist
 
-**Disclaimer:**
+### Disclaimer
 
 The list is up to date
 
