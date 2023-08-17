@@ -342,6 +342,6 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
  <Details>
   <summary>donations</summary>
  
-  I am simply compiling a list that I would be making for myself anyways. If you feel the need to donate, spin a wheel and pick any of the amazing authors featured in this list. They have put in hundreds, if not thousands, of hours of work to make Skyrim as good of a game as it is today.
+I will not personally accept donations, I simply compipled a list. If one of your mods are featured in the list, just dm me a link to your page and I'll add it. 
   
   </details>
