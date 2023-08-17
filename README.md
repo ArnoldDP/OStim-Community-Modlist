@@ -6,7 +6,7 @@ Ace's post is a little bit outdated. The list is now 320 gigs. Deleting the down
 
 ### News!
 
-The Great Simonrim update is now live! Along with this, there is the addition of a Community Shaders profile, and the new OStim Standalone. I promise the next update will not require a clean save. Planning on adding a few more armor sets and some ReShade presets to go along with Community Shaders in the next update.
+The Great Simonrim update is now live! Along with this, there is the addition of a Community Shaders profile and the amazing new OStim Standalone. I promise the next update will not require a clean save. Planning on adding a few more armor sets and some ReShade presets to go along with Community Shaders in the next update.
 
 I also now have a Discord for updates, feedback, and support. Feel free to join! [OCM Support discord](https://discord.gg/MgDsHfmCEF)
 
