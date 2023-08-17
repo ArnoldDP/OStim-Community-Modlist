@@ -28,8 +28,9 @@ This is ***not*** pornrim with barely clothed women, public masturebation, and s
  
  ### Preinstallation
  
- It is recommended that you start with a clean, unmodified, and up to date installation of Skyrim through the Steam store (no GOG, sorry). A modified version may fail to install properly, if at all.
- If you downgraded, validate your files by going to your library, right clicking "The Elder Scrolls V: Skyrim Special Edition", select properties, local files, and then click verify integrity of game files. Alternatively, you can completely uninstall the game and all related files and then reinstall it. After thats done, you can proceed with the installation.
+ You are required to start with a clean unmodified and up to date installation of Skyrim SE/AE through the steam store. If you are unsure of how to do this, I recommend following GamerPoets guide [here](https://www.youtube.com/watch?v=zQ5uNCKOKmI)
+
+ If you fail to start with a clean installation, the list will most likely not install. 
  
  ### Requirements
  
