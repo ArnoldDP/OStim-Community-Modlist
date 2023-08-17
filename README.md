@@ -342,6 +342,6 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
  <Details>
   <summary>donations</summary>
  
-I will not personally accept donations, I simply compipled a list. If one of your mods are featured in the list, just dm me a link to your page and I'll add it. 
+I will not personally accept donations, I simply compiled a list. If one of your mods are featured in the list, just dm me a link to your page and I'll add it. 
   
   </details>
