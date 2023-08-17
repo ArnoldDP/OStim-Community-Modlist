@@ -71,9 +71,9 @@ The performance focused profile. Uses Vivid Weathers + the Community Shaders sui
  
 ### Alternate Start
  
- I didn't go with the generic alternate start because I'm super funny and quirky (I dont want to support Arthmoor any more than I have to). Instead, Realm of Lorkhan is used, so make your murderhobo and have fun. If you get a message like "OStim not ready for installation", don't worry, its just script lag.
+ I didn't go with the generic alternate start because, instead Realm of Lorkhan is used. Explore it a little bit and see what it has to offer!
  
- ### Hotkeys and Game Settings
+### Hotkeys and Game Settings
  
  * Audio
  
