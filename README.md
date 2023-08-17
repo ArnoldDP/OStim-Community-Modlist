@@ -304,7 +304,12 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
 ![image](https://user-images.githubusercontent.com/122011472/224233588-68c316a5-8cc2-4849-aa24-9caad041069c.png)
  
  </details>
- 
+
+#Mega Link
+
+If its not on the gallery
+
+[OCM Wabbajack](https://mega.nz/file/0a8EAYra#YMQ2JjtO_9GK2f_mgztQxzMe-dgmS-iVFVYpwaVtfJU)
 
 # Discords
 
