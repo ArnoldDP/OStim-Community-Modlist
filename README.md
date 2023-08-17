@@ -315,7 +315,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
  
 # Patreon/Ko-Fi
  
->Ace [Patreon](https://www.patreon.com/skyrimaceanimations)
+>Ace [patreon](https://www.patreon.com/skyrimaceanimations)
 
 >Ace [ko-fi](https://ko-fi.com/skyrimaceanimations)
  
