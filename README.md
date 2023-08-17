@@ -156,6 +156,10 @@ True directional movement and Smoothcam are used to make third person gameplay f
  
 The vanilla UI has been completely overhauled by several mods. While the UI does come preconfigured, you're more than welcome to modify it. The main mods you'll need to worry about are TrueHUD, MoreHUD, and A Matter of Time.
 
+ * Photo Mode
+
+This adds a fully functional photo mode, inspired by later Bethesda titles. Read more about it [here](https://www.nexusmods.com/skyrimspecialedition/mods/91701)
+
 ### Followers
 
  * Nether's Follower Framework
