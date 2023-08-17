@@ -307,11 +307,11 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
 
 # 
 
->OCM Wabbajack: under construction 
+>[OCM Support discord](https://discord.gg/MgDsHfmCEF)
 
->VersuchDrei's discord (OStim NG Official) https://discord.gg/qEhSpvUc5Z
+>[OStim Standalone Official](https://discord.gg/qEhSpvUc5Z)
  
->Ace's Discord (OStim NG Community) https://discord.gg/ostim
+>[OStim Community](https://discord.gg/ostim)
  
  <details>
   <summary>Community note</summary>
