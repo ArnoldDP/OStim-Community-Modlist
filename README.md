@@ -69,7 +69,7 @@ The graphics focused profile. Uses NAT Weathers + your choice of Rudy for NAT or
 
  * Community Shaders
 
-The performance focused profile. Uses Vivid Weathers, the Community Shaders suite, Vanilla HDR, SSS for Skins, Soft Shadows, Twilight.
+The performance focused profile. Uses Vivid Weathers (soon to be NAT SA), the Community Shaders suite, Vanilla HDR, SSS for Skins, Soft Shadows, Twilight, and soon in the next update your choice of several ReShade presets.
  
 ### Alternate Start
  
