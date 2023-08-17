@@ -69,7 +69,7 @@ The graphics focused profile. Uses NAT Weathers + your choice of Rudy for NAT or
 
  * Community Shaders
 
-The performance focused profile. Uses Vivid Weathers + the Community Shaders suite + Vanilla HDR + SSS for Skins + Soft Shadows + Twilight.
+The performance focused profile. Uses Vivid Weathers, the Community Shaders suite, Vanilla HDR, SSS for Skins, Soft Shadows, Twilight.
  
 ### Alternate Start
  
@@ -286,6 +286,8 @@ A fairly large mod that adds several quests, NPCs, and encounters to the game, a
 Now just click okay. You can manage this like any other mod.
  
 ReShade can also be managed by root builder, but the setup can be a bit more finnicky. First install the reshade preset youd like to the version of the game that comes with this modlist. Now create an empty mod in MO2, open it in explorer and create a "root" folder inside of it. Drag and drop all of the files that ReShade installed into that root folder that you just created. If you're confused by the initial ReShade installation process, Sswaye has written an excellent guide that can be found [here](https://www.nexusmods.com/skyrimspecialedition/mods/78502)
+
+I am making a small video guide on this process, just incase you found it confusing.
 
 
  
