@@ -313,7 +313,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
  
 >[OStim Community](https://discord.gg/ostim)
  
-# Patreon/Ko-Fi
+# Patreon/Ko-Fi for various authors featured in the list
  
 >Ace [patreon](https://www.patreon.com/skyrimaceanimations)
 
