@@ -2,9 +2,7 @@
 
 **Disclaimer:**
 
-The list is currently being updated.
-
-ETA August 17th 1pm PST.
+The list is up to date
 
 Ace's post is a little bit outdated. The list is now 320 gigs. Deleting the downloads folder once its installed can save around 120gb of storage, but it still might be a bit shocking to see the difference in size.
 
@@ -305,7 +303,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
  
  </details>
 
-#Mega Link
+# Mega Link
 
 If its not on the gallery
 
