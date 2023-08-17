@@ -315,27 +315,29 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
  
 # Patreon/Ko-Fi
  
->Ace [Patreon] (various): https://www.patreon.com/skyrimaceanimations
+>Ace [Patreon](https://www.patreon.com/skyrimaceanimations)
 
->Ace [ko-fi] (various): https://ko-fi.com/skyrimaceanimations
+>Ace [ko-fi](https://ko-fi.com/skyrimaceanimations)
  
->Aietos (various): https://ko-fi.com/aietos
+>Aietos [ko-fi](https://ko-fi.com/aietos)
  
->Baka (BHUNP): https://www.patreon.com/BaboFactory
- 
->Kreiste (HIMBO): https://www.patreon.com/kreiste
+>Baka [patreon](https://www.patreon.com/BaboFactory)
 
->Moon (animations): https://ko-fi.com/callmemoon
-
->Silver (milfactory): https://ko-fi.com/silvermilfactory
-
->Sswaye (sswaye): https://ko-fi.com/katsusswaye
+>Drago [patreon](https://www.patreon.com/DragoAnimations)
  
->Urbon (various): https://ko-fi.com/urbon
+>Kreiste [patreon](https://www.patreon.com/kreiste)
 
->Vaenia (OStim Lovers): https://www.patreon.com/Vaenia121
+>Moon [ko-fi](https://ko-fi.com/callmemoon)
+
+>Silver [ko-fi](https://ko-fi.com/silvermilfactory)
+
+>Sswaye [ko-fi](https://ko-fi.com/katsusswaye)
  
->VersuchDrei (various): https://www.patreon.com/VersuchDrei
+>Urbon [ko-fi](https://ko-fi.com/urbon)
+
+>Vaenia [patreon](https://www.patreon.com/Vaenia121)
+ 
+>VersuchDrei [patreon](https://www.patreon.com/VersuchDrei)
  
  <Details>
   <summary>donations</summary>
