@@ -305,7 +305,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
  </details>
  
 
-# 
+# Discords
 
 >[OCM Support discord](https://discord.gg/MgDsHfmCEF)
 
@@ -313,16 +313,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
  
 >[OStim Community](https://discord.gg/ostim)
  
- <details>
-  <summary>Community note</summary>
-  
-  ### There are two discords
-
-  I do not care about the drama, I will not take part in it. Feel free to join both discords or just one, it makes no difference to me.
-  
- </details>
- 
-Patreon, ko-fi, etc for various mod authors featured on this list (@me if I forgot about you)
+# Patreon/Ko-Fi
  
 >Ace [Patreon] (various): https://www.patreon.com/skyrimaceanimations
 
