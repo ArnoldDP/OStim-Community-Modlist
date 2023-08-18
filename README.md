@@ -6,6 +6,8 @@ Ace's post is a little bit outdated. The list is now 320 gigs. Deleting the down
 
 ### News!
 
+Unofficial beta is over, soon to be on the gallery.
+
 ~~The Great Simonrim update is now live! Along with this, there is the addition of a Community Shaders profile and the amazing new OStim Standalone.~~
 
 ~~I promise the next update will not require a clean save. I am planning on adding some ReShade presets to go along with Community Shaders, and a few bug fixes.~~
