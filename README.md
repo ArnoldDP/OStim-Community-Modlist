@@ -19,7 +19,7 @@ I also now have a Discord for updates, feedback, and support. Feel free to join!
 
    * What this is
 
-It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, and OStim, this is list made to give a complete roleplaying experience to as many people as possible.
+It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, and OStim, this is a list made to give a complete roleplaying experience to as many people as possible.
  
   * What this isnt
 
@@ -244,7 +244,7 @@ These mods in tandem with Skyrim's Paraglider and the new SkyClimb mod make expl
   
   ### OStim
   
-   OStim integration was the primary focus of the list and what separates it from other "immsersion" focused modlists. There's too much to cover all at once here, so I'll just use a few of my favorites.
+   OStim integration was the primary focus of the list and what separates it from other "immersion" focused modlists. There's too much to cover all at once here, so I'll just use a few of my favorites.
  
   * Rift's Rest
  
