@@ -6,9 +6,11 @@ Ace's post is a little bit outdated. The list is now 320 gigs. Deleting the down
 
 ### News!
 
-The Great Simonrim update is now live! Along with this, there is the addition of a Community Shaders profile and the amazing new OStim Standalone.
+~~The Great Simonrim update is now live! Along with this, there is the addition of a Community Shaders profile and the amazing new OStim Standalone.~~
 
-I promise the next update will not require a clean save. I am planning on adding some ReShade presets to go along with Community Shaders, and a few bug fixes.
+~~I promise the next update will not require a clean save. I am planning on adding some ReShade presets to go along with Community Shaders, and a few bug fixes.~~
+
+Recompiling, (un)fortunately I have to swap out Realm of Lorkhan with Alternate Perspective due to a consistent and recreatable crash. My appologies.
 
 I also now have a Discord for updates, feedback, and support. Feel free to join! [OCM Support discord](https://discord.gg/MgDsHfmCEF)
 
@@ -54,7 +56,7 @@ This is ***not*** pornrim with barely clothed women, public masturebation, and s
  
  ### Previous Versions
  
- If you were using a previous version of this list, it is recommended that you *completely uninstall it* before updating to the new version. It's also recommended to start a completely new save, if you really need to use your current save you can clean your save using Fallrim tools, but this may be unstable.
+ If you were using a previous version of this list, it is recommended that you *completely uninstall it* before updating to the new version. It's also recommended to start a completely new save. If you really need to use your current save you can try clean your save using Fallrim tools, but this may be unstable.
  
  </details>
  
@@ -89,10 +91,11 @@ I recommend the following settings for Vivid Weathers:
 
 6. Moonlight: High
 
+Personally I like to swap between Darenis and Skyward ReShades depending on how im feeling.
 
 ### Alternate Start
  
- I didn't go with the generic alternate start because, instead Realm of Lorkhan is used. Explore it a little bit and see what it has to offer!
+ I didn't go with the generic Alternate Start - Choose Your Own Perspective. Instead, Alternate Perspective with Jayserpa's voiced mod are used. Try out the "Vanilla" start option, or pick a rolelpay!
  
 ### Hotkeys and Game Settings
  
@@ -336,7 +339,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
 
 If its not on the gallery
 
->[OCM Wabbajack](https://mega.nz/file/0a8EAYra#YMQ2JjtO_9GK2f_mgztQxzMe-dgmS-iVFVYpwaVtfJU)
+>~~[OCM Wabbajack](https://mega.nz/file/0a8EAYra#YMQ2JjtO_9GK2f_mgztQxzMe-dgmS-iVFVYpwaVtfJU)~~
 
 # Discords
 
