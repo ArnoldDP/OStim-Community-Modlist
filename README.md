@@ -61,7 +61,7 @@ This is ***not*** pornrim with barely clothed women, public masturebation, and s
   
 ### Profiles
 
-While you are free to switch between profiles at any point in time, I can't say I recommend switching mid save. Doing so disables a few mods and enables a few others.
+While you are free to, I can't say I recommend switching mid save. Doing so disables several mods and enables several others, this could break your save later down the road.
 
  * Default
 
@@ -69,8 +69,23 @@ The graphics focused profile. Uses NAT Weathers + your choice of Rudy for NAT or
 
  * Community Shaders
 
-The performance focused profile. Uses Vivid Weathers (soon to be NAT SA), the Community Shaders suite, Vanilla HDR, SSS for Skins, Soft Shadows, Twilight, and soon in the next update your choice of several ReShade presets.
- 
+The performance focused profile. Uses Vivid Weathers, Community Shaders, and an assortment of other mod. If you intend to use this profile I recommend the following settings for Vivid Weathers:
+
+1. Night Brightness: Clear
+
+2. Interior Brightness: Default
+
+3. Saturation: High
+
+3. Bloom: Low
+
+4. Contrast: High
+
+5. Sunlight: Ultra
+
+6. Moonlight: High
+
+
 ### Alternate Start
  
  I didn't go with the generic alternate start because, instead Realm of Lorkhan is used. Explore it a little bit and see what it has to offer!
