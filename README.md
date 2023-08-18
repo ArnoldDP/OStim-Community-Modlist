@@ -106,23 +106,23 @@ This does come preconfigured. I dont recommend changing it, but if you think you
  
  * Hotkeys and non-vanilla controls
 
-END: Community Shaders window (CS profile only)
+**END**: Community Shaders window (CS profile only)
 
-Shift + Enter: ENB Menu
+**Shift + Enter**: ENB Menu (Default profile only)
 
-Shift + Home: Improved Camera
+**Shift + Home**: Improved Camera
 
-Backspace: Immersive equipment display
+**Backspace**: Immersive equipment display
 
-Scroll Lock: Open Animation Replacer menu
+**Scroll Lock**: Open Animation Replacer menu
 
-V: Step Dodge
+**V**: Step Dodge
 
-V (double tap): Dodge roll
+**V (double tap)**: Dodge roll
 
-Shift + Right click: Power attack
+**Shift + Right click**: Power attack
 
-Left click (hold): Continued normal attacks
+**Left click (hold)**: Continued normal attacks
  
  </details>
  
