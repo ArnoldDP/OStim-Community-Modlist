@@ -333,7 +333,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
 
 # Links
 
-[Modlist](https://loadorderlibrary.com/lists/ostim-community-modlist)
+>[Modlist](https://loadorderlibrary.com/lists/ostim-community-modlist)
 
 >[OCM Wabbajack MEGA](https://mega.nz/file/IeMS0ZrI#BifdzDZsUDBLtuv5TwXv5SaHOD-cJV53trheq8YjDXk)
 
