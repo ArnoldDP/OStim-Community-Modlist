@@ -6,7 +6,9 @@ Ace's post is a little bit outdated. The list is now 320 gigs. Deleting the down
 
 ### News!
 
-The Great Simonrim update is now live! Along with this, there is the addition of a Community Shaders profile and the amazing new OStim Standalone. I promise the next update will not require a clean save. Planning on adding a few more armor sets and some ReShade presets to go along with Community Shaders in the next update.
+The Great Simonrim update is now live! Along with this, there is the addition of a Community Shaders profile and the amazing new OStim Standalone.
+
+I promise the next update will not require a clean save. I am planning on adding some ReShade presets to go along with Community Shaders, and a few bug fixes.
 
 I also now have a Discord for updates, feedback, and support. Feel free to join! [OCM Support discord](https://discord.gg/MgDsHfmCEF)
 
@@ -69,7 +71,9 @@ The graphics focused profile. Uses NAT Weathers + your choice of Rudy for NAT or
 
  * Community Shaders
 
-The performance focused profile. Uses Vivid Weathers, Community Shaders, and an assortment of other mod. If you intend to use this profile I recommend the following settings for Vivid Weathers:
+The performance focused profile. Uses Vivid Weathers, Community Shaders, and an assortment of other associated mods.
+
+I recommend the following settings for Vivid Weathers:
 
 1. Night Brightness: Clear
 
