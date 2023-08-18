@@ -8,10 +8,6 @@ Ace's post is a little bit outdated. The list is now 320 gigs. Deleting the down
 
 Unofficial beta is over, soon to be on the gallery.
 
-The Simonrim/OStim SA/Community Shaders update is live!
-
-I promise the next update will not require a clean save.
-
 I also now have a Discord for updates, feedback, and support. Feel free to join! [OCM Support discord](https://discord.gg/MgDsHfmCEF)
 
 <details>
@@ -335,11 +331,11 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
  
  </details>
 
-# Mega Link
+# Links
 
-If its not on the gallery
+[Modlist](https://loadorderlibrary.com/lists/ostim-community-modlist)
 
->[OCM Wabbajack](https://mega.nz/file/IeMS0ZrI#BifdzDZsUDBLtuv5TwXv5SaHOD-cJV53trheq8YjDXk)
+>[OCM Wabbajack MEGA](https://mega.nz/file/IeMS0ZrI#BifdzDZsUDBLtuv5TwXv5SaHOD-cJV53trheq8YjDXk)
 
 # Discords
 
