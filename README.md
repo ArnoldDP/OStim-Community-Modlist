@@ -333,7 +333,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
 
 # Links
 
->[OCM Wabbajack MEGA](https://mega.nz/file/IeMS0ZrI#BifdzDZsUDBLtuv5TwXv5SaHOD-cJV53trheq8YjDXk)
+>[OCM Wabbajack MEGA](https://mega.nz/file/JTU3EBZQ#5FhbvWNbXk7YE8BXWxxfq40QrdRan6Qc9lXoXEDGA_g)
 
 # Discords
 
