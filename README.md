@@ -355,6 +355,10 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
  
 >Baka [patreon](https://www.patreon.com/BaboFactory)
 
+>Doodle [ko-fi](https://ko-fi.com/doodlez)
+
+>Doodle [patreon](https://www.patreon.com/Doodlezoid)
+
 >Drago [patreon](https://www.patreon.com/DragoAnimations)
  
 >Kreiste [patreon](https://www.patreon.com/kreiste)
