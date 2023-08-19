@@ -190,9 +190,9 @@ Custom voiced followers are made by some of the most passionate modders you'll e
 
 [Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) Adorable cannibalistic wood elf girl (Is managed by NFF)
 
-[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) Lovable imperial nerd researching the dwemer
+[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) imperial nerd researching the dwemer
 
-[Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874) Nerdy breton girl researching the dwemer
+[Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874) Breton nerd researching the dwemer
 
 [Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) The smart blue cat. Likes spiders
 
@@ -206,7 +206,7 @@ Custom voiced followers are made by some of the most passionate modders you'll e
 
 [M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666) Catgirl with a lot of personality
 
-[Taliesin](https://www.nexusmods.com/skyrimspecialedition/mods/93413) A bit fruity, a bit edgy, and very lovable
+[Taliesin](https://www.nexusmods.com/skyrimspecialedition/mods/93413) A bit fruity, a bit edgy, probably won't try to kill you
 
 [Secunda](https://www.nexusmods.com/skyrimspecialedition/mods/93739) I'd call her a sweetheart but she'd probably resort to autocannibalism
 
