@@ -17,11 +17,11 @@ I also now have a Discord for updates, feedback, and support. Feel free to join!
 
    * What this is
 
-It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like At Your Own Pace, Seasons of Skyrim, and OStim, this is a list made to give a complete roleplaying experience to as many people as possible.
+It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like Experience, JaySerpa's Quest Expansions, At Your Own Pace, Seasons of Skyrim, and OStim, this is a list made to give a complete roleplaying experience to as many people as possible.
  
   * What this isnt
 
-This is ***not*** pornrim with barely clothed women, public masturebation, and sexually aggressive wolves. It is not a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall and it isn't a lore breaking power fantasy where you become a god at level 15. It's also not a Phoenix Flavor based modlist (no disrespect to the authors) with the small addition of OStim.
+This is ***not*** pornrim with barely clothed women, public masturebation, and sexually aggressive wolves. It is not a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall, and it isn't a lore breaking power fantasy where you become a god at level 15. It's also not a Phoenix Flavor based modlist (no disrespect to the authors) with the small addition of OStim.
 
 </details>
 
@@ -227,7 +227,7 @@ Custom voiced followers are made by some of the most passionate modders you'll e
 
  * Towns and Cities
 
-Many of the towns and cities have been expanded on, or overhauled entirely. All of these changes are meant to be lore friendly and simply seak to make the are feel more alive.
+Many of the towns and cities have been expanded on, or overhauled entirely. All of these changes are meant to be lore friendly and simply seak to make the game feel more alive.
 
  * Random places
 
