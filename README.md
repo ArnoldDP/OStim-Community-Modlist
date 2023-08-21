@@ -21,7 +21,7 @@ It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect
  
   * What this isnt
 
-This is ***not*** pornrim with barely clothed women, public masturebation, and sexually aggressive wolves. It is not a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall, and it isn't a lore breaking power fantasy where you become a god at level 15. It's also not a Phoenix Flavor based modlist (no disrespect to the authors) with the small addition of OStim.
+This is ***not*** pornrim with skimpy armor, public masturebation, and sexually aggressive wolves. It is not a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall. It isn't a lore breaking power fantasy where you become a god at level 15. It's also not a Phoenix Flavor based modlist (no disrespect to the authors) with the small addition of OStim.
 
 </details>
 
@@ -30,7 +30,7 @@ This is ***not*** pornrim with barely clothed women, public masturebation, and s
  
  ### Preinstallation
  
- You are required to start with a clean unmodified and up to date installation of Skyrim SE/AE through the steam store. If you are unsure of how to do this, I recommend following GamerPoets guide [here](https://www.youtube.com/watch?v=zQ5uNCKOKmI)
+ You are required to start with a clean, unmodified, and up to date installation of Skyrim SE/AE through the Steam store. If you are unsure of how to do this, I recommend following GamerPoets guide [here](https://www.youtube.com/watch?v=zQ5uNCKOKmI)
 
  If you fail to start with a clean installation, the list will most likely not install. 
  
@@ -47,13 +47,14 @@ This is ***not*** pornrim with barely clothed women, public masturebation, and s
 > RAM: 16gb ddr4 @2666 mhz
 > 
 > ~~Basically just generic gaming pc built after 2020~~
+
+ With the above specs, you can expect an average of 50 fps for most of the overworld and 60+ for most interiors.
  
- I tried to keep the textures around 1-2k, but a few misc items, notably mountains and skin textures, are higher resolution. While the graphical fidelity isn't anywhere near as high as some modlists, it accomplishes my goal of making a list that looks nice, runs nice, and "feels" nice.
+ For the optional Community Shaders profile, I'm honestly not sure what the minimum specs are. The FPS difference can be as high as 40 and as low as 0 in places that are limited by draw calls.
  
  ### Previous Versions
  
- If you were using a previous version of this list, it is recommended that you *completely uninstall it* before updating to the new version. It's also recommended to start a completely new save. If you really need to use your current save you can try clean your save using Fallrim tools, but this may be unstable.
- 
+ If you were using a version prior to the OStim Standalone/Simonrim/Community Shaders update, it is recommended that you start a completely new save (yes this means no falhrim save cleaner or similar tools). If you were using one of the more recent updates, you should be fine.
  </details>
  
  <details>
@@ -337,7 +338,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
 
 # Links
 
->[OCM Wabbajack MEGA](https://mega.nz/file/JTU3EBZQ#5FhbvWNbXk7YE8BXWxxfq40QrdRan6Qc9lXoXEDGA_g)
+>[OCM Wabbajack MEGA](https://mega.nz/file/hD1XEDqb#UstjYksGMe4fOPoZAVT_sTKMg4LcfPeZu5ttQktaAWI)
 
 # Discords
 
