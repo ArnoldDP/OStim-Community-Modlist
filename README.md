@@ -178,6 +178,10 @@ The vanilla UI has been completely overhauled by several mods. While the UI does
 
 This adds a fully functional photo mode, inspired by later Bethesda titles. Read more about it [here](https://www.nexusmods.com/skyrimspecialedition/mods/91701)
 
+ * Wheeler and dMenu
+
+[Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) is the new wheel menu by dTry. It adds an incredibly fast and simple wheel function to the game. The hotkeys do not come preconfigured, but you can change them using [dMenu](https://www.nexusmods.com/skyrimspecialedition/mods/97221). Since these are both incredibly flexible mods, I highly recommend reading both of the mod pages to see what they can do.
+
 ### Followers
 
  * Nether's Follower Framework
