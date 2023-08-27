@@ -85,7 +85,7 @@ While you are free to, I can't say I recommend switching mid save. Doing so disa
 
  * ENB - NAT
 
-The Default profile. Much worse performance but better (???) graphics. Expect 45-55 fps in most exteriors if you have the recommended specs.
+The Default profile. Much worse performance but better (???) graphics. Expect 45-55 fps in most exteriors if you have the recommended specs. Comes with your choice of a custom ENB preset made by yours truly, or Rudy for NAT. They have roughly the same performance but wildly different aesthetics.
 
  * CS - NAT
 
@@ -93,11 +93,11 @@ Deep heavily contrasted shadows and bright sunlight. Expect 60-80 fps in most ex
 
  * CS - RAID
 
-Lower contrast shadows and brighter nights, very nice for gameplay. Expect 65 - 85 fps in most exteriors if you have the recommended speccs.
+Lower contrast shadows and brighter nights, very nice for gameplay. Expect 65 - 85 fps in most exteriors if you have the recommended specs.
 
 ### Alternate Start
  
- I didn't go with the generic Alternate Start - Choose Your Own Perspective. Instead, Alternate Perspective with Jayserpa's voiced mod are used. Try out the "Vanilla" start option, or pick a rolelpay!
+ I didn't go with the generic Alternate Start - Choose Your Own Perspective. Instead, Alternate Perspective with Jayserpa's voiced mod is used. Try out the "Vanilla" start option, or pick a rolelpay!
  
 ### Hotkeys and Game Settings
  
