@@ -143,7 +143,7 @@ This does come preconfigured. I dont recommend changing it, but if you think you
  
   * **Low FPS In Whiterun:** This isn't really a bug, just a side effect of the exterior mods and the density of the grass. I did do a bit of a bandaid fix that aleviates most of the problems, but you might still have some minor frame drops.
 
- * **Weird Snow Shader in Winter Season:** I'm trying to find a fix for it, if you know of anything please do not hesitate to DM me
+ * **Weird Snow Shader in Winter Season:** I'm trying to find a fix for it. If you know anything about this, please DM me at any time.
 
 Please do not hesitate to report any other bugs in the [OCM Support discord](https://discord.gg/MgDsHfmCEF)
 
