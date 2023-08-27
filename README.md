@@ -17,7 +17,7 @@ I also now have a Discord for updates, feedback, and support. Feel free to join!
 
    * What this is
 
-It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like Experience, JaySerpa's Quest Expansions, At Your Own Pace, Seasons of Skyrim, and OStim, this is a list made to give a complete roleplaying experience to as many people as possible.
+It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like Experience, JaySerpa's Quest Expansions, At Your Own Pace, Seasons of Skyrim, and OStim, this is a list made to give you a complete roleplaying experience 
  
   * What this isnt
 
@@ -50,11 +50,30 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 
  With the above specs, you can expect an average of 50 fps for most of the overworld and 60+ for most interiors.
  
- For the optional Community Shaders profile, I'm honestly not sure what the minimum specs are. The FPS difference can be as high as 40 and as low as 0 in places that are limited by draw calls.
+ For the optional CS - NAT and CS - RAID profiles, I'm honestly not sure what the minimum specs are. The FPS difference can be as high as 40 and as low as 0 in places that are limited by draw calls.
  
  ### Previous Versions
  
- If you were using a version prior to the OStim Standalone/Simonrim/Community Shaders update, it is recommended that you start a completely new save (yes this means no falhrim save cleaner or similar tools). If you were using one of the more recent updates, you should be fine.
+ If you were using a version prior to the OStim Standalone/Simonrim/Community Shaders update, it is recommended that you start a completely new save (yes this means no falhrim save cleaner or similar tools). If you were using one of the more recent updates, you should be fine with just the clean save procedure. 
+
+ To perform a clean save
+ 
+> 1. Move to a safe area (I prefer Riverwood Trader) and save your game.
+>
+> 3. Install the newest version of the modlist.
+>
+> 3. Load your save, it will complain about missing mods, this doesnt matter.
+>
+> 4. Leave the area you saved in and run around outside for a few minutes, switch cells a couple times, maybe even kill a thing or two
+>
+> 5. Save your game wherever youre standing
+>
+> 6. Use [FallrimTools](https://www.nexusmods.com/skyrimspecialedition/mods/5031/) to open your save
+>
+> 7. Follow the instrution on the FallrimTools page to clean your save
+>
+> 8. Play the game normally
+
  </details>
  
  <details>
@@ -64,31 +83,17 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 
 While you are free to, I can't say I recommend switching mid save. Doing so disables several mods and enables several others, this could break your save later down the road.
 
- * Default
+ * ENB - NAT
 
-The graphics focused profile. Uses NAT Weathers + your choice of Rudy for NAT or my own personal ENB.
+The Default profile. Much worse performance but better (???) graphics. Expect 45-55 fps in most exteriors if you have the recommended specs.
 
- * Community Shaders
+ * CS - NAT
 
-The performance focused profile. Uses Vivid Weathers, Community Shaders, and an assortment of other associated mods.
+Deep heavily contrasted shadows and bright sunlight. Expect 60-80 fps in most exteriors if you have the recommended specs.
 
-I recommend the following settings for Vivid Weathers:
+ * CS - RAID
 
-1. Night Brightness: Clear
-
-2. Interior Brightness: Default
-
-3. Saturation: High
-
-3. Bloom: Low
-
-4. Contrast: High
-
-5. Sunlight: Ultra
-
-6. Moonlight: High
-
-Personally I like to swap between Darenis and Skyward ReShades depending on how im feeling.
+Lower contrast shadows and brighter nights, very nice for gameplay. Expect 65 - 85 fps in most exteriors if you have the recommended speccs.
 
 ### Alternate Start
  
@@ -106,6 +111,12 @@ This does come preconfigured. I dont recommend changing it, but if you think you
  
  * Hotkeys and non-vanilla controls
 
+**Home**: ReShade Menu/Open Animation Replacer GUI. Cycle through them by hitting home multiple times
+
+**F11** dMenu.
+
+**Z** Wheeler. This and the rest of its associated hotkeys can easily be viewed and changed in dMenu
+
 **END**: Community Shaders window (CS profile only)
 
 **Shift + Enter**: ENB Menu (Default profile only)
@@ -113,8 +124,6 @@ This does come preconfigured. I dont recommend changing it, but if you think you
 **Shift + Home**: Improved Camera
 
 **Backspace**: Immersive equipment display
-
-**Scroll Lock**: Open Animation Replacer menu
 
 **V**: Step Dodge
 
@@ -133,9 +142,11 @@ This does come preconfigured. I dont recommend changing it, but if you think you
  ### Bugs and Installation Failures
  
   * **Low FPS In Whiterun:** This isn't really a bug, just a side effect of the exterior mods and the density of the grass. I did do a bit of a bandaid fix that aleviates most of the problems, but you might still have some minor frame drops.
- 
-This list only really gets updated whenever any of the major mods it uses do, so small bugs may survive for a while. If you find any anything, please report them to me on discord @arnoldp
- 
+
+ * **Weird Snow Shader in Winter Season:** I'm trying to find a fix for it, if you know of anything please do not hesitate to DM me
+
+Please do not hesitate to report any other bugs in the [OCM Support discord](https://discord.gg/MgDsHfmCEF)
+
 If for any reason the Wabbajack installation fails, please DM me
 
 On the off chance that the game doesnt automatically downgrade, you can use [the patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618)
