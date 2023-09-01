@@ -17,7 +17,7 @@ I also now have a Discord for updates, feedback, and support. Feel free to join!
 
    * What this is
 
-It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like Experience, JaySerpa's Quest Expansions, At Your Own Pace, Seasons of Skyrim, and OStim, this is a list made to give you a complete roleplaying experience 
+It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like Experience, JaySerpa's Quest Expansions, At Your Own Pace, Seasons of Skyrim, and OStim, this is a list made to give you a complete roleplaying experience that still feels like Skyrim.
  
   * What this isnt
 
@@ -81,19 +81,23 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
   
 ### Profiles
 
-While you are free to, I can't say I recommend switching mid save. Doing so disables several mods and enables several others, this could break your save later down the road.
+While you are free to switch profiles at any point in time, I have to recommend doing the clean save procedure if you are switching from Solas to NAT. It probably won't hurt anything, but better safe than sorry.
+
+ * ENB - Solas
+
+The Default profile. Looks the most natural in my opinion with slightly desaturated colors and warm undertones.
+
+ * CS - Solas
+
+Similar in aesthetic to the ENB - Solas profile. Sacrifices quality for much better performancec, especially on weaker hardware.
 
  * ENB - NAT
 
-The Default profile. Much worse performance but better (???) graphics. Expect 45-55 fps in most exteriors if you have the recommended specs. Comes with your choice of a custom ENB preset made by yours truly, or Rudy for NAT. They have roughly the same performance but wildly different aesthetics.
+Deep contrasted shadows and more saturated colors. Usually prefered by those who like a more artistic fantasy type of environment.
 
  * CS - NAT
 
-Deep heavily contrasted shadows and bright sunlight. Expect 60-80 fps in most exteriors if you have the recommended specs.
-
- * CS - RAID
-
-Lower contrast shadows and brighter nights, very nice for gameplay. Expect 65 - 85 fps in most exteriors if you have the recommended specs.
+Similar in aesthetic to the ENB - NAT profile. Again, sacrifices quality for much better performance. 
 
 ### Alternate Start
  
