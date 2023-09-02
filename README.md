@@ -83,7 +83,7 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 
 While you are free to switch profiles at any point in time, I have to recommend doing the clean save procedure if you are switching from Solas to NAT. It probably won't hurt anything, but better safe than sorry.
 
- * ENB - Solas
+ * Default/ENB - Solas
 
 The Default profile. Looks the most natural in my opinion with slightly desaturated colors and warm undertones.
 
