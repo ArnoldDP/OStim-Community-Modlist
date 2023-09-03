@@ -1,9 +1,5 @@
 # Ostim Community Modlist
 
-### Disclaimer
-
-Ace's post is a little bit outdated. The list is now (roughly) 335 gigabytes. Deleting the downloads folder once its installed can save around 125gb of storage, but it still might be a bit shocking to see the difference in size.
-
 ### News!
 
 Unofficial beta is over, soon to be on the gallery.
