@@ -351,7 +351,7 @@ If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you s
 
 >[Consistently up-to-date modlist (C.U.M.)](https://loadorderlibrary.com/lists/ostim-community-modlist)
 >
->[OCM Wabbajack MEGA](https://mega.nz/file/sGN3BZyZ#F6i4_eZZgOqLqDABKwRFxs4g2-_XNy6Iq6o82o19-h4)
+>[OCM Wabbajack MEGA](https://mega.nz/file/4T1hwSID#NG1Y3v8JH0itwxkjKTByHTsea4grasqWqDx4V106XP8)
 
 # Discords
 
