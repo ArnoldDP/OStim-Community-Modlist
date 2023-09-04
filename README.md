@@ -178,6 +178,8 @@ Starfrost in conjunction with Campsight make up the bulk of the survival gamepla
 
 ### UX
 
+Basically just gave it my best attempt to add modern QOL and UI elements.
+
  * Camera
  
 True directional movement and Smoothcam are used to make third person gameplay feel a bit more modern. I included a few smoothcam presets, but theres hundreds that you can download off of Nexus if you dont like the prepackaged ones (or you can just turn off smoothcam in the MCM). First person is handled by Improved Camera. It comes with an optional configuration for clippingless fpv OStim scenes
@@ -195,6 +197,8 @@ This adds a fully functional photo mode, inspired by later Bethesda titles. Read
 [Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) is the new wheel menu by dTry. It adds an incredibly fast and simple wheel function to the game. The hotkeys do not come preconfigured, but you can change them using [dMenu](https://www.nexusmods.com/skyrimspecialedition/mods/97221). Since these are both incredibly flexible mods, I highly recommend reading both of the mod pages to see what they can do.
 
 ### Followers
+
+Followers are a pretty important part of this list. Generally they make the game feel more alive, some of the voiced ones even add their own small questlines and occasional OStim scenes.
 
  * Nether's Follower Framework
 
