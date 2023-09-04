@@ -305,45 +305,11 @@ A fairly large mod that adds several quests, NPCs, and encounters to the game, a
  
  ### Root builder
  
- This is a MO2 plugin that can be used for anything that needs to be installed to the root directory of your game. This allows for easy management of things like skse, engine fixes, and ENB presets. While it can usually install simple things like older ENBs just fine, you should still make sure its done properly.
- 
- To install a mod through root builder, select manual
- 
- ![image](https://github.com/ArnoldDP/OStim-Community-Modlist/assets/122011472/b62aa5e3-ead0-4928-a00a-0649b42f94f7)
- 
- Right click <data> and create a new directory named "root"
- 
- Drag everything that should be installed to the root directory of your game into the "root" folder that you just created. Disable everything else.
- 
- ![image](https://github.com/ArnoldDP/OStim-Community-Modlist/assets/122011472/77ba3828-d458-403a-b683-874c3b90c7b2)
- 
-Now just click okay. You can manage this like any other mod.
- 
-ReShade can also be managed by root builder, but the setup can be a bit more finnicky. First install the reshade preset youd like to the version of the game that comes with this modlist. Now create an empty mod in MO2, open it in explorer and create a "root" folder inside of it. Drag and drop all of the files that ReShade installed into that root folder that you just created. If you're confused by the initial ReShade installation process, Sswaye has written an excellent guide that can be found [here](https://www.nexusmods.com/skyrimspecialedition/mods/78502)
+ This is a MO2 plugin that I use to manage things like ENBs, ReShade, and SKSE.
 
-I am making a small video guide on this process, just incase you found it confusing.
+ Chooey has made an amazing four minute guide on what it is and how to use it.
 
-
- 
- ### Parallax
-
-Most of the included textures are Complex Parallax compatible. If an ENB preset you installed doesnt have complex parallax enabled by default, open up the enbseries.ini, and change the following settings to look like this
-
- 1. EnableTerrainParallax=false
- 2. EnableComplexGrass=true
- 3. EnableComplexGrassCollisions=true
- 4. EnableTerrainBlending=true
- 5. EnableComplexParallax=true
- 6. EnableComplexParallaxShadows=true
- 7. EnableComplexTerrainParallax=true
- 8. EnableComplexTerrainParallaxShadows=true
-
- 
- If any of these lines are missing from the enbseries.ini, you can simply copy and paste the missing lines into the file. It will work just fine.
-
-If you want to run NAT, Azurite, Vivid Weathers, or Aequinoctium weathers, you should enable ***FWMF for Fantasy Paper Maps Weather and Lighting Fix.esp***
-
-![image](https://user-images.githubusercontent.com/122011472/224233588-68c316a5-8cc2-4849-aa24-9caad041069c.png)
+ https://youtu.be/m3QjdslU_6w?si=dykjTXWlBI-KmH8G&t=108
  
  </details>
 
