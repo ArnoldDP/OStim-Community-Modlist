@@ -132,7 +132,12 @@ This does come preconfigured. I dont recommend changing it, but if you think you
 **Shift + Right click**: Power attack
 
 **Left click (hold)**: Continued normal attacks
- 
+
+Appologies to anyone who had trouble reading this. Thankfully, Charlistic has made a fantastic visual representation of the hotkeys that might help some people.
+
+
+ ![osm-keybinds](https://github.com/ArnoldDP/OStim-Community-Modlist/assets/122011472/edbba7fb-9de9-4ea2-a488-6cd5e77d13c7)
+
  </details>
  
  
