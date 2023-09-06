@@ -95,21 +95,7 @@ Deep contrasted shadows and more saturated colors. Usually prefered by those who
 
 Similar in aesthetic to the ENB - NAT profile. Again, sacrifices quality for much better performance. 
 
-### Alternate Start
- 
- I didn't go with the generic Alternate Start - Live Another Life. Instead, Alternate Perspective with Jayserpa's voiced mod is used. Try out the "Vanilla" start option, or pick a rolelpay!
- 
-### Hotkeys and Game Settings
- 
- * Audio
- 
-Since every pair of ears and set of headphones is different, audio balance does not come preconfigued. You should configure this for yourself.
- 
- * Display
-
-This does come preconfigured. I dont recommend changing it, but if you think your system can handle it, you should probably use BethINI to edit this instead of the Skyrim Launcher or in game settings.
- 
- * Hotkeys and non-vanilla controls
+### Hotkeys
 
 **Home**: ReShade Menu/Open Animation Replacer GUI. Cycle through them by hitting home multiple times
 
