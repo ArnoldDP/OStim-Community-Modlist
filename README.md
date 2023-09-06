@@ -97,7 +97,7 @@ Similar in aesthetic to the ENB - NAT profile. Again, sacrifices quality for muc
 
 ### Alternate Start
  
- I didn't go with the generic Alternate Start - Choose Your Own Perspective. Instead, Alternate Perspective with Jayserpa's voiced mod is used. Try out the "Vanilla" start option, or pick a rolelpay!
+ I didn't go with the generic Alternate Start - Live Another Life. Instead, Alternate Perspective with Jayserpa's voiced mod is used. Try out the "Vanilla" start option, or pick a rolelpay!
  
 ### Hotkeys and Game Settings
  
