@@ -326,7 +326,7 @@ A fairly large mod that adds several quests, NPCs, and encounters to the game, a
 
 >[Consistently up-to-date modlist (C.U.M.)](https://loadorderlibrary.com/lists/ostim-community-modlist)
 >
->[OCM Wabbajack MEGA](https://mega.nz/file/NTVy1ApA#3l9mazdhF8ovcwocIsm558Z_8oQ7UCovt3mcGrDjdOU)
+>[OCM Wabbajack MEGA](https://mega.nz/folder/AP9xRS5I#wPf5HI8FgJOVt9amUoAMVw)
 
 # Discords
 
