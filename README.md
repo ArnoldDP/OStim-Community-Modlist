@@ -138,6 +138,14 @@ Appologies to anyone who had trouble reading this. Thankfully, Charlistic has ma
 
  ![osm-keybinds](https://github.com/ArnoldDP/OStim-Community-Modlist/assets/122011472/edbba7fb-9de9-4ea2-a488-6cd5e77d13c7)
 
+ ### Modifications
+
+ While the list is a fully featured mod list out of the box, I cannot stop anyone from modifying it nor would I really want to.
+ 
+ Simple things like changing the weather/enb or adding armors and spells are just that, simple. I'd be happy to help you with it (provided you *actually need the help*). 
+ 
+ More complex mods like LOTD would require more in depth knowledge of building a modlist and I generally won't be able to provide assistence just due to the amount of time it would take.
+
  </details>
  
  
