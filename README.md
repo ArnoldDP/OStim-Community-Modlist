@@ -130,7 +130,7 @@ Appologies to anyone who had trouble reading this. Thankfully, Charlistic has ma
  
  Simple things like changing the weather/enb or adding armors and spells are just that, simple. I'd be happy to help you with it (provided you *actually need the help*). 
  
- More complex mods like LOTD would require more in depth knowledge of building a modlist and I generally won't be able to provide assistence just due to the amount of time it would take.
+ More complex mods like LOTD would require more in depth knowledge of building a modlist and I generally won't be able to provide assistence due to the amount of time it would take and my own inexperience with the majority of these mods. 
 
  </details>
  
@@ -153,7 +153,7 @@ On the off chance that the game doesnt automatically downgrade, you can use [the
  </details>
  
 <details>
-  <summary>Some of the things the list covers</summary>
+  <summary>A general overview</summary>
  
  ### Simonrim
 
