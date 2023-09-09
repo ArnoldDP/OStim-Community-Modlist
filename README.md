@@ -159,7 +159,7 @@ On the off chance that the game doesnt automatically downgrade, you can use [the
 <details>
   <summary>A general overview</summary>
 
-  This is not a complete list of everything found in the list, just a short overview of some of the major mods. You can find a complete list of the included mods here: [Consistently up-to-date modlist (C.U.M.)](https://loadorderlibrary.com/lists/ostim-community-modlist)
+  This is not a complete list of everything found in the list, just a short overview of some of the major mods. You can find a complete list of the included mods [here](https://loadorderlibrary.com/lists/ostim-community-modlist)
  
  ### Simonrim
 
