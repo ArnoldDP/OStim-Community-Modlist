@@ -29,6 +29,8 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
  You are required to start with a clean, unmodified, and up to date installation of Skyrim SE/AE through the Steam store. If you are unsure of how to do this, I recommend following GamerPoets guide [here](https://www.youtube.com/watch?v=zQ5uNCKOKmI)
 
  If you fail to start with a clean installation, the list will most likely not install. 
+
+ The game language also needs to be set to English. I'd assume you can change the localization afterwards but I honestly don't know. 
  
  ### Requirements
  
