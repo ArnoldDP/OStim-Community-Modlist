@@ -13,7 +13,7 @@ I also now have a Discord for updates, feedback, and support. Feel free to join!
 
    * What this is
 
-It's a lore friendly and aesthetically pleasing overhaul for nearly every aspect of the game. Featuring mods like Experience, JaySerpa's Quest Expansions, At Your Own Pace, Seasons of Skyrim, and OStim, this is a list made to give you a complete roleplaying experience that still feels like Skyrim.
+It's a lore friendly and aesthetically pleasing overhaul meant to be as immersive as possible. Featuring mods like At Your Own Pace, JaySerpas various quest expansions, the Simonrim suite, and OStim, this is an attempt at giving a complete roleplaying experience to as many people as possible.
  
   * What this isnt
 
@@ -30,7 +30,7 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 
  If you fail to start with a clean installation, the list will most likely not install. 
 
- The game language also needs to be set to English. I'd assume you can change the localization afterwards but I honestly don't know. 
+ The game language also needs to be set to English. I'd assume you can change the localization afterwards but I honestly don't know due to being an ignorant English speaking American. My appologies.
  
  ### Requirements
  
@@ -46,9 +46,9 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 > 
 > ~~Basically just generic gaming pc built after 2020~~
 
- With the above specs, you can expect an average of 50 fps for most of the overworld and 60+ for most interiors.
- 
- For the optional CS - NAT and CS - RAID profiles, I'm honestly not sure what the minimum specs are. The FPS difference can be as high as 40 and as low as 0 in places that are limited by draw calls.
+ With the above specs, you can expect an average of 50 fps for most of the overworld and 60+ for most interiors with either of the ENB profiles.
+
+ With the CS profiles, I honeslty don't know what the minimum specs would be. The fps difference can be as high as 40 and as low as 0 in places with a lot of clutter.
  
  ### Previous Versions
  
@@ -81,7 +81,9 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 
 While you are free to switch profiles at any point in time, I have to recommend doing the clean save procedure if you are switching from Solas to NAT. It probably won't hurt anything, but better safe than sorry.
 
- * Default/ENB - Solas
+If you are switching between an ENB profile to a CS profile, I recommend checking your overwrite and clearing/moving anything that has to do with KiLoader or ENB (usually found in the "root" folder in your overwrite)
+
+ * ENB - Solas
 
 The Default profile. Looks the most natural in my opinion with slightly desaturated colors and warm undertones.
 
@@ -156,6 +158,8 @@ On the off chance that the game doesnt automatically downgrade, you can use [the
  
 <details>
   <summary>A general overview</summary>
+
+  This is not a complete list of everything found in the list, just a short overview of some of the major mods. You can find a complete list of the included mods here: [Consistently up-to-date modlist (C.U.M.)](https://loadorderlibrary.com/lists/ostim-community-modlist)
  
  ### Simonrim
 
