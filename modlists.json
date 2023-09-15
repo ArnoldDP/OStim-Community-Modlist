@@ -16,8 +16,8 @@
       "Performance Profile"
     ],
     "nsfw": true,
-    "image_contains_title": false,
-    "force_down": false,
+    "image_contains_title": true,
+    "force_down": true,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli2.png",
