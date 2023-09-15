@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "OCM",
-    "description": "A lore friendly, immersive, and aesthetically pleasing modlist. With mods like SoS, AYOP, and almost the full Simonrim suite, this is a list meant for long playthroughs with just enough NSFW content to keep it interesting.",
+    "description": "A lore friendly, immersive, and aesthetically pleasing modlist with just enough NSFW content to keep it interesting during long playthroughs.",
     "author": "BWAP",
     "maintainers": [
       "github/ArnoldDP"
