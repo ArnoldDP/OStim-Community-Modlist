@@ -1,41 +1,40 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "OModlist",
-    "description": "A streamer-esque vanilla+ modlist, but with a little more than just the chance of a nip slip. Were all adults here :^)",
-    "author": "<BiddinWar & Arnold>",
+    "title": "OCM",
+    "description": "A lore friendly immersion focused modlist. Yes, this means sex.",
+    "author": "BWAP",
     "maintainers": [
-      "github/ArnoldDP"
+      "github/<ArnoldDP"
     ],
     "game": "skyrimspecialedition",
     "tags": [
       "OStim",
-      "Vanilla Plus",
-      "Sexualized Content",
-      "bhunp",
-      "himbo"
+      "BHUNP",
+      "HIMBO",
+      "Performance profile",
     ],
     "nsfw": true,
     "image_contains_title": false,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/modlist%20image.webp",
-      "readme": "https://github.com/ArnoldDP/Vaguely-Sexual-Skyrim/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/OModlist.wabbajack_afccf797-ea9c-44d6-90b3-f4a91a482cea",
-      "machineURL": "ostimwabbajackmeoff",
-      "discordURL": "https://discord.gg/ostim"
+      "image": "<link to an image to show in the UI>",
+      "readme": "<link to your readme for your modlist>",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "OCMMURL",
+      "discordURL": "<your discord link here>"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "qWqa2yx54Zw=",
-      "Size": 401313190,
-      "NumberOfArchives": 808,
-      "SizeOfArchives": 94266162764,
-      "NumberOfInstalledFiles": 85692,
-      "SizeOfInstalledFiles": 150177808424
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
     },
-    "version": "0.1.2"
+    "version": "1.0"
   }
 ]
 
