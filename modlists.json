@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "OCM",
-    "description": "A lore friendly, immersive, and aesthetically pleasing modlist. Yes, this means sex.",
+    "description": "A lore friendly, immersive, and aesthetically pleasing modlist. With mods like SoS, AYOP, and almost the full Simonrim suite, this is a list meant for long playthroughs with just enough NSFW content to keep it interesting.",
     "author": "BWAP",
     "maintainers": [
       "github/ArnoldDP"
@@ -17,9 +17,8 @@
     ],
     "nsfw": true,
     "image_contains_title": true,
-    "force_down": true,
+    "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli2.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/OCM.wabbajack_170799a3-a068-4b14-b848-1178d80650b2",
@@ -27,7 +26,6 @@
       "discordURL": "https://discord.gg/Wbq5mvKRrk"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "19ndvLePpII=",
       "Size": 1919231863,
       "NumberOfArchives": 1133,
