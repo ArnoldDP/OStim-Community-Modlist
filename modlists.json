@@ -5,7 +5,7 @@
     "description": "A lore friendly immersion focused modlist. Yes, this means sex.",
     "author": "BWAP",
     "maintainers": [
-      "github/<ArnoldDP"
+      "github/ArnoldDP"
     ],
     "game": "skyrimspecialedition",
     "tags": [
@@ -19,20 +19,20 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/modlist%20image%20for%20wabbajack.png",
+      "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "OCMMURL",
-      "discordURL": "<your discord link here>"
+      "discordURL": "https://discord.gg/Wbq5mvKRrk"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "e1+K7eJbDJw=",
-      "Size": 0,
-      "NumberOfArchives": 14,
-      "SizeOfArchives": 135206078,
-      "NumberOfInstalledFiles": 1311,
-      "SizeOfInstalledFiles": 336453775
+      "Hash": "19ndvLePpII=",
+      "Size": 1919231863,
+      "NumberOfArchives": 1133,
+      "SizeOfArchives": 132454662253,
+      "NumberOfInstalledFiles": 235247,
+      "SizeOfInstalledFiles": 223371322956
     },
     "version": "1.0"
   }
