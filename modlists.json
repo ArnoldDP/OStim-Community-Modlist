@@ -19,8 +19,8 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
-      "readme": "<link to your readme for your modlist>",
+      "image": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/modlist%20image%20for%20wabbajack.png",
+      "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "OCMMURL",
       "discordURL": "<your discord link here>"
