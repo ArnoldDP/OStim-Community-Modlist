@@ -22,17 +22,17 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli2.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_170799a3-a068-4b14-b848-1178d80650b2",
+      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_4dd13110-8c4e-4dca-a5d4-020055050b75",
       "machineURL": "ocm",
       "discordURL": "https://discord.gg/Wbq5mvKRrk"
     },
     "download_metadata": {
-      "Hash": "19ndvLePpII=",
-      "Size": 1919231863,
+      "Hash": "3yORBRaL+00=",
+      "Size": 1919232189,
       "NumberOfArchives": 1133,
       "SizeOfArchives": 132454662253,
       "NumberOfInstalledFiles": 235247,
-      "SizeOfInstalledFiles": 223371322956
+      "SizeOfInstalledFiles": 223371322959
     },
     "version": "1.0"
   }
