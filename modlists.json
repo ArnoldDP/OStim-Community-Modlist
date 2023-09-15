@@ -2,7 +2,7 @@
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "OCM",
-    "description": "A lore friendly immersion focused modlist. Yes, this means sex.",
+    "description": "A lore friendly, immersive, and aesthetically pleasing modlist. Yes, this means sex.",
     "author": "BWAP",
     "maintainers": [
       "github/ArnoldDP"
@@ -10,9 +10,10 @@
     "game": "skyrimspecialedition",
     "tags": [
       "OStim",
+      "Seasons of Skyrim",
       "BHUNP",
       "HIMBO",
-      "Performance profile"
+      "Performance Profile"
     ],
     "nsfw": true,
     "image_contains_title": false,
