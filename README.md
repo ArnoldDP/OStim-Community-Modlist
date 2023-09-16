@@ -283,11 +283,11 @@ A fairly large mod that adds several quests, NPCs, and encounters to the game, a
  
  ### SFX
  
- Every vanilla sound has been improved or changed. A lot of these changes can be subjective, but luckily they can all be easily disabled by scrolling down to the ***Sounds*** seperator in MO2
+ Every vanilla sound has been improved or changed. Most of this comes from Audio Overhaul for Skyrim, Immersive Sounds Compendium, several SFX replacers by Satafinix, and Unofficial HD Audio Project. These mods cannot be safely disabled without running your own syntehsis patch.
  
  ### Music
  
- Just like SFX, the vanilla OST has improved clarity and songs from the mods Nyghtfall, Around the Fire, and Still have been added. This kind of stuff is also incredibly subjective, so feel free to disable the three mods and the assicated 
+ Just like SFX, the vanilla OST has improved clarity and songs from the mods Nyghtfall, Around the Fire, and Still have been added. The additions can be incredibly subjective, so you can easily disable it by disabling "big old music mod" in the **Audio* separator.
  
  </details>
  
