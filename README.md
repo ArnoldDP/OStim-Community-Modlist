@@ -2,8 +2,6 @@
 
 ### News!
 
-Unofficial beta is over, soon to be on the gallery.
-
 I also now have a Discord for updates, feedback, and support. Feel free to join! [OCM Support discord](https://discord.gg/MgDsHfmCEF)
 
 <details>
