@@ -44,9 +44,9 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 > 
 > ~~Basically just generic gaming pc built after 2020~~
 
- With the above specs, you can expect an average of 50 fps for most of the overworld and 60+ for most interiors with either of the ENB profiles.
-
- With the CS profiles, I honeslty don't know what the minimum specs would be. The fps difference can be as high as 40 and as low as 0 in places with a lot of clutter.
+ With the above specs, you can expect an average of 50 fps in most exteriors and 60+ interiors with the ENB - High profile
+ 
+ I honeslty don't know what the minimum specs would be. The fps difference can be as high as 40 and as low as 0 in places with a lot of clutter.
  
  ### Previous Versions
  
@@ -62,7 +62,7 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 >
 > 4. Leave the area you saved in and run around outside for a few minutes, switch cells a couple times, maybe even kill a thing or two
 >
-> 5. Save your game wherever youre standing
+> 5. Save your game wherever youre standing and quit
 >
 > 6. Use [FallrimTools](https://www.nexusmods.com/skyrimspecialedition/mods/5031/) to open your save
 >
@@ -77,25 +77,7 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
   
 ### Profiles
 
-While you are free to switch profiles at any point in time, I have to recommend doing the clean save procedure if you are switching from Solas to NAT. It probably won't hurt anything, but better safe than sorry.
-
-If you are switching between an ENB profile to a CS profile, I recommend checking your overwrite and clearing/moving anything that has to do with KiLoader or ENB (usually found in the "root" folder in your overwrite)
-
- * ENB - Solas
-
-The Default profile. Looks the most natural in my opinion with slightly desaturated colors and warm undertones.
-
- * CS - Solas
-
-Similar in aesthetic to the ENB - Solas profile. Sacrifices quality for much better performancec, especially on weaker hardware.
-
- * ENB - NAT
-
-Deep contrasted shadows and more saturated colors. Usually prefered by those who like a more artistic fantasy type of environment.
-
- * CS - NAT
-
-Similar in aesthetic to the ENB - NAT profile. Again, sacrifices quality for much better performance. 
+If you are switching between an ENB profile to a CS profile or vice versa, I recommend checking your overwrite and clearing/moving anything that has to do with KiLoader or ENB (usually found in the "root" folder in your overwrite)
 
 ### Hotkeys
 
@@ -132,7 +114,7 @@ Appologies to anyone who had trouble reading this. Thankfully, Charlistic has ma
  
  Simple things like changing the weather/enb or adding armors and spells are just that, simple. I'd be happy to help you with it (provided you *actually need the help*). 
  
- More complex mods like LOTD would require more in depth knowledge of building a modlist and I generally won't be able to provide assistence due to the amount of time it would take and my own inexperience with the majority of these mods. 
+ More complex mods like LotD would require more in depth knowledge of building a modlist and I generally won't be able to provide assistence due to the amount of time it would take and my own inexperience with the majority of these mods. 
 
  </details>
  
