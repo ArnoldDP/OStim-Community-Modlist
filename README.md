@@ -2,7 +2,9 @@
 
 ### News!
 
-I also now have a Discord for updates, feedback, and support. Feel free to join! [OCM Support discord](https://discord.gg/MgDsHfmCEF)
+The list is now live! Grab it from the Wabbajack Gallery :)
+
+I also have a Discord for updates, feedback, and support. Feel free to join! [OCM Support discord](https://discord.gg/MgDsHfmCEF)
 
 <details>
  <summary>Description</summary>
@@ -11,11 +13,11 @@ I also now have a Discord for updates, feedback, and support. Feel free to join!
 
    * What this is
 
-It's a lore friendly and aesthetically pleasing overhaul meant to be as immersive as possible. Featuring mods like At Your Own Pace, JaySerpas various quest expansions, the Simonrim suite, and OStim, this is an attempt at giving a complete roleplaying experience to as many people as possible.
+It's a lore friendly and aesthetically pleasing overhaul meant to be as immersive as possible. Featuring mods like At Your Own Pace, JaySerpas various quest expansions, (almost) the full Simonrim suite, and OStim, this is an attempt at giving a complete roleplaying experience to as many people as possible.
  
   * What this isnt
 
-This is ***not*** pornrim with skimpy armor, public masturebation, and sexually aggressive wolves. It is not a hyperrealistic soulslike with a grueling survival mode and a map size that rivals Daggerfall. It isn't a lore breaking power fantasy where you become a god at level 15. It's also not a Phoenix Flavor based modlist (no disrespect to the authors) with the small addition of OStim.
+This is ***not*** pornrim with skimpy armor, public masturebation, and sexually aggressive wolves. While OStim is a sex mod framework, that doesn't mean that it has to be a $5 Steam hentai game.
 
 </details>
 
@@ -44,9 +46,9 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 > 
 > ~~Basically just generic gaming pc built after 2020~~
 
- With the above specs, you can expect an average of 50 fps in most exteriors and 60+ interiors with the ENB - High profile
+ With the above specs, you can expect an average of 50+ fps in most exteriors and 60-80 interiors with the ENB - High profile
  
- I honeslty don't know what the minimum specs would be. The fps difference can be as high as 40 and as low as 0 in places with a lot of clutter.
+ I honestly don't know what the minimum specs would be for the CS - Low profile. The fps difference can be as high as 40 and as low as 0 in places with a lot of clutter.
  
  ### Previous Versions
  
