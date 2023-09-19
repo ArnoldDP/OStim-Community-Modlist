@@ -1,5 +1,6 @@
 [
   {
+    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "OCM",
     "description": "A lore friendly, immersive, and aesthetically pleasing modlist with just enough NSFW content to keep it interesting during long playthroughs.",
     "author": "BWAP",
@@ -19,6 +20,7 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
+      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli2.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/OCM.wabbajack_490d5b11-7517-4bff-a5af-38d71129922a",
@@ -26,6 +28,7 @@
       "discordURL": "https://discord.gg/Wbq5mvKRrk"
     },
     "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
       "Hash": "Ti3dp+lRuEw=",
       "Size": 2099557545,
       "NumberOfArchives": 1132,
