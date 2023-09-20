@@ -18,23 +18,23 @@
     ],
     "nsfw": true,
     "image_contains_title": true,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli4wj.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_490d5b11-7517-4bff-a5af-38d71129922a",
+      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_fc2394ba-fec2-4732-938d-4ac7a56ddcd2",
       "machineURL": "ostimisgood",
       "discordURL": "https://discord.gg/Wbq5mvKRrk"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Ti3dp+lRuEw=",
-      "Size": 2099557545,
-      "NumberOfArchives": 1132,
-      "SizeOfArchives": 126427261739,
-      "NumberOfInstalledFiles": 235207,
-      "SizeOfInstalledFiles": 222972841692
+      "Hash": "0CrwmcCSXlQ=",
+      "Size": 2117345162,
+      "NumberOfArchives": 1157,
+      "SizeOfArchives": 127483656677,
+      "NumberOfInstalledFiles": 238402,
+      "SizeOfInstalledFiles": 230856302070
     },
     "version": "1.0.1"
   }
