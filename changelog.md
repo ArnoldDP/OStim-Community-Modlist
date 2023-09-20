@@ -21,9 +21,13 @@
 
     -Added Shadow of Skyrim as an optional mod (send to priority 239 if you enable this)
 
-    -Added Beards of Power (more male customization was desperately needed)
+    -Added Beards of Power (more male customization was desperately needed
 
-    -added several face presets
+    -Added Contextual Crosshair
+
+    -Added Two armor sets (both distributed via SPID)
+
+    -Added several face presets
 </details>
 
 <details>
