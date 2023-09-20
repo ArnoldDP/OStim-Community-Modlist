@@ -20,6 +20,10 @@
     -Added some options for better controller support
 
     -Added Shadow of Skyrim as an optional mod (send to priority 239 if you enable this)
+
+    -Added Beards of Power (more male customization was desperately needed)
+
+    -added several face presets
 </details>
 
 <details>
