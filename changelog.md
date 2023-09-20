@@ -16,6 +16,10 @@
     -Added Bosmer NPCs have Antlers + Cuyi's Bosmeri Antlers
 
     -Added Elven Ears for Breton NPCs
+
+    -Added some options for better controller support
+
+    -Added Shadow of Skyrim as an optional mod (send to priority 239 if you enable this)
 </details>
 
 <details>
