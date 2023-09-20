@@ -21,7 +21,7 @@
     "force_down": true,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli2.png",
+      "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli4wj.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/OCM.wabbajack_490d5b11-7517-4bff-a5af-38d71129922a",
       "machineURL": "ostimisgood",
