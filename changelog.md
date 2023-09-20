@@ -7,7 +7,7 @@
     
     -Added Stormcrown - A Shout Overhaul + Custom Skill Framework
     
-    -Added Cohesive First Person Animation Overhaul
+    -Added Comprehensive First Person Animation Overhaul
     
     -Added TRX Futanari for hermaphrodite/transfem characters
 
