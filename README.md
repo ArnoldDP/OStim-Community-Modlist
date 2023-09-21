@@ -161,7 +161,7 @@ Stealth had a few changes to make the vanilla thief more interesting. Book of Sh
 
  * Survival
 
-Starfrost in conjunction with Campsight make up the bulk of the survival gameplay. When combined with Seasons of Skyrim and a few other small mods included in this list, survival feels like a natural part of the game. If you do not want to play in survival mode, simply turn it off in the gameplay settings menu. 
+Sunhelm in conjunction with Campsight make up the bulk of the survival gameplay. When combined with Seasons of Skyrim and a few other small mods included in this list, survival feels like a natural part of the game. If you do not want to play in survival mode, simply turn it off in the gameplay settings menu. 
 
 ### UX
 
