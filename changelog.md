@@ -13,7 +13,7 @@
 
     -Reintroduced Race Based Textures (if you find any neck seams, post it in the discord and I'll make note of it)
 
-      NOTE: Futa support is still limited
+      NOTE: Futa support is still limited. For best results, use it with female nords. Other races will have more noticeable seams
 
     -Added Billy's Wall Pack for OStim SA
 
@@ -35,7 +35,7 @@
 
     -Removed TGC Rorikstead
 
-      TGC Rorikstead, while looking amazing, broke Nessa's intro quest. I do not have enough knowledge to make a patch for this myself, and modded followers take priority.
+      TGC Rorikstead, while looking amazing, broke Nessa's intro quest. I do not have enough knowledge to make a patch for this myself. Modded followers take priority.
 
     -Removed craftable cock and balls. Futa is only available through the MCM.
 
@@ -56,6 +56,12 @@
     -Small update to the Kreate preset used for the Community Shaders profile
 
     -Community Shaders shader cache is now pre-compiled
+
+    -Reboudn some controls
+
+      Wheeler Rebound to Y
+      IED Rebound to F10
+      Kreate (CS Only) Rebound to Scroll Lock
 
 </details>
 <details>
