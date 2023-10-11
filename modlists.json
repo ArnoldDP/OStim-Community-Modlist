@@ -23,7 +23,7 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli4wj.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_fc2394ba-fec2-4732-938d-4ac7a56ddcd2",
+      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_e8198f24-00d0-49d4-a8d4-2632451eb210",
       "machineURL": "ostimisgood",
       "discordURL": "https://discord.gg/Wbq5mvKRrk"
     },
@@ -36,7 +36,7 @@
       "NumberOfInstalledFiles": 238402,
       "SizeOfInstalledFiles": 230856302070
     },
-    "version": "1.0.1"
+    "version": "1.2"
   }
 ]
 
