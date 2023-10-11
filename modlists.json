@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "OCM",
     "description": "A lore friendly, immersive, and aesthetically pleasing modlist with just enough NSFW content to keep it interesting during long playthroughs.",
     "author": "BWAP",
@@ -8,6 +7,7 @@
       "github/ArnoldDP"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "OStim",
       "Seasons of Skyrim",
@@ -17,26 +17,27 @@
       "Performance Profile"
     ],
     "nsfw": true,
+    "utility_list": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli4wj.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_e8198f24-00d0-49d4-a8d4-2632451eb210",
+      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_88392f2d-e7e7-401c-b46f-f2d19e7afbae",
       "machineURL": "ostimisgood",
       "discordURL": "https://discord.gg/Wbq5mvKRrk"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "0CrwmcCSXlQ=",
-      "Size": 2117345162,
-      "NumberOfArchives": 1157,
-      "SizeOfArchives": 127483656677,
-      "NumberOfInstalledFiles": 238402,
-      "SizeOfInstalledFiles": 230856302070
+      "Hash": "V95V0d871B8=",
+      "Size": 1669939540,
+      "NumberOfArchives": 1172,
+      "SizeOfArchives": 134071819877,
+      "NumberOfInstalledFiles": 261496,
+      "SizeOfInstalledFiles": 239103909728
     },
-    "version": "1.2"
+    "version": "1.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-10-11T00:36:32.9522243Z",
+    "repositoryName": ""
   }
 ]
-
