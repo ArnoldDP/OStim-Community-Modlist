@@ -87,7 +87,7 @@ If you are switching between an ENB profile to a CS profile or vice versa, I rec
 
 **F11** dMenu.
 
-**Z** Wheeler. This and the rest of its associated hotkeys can easily be viewed and changed in dMenu
+**Y** Wheeler. This and the rest of its associated hotkeys can easily be viewed and changed in dMenu
 
 **END**: Community Shaders window (CS profile only)
 
@@ -95,7 +95,7 @@ If you are switching between an ENB profile to a CS profile or vice versa, I rec
 
 **Shift + Home**: Improved Camera
 
-**Backspace**: Immersive equipment display
+**F10**: Immersive equipment display
 
 **V**: Step Dodge
 
@@ -104,6 +104,8 @@ If you are switching between an ENB profile to a CS profile or vice versa, I rec
 **Shift + Right click**: Power attack
 
 **Left click (hold)**: Continued normal attacks
+
+**Scroll Lock** Kreate Menu (CS Profile Only
 
 Appologies to anyone who had trouble reading this. Thankfully, Charlistic has made a fantastic visual representation of the hotkeys that might help some people.
 
