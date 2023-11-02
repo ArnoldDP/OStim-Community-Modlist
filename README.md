@@ -13,7 +13,7 @@ I also have a Discord for updates, feedback, and support. Feel free to join! [OC
 
    * What this is
 
-It's a lore friendly and aesthetically pleasing overhaul meant to be as immersive as possible. Featuring mods like At Your Own Pace, JaySerpas various quest expansions, (almost) the full Simonrim suite, and OStim, this is an attempt at giving a complete roleplaying experience to as many people as possible.
+OCM is meant to expand on Skyrim with more modern RPG elements while simultaneously making it feel more lifelike and immersive. It does not include any new lands (e.g. Bruma) or large quests (e.g. LoTD) and the adult themed content is entirely optional.
  
   * What this isnt
 
@@ -24,7 +24,7 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 <details>
  <summary>Pre-installation and Requirements</summary>
  
- ### Preinstallation
+ ### Pre-installation
  
  You are required to start with a clean, unmodified, and up to date installation of Skyrim SE/AE through the Steam store. If you are unsure of how to do this, I recommend following GamerPoets guide [here](https://www.youtube.com/watch?v=zQ5uNCKOKmI)
 
@@ -112,14 +112,6 @@ Appologies to anyone who had trouble reading this. Thankfully, Charlistic has ma
 
  ![osm-keybinds](https://github.com/ArnoldDP/OStim-Community-Modlist/assets/122011472/edbba7fb-9de9-4ea2-a488-6cd5e77d13c7)
 
- ### Modifications
-
- While the list is a fully featured mod list out of the box, I cannot stop anyone from modifying it nor would I really want to.
- 
- Simple things like changing the weather/enb or adding armors and spells are just that, simple. I'd be happy to help you with it (provided you *actually need the help*). 
- 
- More complex mods like LotD would require more in depth knowledge of building a modlist and I generally won't be able to provide assistence due to the amount of time it would take and my own inexperience with the majority of these mods. 
-
  </details>
  
  
@@ -127,10 +119,8 @@ Appologies to anyone who had trouble reading this. Thankfully, Charlistic has ma
   <summary>Known issues</summary>
  
  ### Bugs and Installation Failures
- 
-  * **Low FPS In Whiterun:** This isn't really a bug, just a side effect of the exterior mods and the density of the grass. I did do a bit of a bandaid fix that aleviates most of the problems, but you might still have some minor frame drops.
 
- * **Weird Snow Shader in Winter Season:** I'm trying to find a fix for it. If you know anything about this, please DM me at any time.
+ * **Weird Snow Shader in Winter Season:** Open the MCM and find the LOD Fix mod. Click the button and you should be good to go.
 
 Please do not hesitate to report any other bugs in the [OCM Support discord](https://discord.gg/MgDsHfmCEF)
 
