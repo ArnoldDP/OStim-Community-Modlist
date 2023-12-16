@@ -141,7 +141,7 @@ This list uses almost the full Simonrim Suite, along with a few other lightweigh
 
  * Melee
 
-Melee combat is handled by Attack - Distar Experience, along with Blade & Blunt + Valhalla. This introduces things like stamina based combat, injuries, and timed blocking. Dodge - Motion Combat Overhaul is also included because of course it is, who do you think I am?
+Melee combat is handled by a combination of Blade & Blunt and Valhalla. This introduces things like stamina based combat, injuries, and timed blocking. Dodge - Motion Combat Overhaul is also included because of course it is, who do you think I am?
 
  * Magic
 
