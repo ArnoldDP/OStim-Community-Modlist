@@ -101,32 +101,23 @@ If you are switching between an ENB profile to a CS profile or vice versa, I rec
 
 **V (double tap)**: Dodge roll
 
-**Shift + Right click**: Power attack
-
-**Left click (hold)**: Continued normal attacks
-
 **Scroll Lock** Kreate Menu (CS Profile Only
-
-Appologies to anyone who had trouble reading this. Thankfully, Charlistic has made a fantastic visual representation of the hotkeys that might help some people.
-
-
- ![osm-keybinds](https://github.com/ArnoldDP/OStim-Community-Modlist/assets/122011472/edbba7fb-9de9-4ea2-a488-6cd5e77d13c7)
 
  </details>
  
  
 <details>
   <summary>Known issues</summary>
- 
- ### Bugs and Installation Failures
 
- * **Weird Snow Shader in Winter Season:** Open the MCM and find the LOD Fix mod. Click the button and you should be good to go.
+>There is an infinite loading screen if you try to use the main entrance to Fort Greymoor - Currently looking for a solution, the back entrance works perfectly fine though 
+>
+>There is a landscape seam in Ivaarstead by the barrow
+>
+>Shared quarters are missing in Vilemyr Inn (and potentially others) - If you can't find a hatch in the main room of an inn, do not rent the big expensive shared quarters room.
+
+This section is frequently changed.
 
 Please do not hesitate to report any other bugs in the [OCM Support discord](https://discord.gg/MgDsHfmCEF)
-
-If for any reason the Wabbajack installation fails, please DM me
-
-On the off chance that the game doesnt automatically downgrade, you can use [the patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618)
  
  </details>
  
