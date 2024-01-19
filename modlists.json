@@ -1,7 +1,7 @@
 [
   {
     "title": "OCM",
-    "description": "A lore friendly, immersive, and aesthetically pleasing modlist with just enough NSFW content to keep it interesting during long playthroughs.",
+    "description": "Just enough NSFW to make long playthroughs interesting.",
     "author": "BWAP",
     "maintainers": [
       "github/ArnoldDP"
@@ -20,7 +20,7 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli3.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
