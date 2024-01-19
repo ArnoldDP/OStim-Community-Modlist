@@ -46,9 +46,7 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 > 
 > ~~Basically just generic gaming pc built after 2020~~
 
- With the above specs, you can expect an average of 50+ fps in most exteriors and 60-80 interiors with the ENB - High profile
- 
- I honestly don't know what the minimum specs would be for the CS - Low profile. The fps difference can be as high as 40 and as low as 0 in places with a lot of clutter.
+ With the above specs, you can expect an average of 50+ fps in most exteriors and 60-80 interiors.
  
  ### Previous Versions
  
