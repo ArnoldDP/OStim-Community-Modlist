@@ -107,12 +107,11 @@ If you are switching between an ENB profile to a CS profile or vice versa, I rec
 <details>
   <summary>Known issues</summary>
 
->There is an infinite loading screen if you try to use the main entrance to Fort Greymoor - Currently looking for a solution, the back entrance works perfectly fine though 
->
 >There is a landscape seam in Ivaarstead by the barrow
 >
 >Shared quarters are missing in Vilemyr Inn (and potentially others) - If you can't find a hatch in the main room of an inn, do not rent the big expensive shared quarters room.
-
+>
+>Various textures are fucking blue for an unknown reason, this only happens for the end user (everyone reading this who is not me)
 This section is frequently changed.
 
 Please do not hesitate to report any other bugs in the [OCM Support discord](https://discord.gg/MgDsHfmCEF)
