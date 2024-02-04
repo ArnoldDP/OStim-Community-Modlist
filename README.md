@@ -34,7 +34,7 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
  
  ### Requirements
  
- The only hard requirements to run the modlist are a CPU with AVX2 support and ~300 gigs of storage available.
+ The only hard requirements to run the modlist are a CPU with AVX2 support and ~450 gigs of storage available.
  
 > Recommended min specs for 1080p (Default profile):
 > 
