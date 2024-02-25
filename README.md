@@ -1,10 +1,6 @@
 # Ostim Community Modlist
 
-### News!
-
-The list is now live! Grab it from the Wabbajack Gallery :)
-
-I also have a Discord for updates, feedback, and support. Feel free to join! [OCM Support discord](https://discord.gg/MgDsHfmCEF)
+Hello and thank you for reading this messy page, its currently a bit out of date unfortunately but we do have a [discord server for people who need a little bit of support](https://discord.gg/vYkTp86CcZ).
 
 <details>
  <summary>Description</summary>
