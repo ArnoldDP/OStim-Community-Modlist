@@ -68,47 +68,11 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 
  </details>
  
- <details>
-   <summary>Post-installation</summary>
-  
-### Profiles
-
-If you are switching between an ENB profile to a CS profile or vice versa, I recommend checking your overwrite and clearing/moving anything that has to do with KiLoader or ENB (usually found in the "root" folder in your overwrite)
-
-### Hotkeys
-
-**Home**: ReShade Menu/Open Animation Replacer GUI. Cycle through them by hitting home multiple times
-
-**F11** dMenu.
-
-**Y** Wheeler. This and the rest of its associated hotkeys can easily be viewed and changed in dMenu
-
-**END**: Community Shaders window (CS profile only)
-
-**Shift + Enter**: ENB Menu (Default profile only)
-
-**Shift + Home**: Improved Camera
-
-**F10**: Immersive equipment display
-
-**V**: Step Dodge
-
-**V (double tap)**: Dodge roll
-
-**Scroll Lock** Kreate Menu (CS Profile Only
-
- </details>
- 
  
 <details>
   <summary>Known issues</summary>
-
->There is a landscape seam in Ivaarstead by the barrow
->
+ 
 >Shared quarters are missing in Vilemyr Inn (and potentially others) - If you can't find a hatch in the main room of an inn, do not rent the big expensive shared quarters room.
->
->Various textures are fucking blue for an unknown reason, this only happens for the end user (everyone reading this who is not me)
-This section is frequently changed.
 
 Please do not hesitate to report any other bugs in the [OCM Support discord](https://discord.gg/MgDsHfmCEF)
  
