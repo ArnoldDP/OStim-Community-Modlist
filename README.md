@@ -42,29 +42,9 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 > 
 > ~~Basically just generic gaming pc built after 2020~~
 
- With the above specs, you can expect an average of 50+ fps in most exteriors and 60-80 interiors.
- 
- ### Previous Versions
- 
- If you were using a version prior to the OStim Standalone/Simonrim/Community Shaders update, it is recommended that you start a completely new save (yes this means no falhrim save cleaner or similar tools). If you were using one of the more recent updates, you should be fine with just the clean save procedure. 
+ With the above specs, you can expect an average of 60 fps on the CS - Low profile at 1080p.
 
- To perform a clean save
- 
-> 1. Move to a safe area (I prefer Riverwood Trader) and save your game.
->
-> 3. Install the newest version of the modlist.
->
-> 3. Load your save, it will complain about missing mods, this doesnt matter.
->
-> 4. Leave the area you saved in and run around outside for a few minutes, switch cells a couple times, maybe even kill a thing or two
->
-> 5. Save your game wherever youre standing and quit
->
-> 6. Use [FallrimTools](https://www.nexusmods.com/skyrimspecialedition/mods/5031/) to open your save
->
-> 7. Follow the instrution on the FallrimTools page to clean your save
->
-> 8. Play the game normally
+ I'm honestly not entirely sure what the minimum specs are for 1080p but fwiw I have a 5600x, an RTX 4070ti, 32gbs of ram, and I play at 2560x1080 ultrawide.
 
  </details>
  
