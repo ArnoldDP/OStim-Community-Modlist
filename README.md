@@ -1,6 +1,6 @@
 # Ostim Community Modlist
 
-Hello and thank you for reading this messy page, its currently a bit out of date unfortunately but we do have a [discord server for people who need a little bit of support](https://discord.gg/vYkTp86CcZ).
+Hello and thank you for reading this messy page. I'm currently in the process of cleaning it but there is a [discord server for people who need a little bit of support](https://discord.gg/vYkTp86CcZ).
 
 <details>
  <summary>Description</summary>
