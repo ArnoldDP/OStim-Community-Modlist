@@ -5,8 +5,6 @@ Hello and thank you for reading this messy page, its currently a bit out of date
 <details>
  <summary>Description</summary>
 
- ### Description
-
    * What this is
 
 OCM is meant to expand on Skyrim with more modern RPG elements while simultaneously making it feel more lifelike and immersive. It does not include any new lands (e.g. Bruma) or large quests (e.g. LoTD) and the adult themed content is entirely optional.
@@ -32,7 +30,7 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
  
  The only hard requirements to run the modlist are a CPU with AVX2 support and ~450 gigs of storage available.
  
-> Recommended min specs for 1080p (Default profile):
+> Recommended min specs for 1080p (CS - Low):
 > 
 > CPU: Ryzen 5 5600/intel i5 11600S
 >  
@@ -42,9 +40,9 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 > 
 > ~~Basically just generic gaming pc built after 2020~~
 
- With the above specs, you can expect an average of 60 fps on the CS - Low profile at 1080p.
+ With the above specs, you can expect an average of 60 fps in most places.
 
- I'm honestly not entirely sure what the minimum specs are for 1080p but fwiw I have a 5600x, an RTX 4070ti, 32gbs of ram, and I play at 2560x1080 ultrawide.
+ I'm honestly not entirely sure what the minimum specs are for 1080p on the ENB - High profile but fwiw I have a 5600x, an RTX 4070ti, 32gbs of ram, and I play at 2560x1080 ultrawide.
 
  </details>
  
