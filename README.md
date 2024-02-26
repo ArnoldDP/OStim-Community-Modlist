@@ -65,7 +65,7 @@ Simonrim's suite of mods cover just about everything from cooking to combat.
 
 Sunhelm, Camping Lite, and Horizon Zero Dawn Fast Travel are used to make survival mode feel the way I think it should. 
 
-Magic overhauls aren't particularly common relative to the other systems in Skyrim but I tried to make it feel a little bit more interactive with hundreds of new spells, Spellsiphon, and a fairly simple and gameplay friendly Lichdom mod.
+Magic overhauls aren't particularly common relative to the other systems in Skyrim but I tried to make it feel a little bit more interactive with hundreds of new spells, Spellsiphon, and a fairly simple and gameplay friendly [Lichdom mod](https://www.nexusmods.com/skyrimspecialedition/mods/25654?tab=description).
 
 With Seasons of Skyrim, a multitude of overhauls, and several new interesting places you can visit, it just felt fitting to add the paraglider and SkyClimb mods to make exploration feel just a little bit more modern.
 
