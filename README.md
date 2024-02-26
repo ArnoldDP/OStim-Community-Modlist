@@ -116,6 +116,7 @@ Several of the quests, including the main story, have been overhauled by AYOP an
 
 *Can I make a suggestion?*
 
+
 Absolutely, ⁠[suggestions](https://discord.gg/D6jTAatVT6) is open to the public. Bonus points to anything that's lore friendly.
 
 *Can I add "x mod"?*
@@ -126,7 +127,7 @@ I can't stop you, nor do I intend to. Just remember that I am not liable for any
 
 You have a mod loading after flat world map framework. Properly sort any mods that you add post installation otherwise a lot of things will be broken, not just the map.
 
- * I want to change the replacer for "x character". How can I do that?
+*I want to change the replacer for "x character". How can I do that?*
 
 The simple way is to overwrite the "npcmerg2" mod found in the gen files separator near the bottom. Make sure you overwrite both the mod and the plugins
 The more difficult way to do it is to generate a new Easy NPC output. Refer to the mod page for a more detailed explanation on how to use the tool.
