@@ -97,15 +97,9 @@ Several of the quests, including the main story, have been overhauled by AYOP an
 <details>
  <summary>Audio</summary>
 
- # Audio
-
  While this list isn't built to be an auditory experience, everyone likes good audio. 
  
- ### SFX
- 
- Every vanilla sound has been improved or changed. Most of this comes from Audio Overhaul for Skyrim, Immersive Sounds Compendium, several SFX replacers by Satafinix, and Unofficial HD Audio Project. These mods cannot be safely disabled without running your own syntehsis patch.
- 
- ### Music
+ Every vanilla sound has been improved or changed. Most of this comes from Audio Overhaul for Skyrim, Immersive Sounds Compendium, several SFX replacers by Satafinix, and Unofficial HD Audio Project. These mods cannot be safely disabled without running your own synthesis patch.
  
  Just like SFX, the vanilla OST has improved clarity and songs from the mods Nyghtfall, Around the Fire, and Still have been added. The additions can be incredibly subjective, so you can easily disable it by disabling "big old music mod" in the **Audio** separator.
  
