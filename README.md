@@ -81,136 +81,36 @@ Please do not hesitate to report any other bugs in the [OCM Support discord](htt
 <details>
   <summary>A general overview</summary>
 
-  This is not a complete list of everything found in the list, just a short overview of some of the major mods. You can find a complete list of the included mods [here](https://loadorderlibrary.com/lists/ostim-community-modlist)
- 
- ### Simonrim
+Seeing as the list is, for the most part, an expansion of vanilla content (Skyrim, Dawnguard, Dragonborn, and Hearthfire), it is a very vanilla+ list. 
 
-This list uses almost the full Simonrim Suite, along with a few other lightweight mods, to make the game feel just a little bit more modern. 
+Simonrim's suite of mods cover just about everything from cooking to combat. 
 
- * Melee
+Sunhelm, Camping Lite, and Horizon Zero Dawn Fast Travel are used to make survival mode feel the way I think it should. 
 
-Melee combat is handled by a combination of Blade & Blunt and Valhalla. This introduces things like stamina based combat, injuries, and timed blocking. Dodge - Motion Combat Overhaul is also included because of course it is, who do you think I am?
+Magic overhauls aren't particularly common relative to the other systems in Skyrim but I tried to make it feel a little bit more interactive with hundreds of new spells, Spellsiphon, and a fairly simple and gameplay friendly Lichdom mod.
 
- * Magic
+With Seasons of Skyrim, a multitude of overhauls, and several new interesting places you can visit, it just felt fitting to add the paraglider and SkyClimb mods to make exploration feel just a little bit more modern.
 
-Dozens of unique new spells have been added to the game to make mage classes feel just a little bit more complete. Gameplay mods such as Sorcerer and Spellsiphon are also included to make magic feel more interactive and flexible.
-
- * Stealth
- 
-Stealth had a few changes to make the vanilla thief more interesting. Book of Shadows adds several new systems such as takedowns, smokebombs, and more. Take a Peak is also included, and allows you to simply look through keyholes, maybe you'll see something fun? :^)
-
- * Survival
-
-Sunhelm in conjunction with Campsight make up the bulk of the survival gameplay. When combined with Seasons of Skyrim and a few other small mods included in this list, survival feels like a natural part of the game. If you do not want to play in survival mode, simply turn it off in the gameplay settings menu. 
-
-### UX
-
-Basically just gave it my best attempt to add modern QOL and UI elements.
-
- * Camera
- 
-True directional movement and Smoothcam are used to make third person gameplay feel a bit more modern. I included a few smoothcam presets, but theres hundreds that you can download off of Nexus if you dont like the prepackaged ones (or you can just turn off smoothcam in the MCM). First person is handled by Improved Camera. It comes with an optional configuration for clippingless fpv OStim scenes
-
- * User Interface
- 
-The vanilla UI has been completely overhauled by several mods. While the UI does come preconfigured, you're more than welcome to modify it. The main mods you'll need to worry about are TrueHUD, MoreHUD, and A Matter of Time.
-
- * Photo Mode
-
-This adds a fully functional photo mode, inspired by later Bethesda titles. Read more about it [here](https://www.nexusmods.com/skyrimspecialedition/mods/91701)
-
- * Wheeler and dMenu
-
-[Wheeler](https://www.nexusmods.com/skyrimspecialedition/mods/97345) is the new wheel menu by dTry. It adds an incredibly fast and simple wheel function to the game. The hotkeys do not come preconfigured, but you can change them using [dMenu](https://www.nexusmods.com/skyrimspecialedition/mods/97221). Since these are both incredibly flexible mods, I highly recommend reading both of the mod pages to see what they can do.
-
-### Followers
-
-Followers are a pretty important part of this list. Generally they make the game feel more alive, some of the voiced ones even add their own small questlines and occasional OStim scenes.
-
- * Nether's Follower Framework
-
-Vanilla followers are handled by Nether's Follower Framework. Please do not import custom voiced followers (unless otherwise stated) into the framework. NFF can be managed in the "follower framework" MCM.
-
- * Custom Followers
-
-Custom voiced followers are made by some of the most passionate modders you'll ever meet, and are the majority of the list's new quests.
-
-[Auri](https://www.nexusmods.com/skyrimspecialedition/mods/11278) Adorable cannibalistic wood elf girl (Is managed by NFF)
-
-[Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035) imperial nerd researching the dwemer
-
-[Remiel](https://www.nexusmods.com/skyrimspecialedition/mods/51874) Breton nerd researching the dwemer
-
-[Inigo](https://www.nexusmods.com/skyrimspecialedition/mods/1461) The smart blue cat. Likes spiders
-
-[Kaidan](https://kaidanmod.com) Everyones favorite himbo.
-
-[Nessa](https://www.nexusmods.com/skyrimspecialedition/mods/77337) I haven't spent a lot of time with her, recommend reading her page
-
-[Gore](https://www.nexusmods.com/skyrimspecialedition/mods/85298?tab=description) Edgy but in a good way, he will defend you with his life
-
-[Caesia](https://www.nexusmods.com/skyrimspecialedition/mods/13389) Haven't spent a lot of time with her either, recommend reading her page
-
-[M'rissi](https://www.nexusmods.com/skyrimspecialedition/mods/9666) Catgirl with a lot of personality
-
-[Taliesin](https://www.nexusmods.com/skyrimspecialedition/mods/93413) A bit fruity, a bit edgy, probably won't try to kill you
-
-[Secunda](https://www.nexusmods.com/skyrimspecialedition/mods/93739) I'd call her a sweetheart but she'd probably resort to autocannibalism
-
-[Bjorn](https://www.nexusmods.com/skyrimspecialedition/mods/91652) The new kid on the block, hates bandits as much as Lydia
-
-[IFD - Lydia](https://www.nexusmods.com/skyrimspecialedition/mods/38473) Hates bandits as much as Bjorn (Is managed by NFF)
-
-[Vayne](https://www.nexusmods.com/skyrimspecialedition/mods/77924) *The* dunmer waifu
-
-[Coralyn](https://www.nexusmods.com/skyrimspecialedition/mods/79669) Another wood elf, but with less cannibalism
-
-
- ### The World
-
- * Towns and Cities
-
-Many of the towns and cities have been expanded on, or overhauled entirely. All of these changes are meant to be lore friendly and simply seak to make the game feel more alive.
-
- * Random places
-
-Many notable but underwhelming places have been updated to feel a bit more important. Ryn's mods make up the bulk of these changes, but there are a few others thrown in for a bit more flavor.
-
- * Additions
-
-Several small but unique places from various mods have been added, and while they arent massive new lands with hundreds of quests, they do make our little section of Tamriel feel a bit more lively.
-
-These mods in tandem with Skyrim's Paraglider and the new SkyClimb mod make exploration feel like a brand new experience. Even the most hardened Skyrim veterans will have a whole trove of secrets to uncover if they so choose.
-
+Several of the quests, including the main story, have been overhauled by AYOP and JaySerpas various quest expansion mods. You also gain experience from exploration and completing quests as opposed to grinding your way through Bethesdas rather lackluster dungeons.
  
  </details>
  
   <details>
   <summary>OStim</summary>
-  
-  ### OStim
-  
-   OStim integration was the primary focus of the list and what separates it from other "immersion" focused modlists. There's too much to cover all at once here, so I'll just use a few of my favorites.
- 
-  * Rift's Rest
- 
- A Witcher style brothel located in Riften. There's a few short stories centered around it that you might enjoy. 
- 
-  * OStim NPCs
- 
- Allows NPCs to engage in scenes without your input. You might find some bandits having fun in a cave and you might hear some noises coming from a locked door in your local inn
-  
-  * OStim Lovers
- 
- This is a mod that adds fully voiced romance options to several vanilla NPCs, think of it as a newer Armorous Adventures. It was mainly intended for a female PC, but its 2023 so use it as you see fit
 
- * Immersive Wenches
+  Obviously this list does have a fair amount of OStim integration. While most of it can be completely ignored if you want to, there are a few things to watch out for.
 
-A fairly large mod that adds several quests, NPCs, and encounters to the game, all with OStim integration.
- 
-> OStim and its add-ons are configurable through their respective MCMs, most of them are neatly grouped together and can be found by just typing "O" in the MCM filter.
- 
- Remember, OStim isnt just another sex mod, it adds another level of depth and realism to the game.
+  * Brothels
+
+    Theres two of them. The Rift's Rest (Riften) and The Naked Dragon (Markarth) are exactly what they sound like, whorehouses where you can go to do various things with various people.
+
+  * A few of the followers
+
+    Several of the followers, namely Auri, Caesia, Nessa, Kaidan, and M'rissi have OStim integration in their romance quests.
+
+  * General Dialogue
+
+    OStim Romance adds a fairly simple and straightforward dialogue based way to get people in bed with you.
   
  </details>
  
