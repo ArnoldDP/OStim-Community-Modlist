@@ -147,8 +147,6 @@ Several of the quests, including the main story, have been overhauled by AYOP an
 # Links
 
 >[Consistently up-to-date modlist (C.U.M.)](https://loadorderlibrary.com/lists/ocm)
->
->[OCM BETA](https://mega.nz/folder/AP9xRS5I#wPf5HI8FgJOVt9amUoAMVw) Publicly hosted test builds, only active for about a week at a time.
 
 # Discords
 
