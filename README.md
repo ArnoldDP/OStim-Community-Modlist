@@ -5,13 +5,9 @@ Hello and thank you for reading this messy page. I'm currently in the process of
 <details>
  <summary>Description</summary>
 
-   * What this is
-
 OCM is meant to expand on Skyrim with more modern RPG elements while simultaneously making it feel more lifelike and immersive. It does not include any new lands (e.g. Bruma) or large quests (e.g. LoTD) and the adult themed content is entirely optional.
- 
-  * What this isnt
 
-This is ***not*** pornrim with skimpy armor, public masturebation, and sexually aggressive wolves. While OStim is a sex mod framework, that doesn't mean that it has to be a $5 Steam hentai game.
+This is ***not*** pornrim with skimpy armor, public masturebation, and sexually aggressive wolves. While OStim is a sex mod framework, that doesn't mean that it has to be a $5 Steam hentai game. There are several lists that will cater to you if you prefer that type of content.
 
 </details>
 
