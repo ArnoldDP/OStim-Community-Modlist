@@ -46,7 +46,7 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 <details>
   <summary>Known issues</summary>
  
->Shared quarters are missing in Vilemyr Inn (and potentially others) - If you can't find a hatch in the main room of an inn, do not rent the big expensive shared quarters room.
+Shared quarters in a few Inn's. If you would like shared accomodations for you and your followers, check to see if theres a hatch anywhere on the floor first.
 
 Please do not hesitate to report any other bugs in the [OCM Support discord](https://discord.gg/MgDsHfmCEF)
  
