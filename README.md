@@ -136,15 +136,19 @@ The more difficult way to do it is to generate a new Easy NPC output. Refer to t
 Innkeepers and some general stores will sell an item called a Travel Pack. Left click this item in your inventory and it will allow you to fast travel
 
 *Is Serana Dialogue Add-on included?*
+
 No
 
 *Will you add Serana Dialogue Add-on?*
+
 No, but you can
 
 *Why not?*
+
 Unlike other voiced followers, you do not have the option to forego using her if you want to progress through the game (being forced to use something is bad). She also forces you to give up on using vanilla Serana (subjective) if you had her installed at any point in your save.
 
 *My game crashed! What do I do?*
+
 There will most likely be a crash log that can be found in C:\Users\user\Documents\My Games\Skyrim Special Edition\SKSE, it will be called something like "crash-bunch of numbers". Feel free to drop it in the [general-support section of the discord](https://discord.gg/aSKsAJQhtr)
 
 </details>
