@@ -195,6 +195,8 @@ There will most likely be a crash log that can be found in C:\Users\user\Documen
 >Vaenia [patreon](https://www.patreon.com/Vaenia121)
  
 >VersuchDrei [patreon](https://www.patreon.com/VersuchDrei)
+
+If one of your mods are featured in the list, feel free to dm me on discord @arnoldp. I'll add you whenever I get the chance.
  
  <Details>
   <summary>donations</summary>
