@@ -46,7 +46,7 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 <details>
   <summary>Known issues</summary>
  
-Shared quarters in a few Inn's. If you would like shared accomodations for you and your followers, check to see if theres a hatch anywhere on the floor first.
+Shared quarters are missing in a few Inn's. If you would like shared accomodations for you and your followers, check to see if theres a hatch anywhere on the floor first.
 
 Please do not hesitate to report any other bugs in the [OCM Support discord](https://discord.gg/MgDsHfmCEF)
  
