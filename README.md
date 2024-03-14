@@ -63,7 +63,7 @@ Sunhelm, Camping Lite, and Horizon Zero Dawn Fast Travel are used to make surviv
 
 Magic overhauls aren't particularly common relative to the other systems in Skyrim but I tried to make it feel a little bit more interactive with hundreds of new spells, Spellsiphon, and a fairly simple and gameplay friendly [Lichdom mod](https://www.nexusmods.com/skyrimspecialedition/mods/25654?tab=description).
 
-With Seasons of Skyrim, a multitude of overhauls, and several new interesting places you can visit, it just felt fitting to add the paraglider and SkyClimb mods to make exploration feel just a little bit more modern.
+With Seasons of Skyrim, a multitude of overhauls locational overhauls, and several new interesting places you can visit, it just felt fitting to add the paraglider and SkyClimb mods to make exploration feel just a little bit more modern.
 
 Several of the quests, including the main story, have been overhauled by AYOP and JaySerpas various quest expansion mods. You also gain experience from exploration and completing quests as opposed to grinding your way through Bethesdas rather lackluster dungeons.
  
