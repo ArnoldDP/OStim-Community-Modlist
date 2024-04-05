@@ -181,7 +181,9 @@ There will most likely be a crash log that can be found in C:\Users\user\Documen
 >Doodle [patreon](https://www.patreon.com/Doodlezoid)
 
 >Drago [patreon](https://www.patreon.com/DragoAnimations)
- 
+
+>Kannonfodder [ko-fi](https://ko-fi.com/kannonfodder)
+
 >Kreiste [patreon](https://www.patreon.com/kreiste)
 
 >Moon [ko-fi](https://ko-fi.com/callmemoon)
