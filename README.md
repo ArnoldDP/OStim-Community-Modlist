@@ -5,7 +5,7 @@ Hello and thank you for reading this messy page. I'm currently in the process of
 <details>
  <summary>Description</summary>
 
-OCM is meant to expand on Skyrim with more modern RPG elements while simultaneously making it feel more lifelike and immersive. It does not include any new lands (e.g. Bruma) or large quests (e.g. LoTD) and the adult themed content is entirely optional.
+OCM is meant to expand on Skyrim with more modern RPG elements while simultaneously making it feel more lifelike and immersive. It does not include any new lands or large quests (e.g. Bruma) and the adult themed content is entirely optional.
 
 This is ***not*** pornrim with skimpy armor, public masturebation, and sexually aggressive wolves. While OStim is a sex mod framework, that doesn't mean that it has to be a $5 Steam hentai game. There are several lists that will cater to you if you prefer that type of content.
 
@@ -66,7 +66,7 @@ Magic overhauls aren't particularly common relative to the other systems in Skyr
 With Seasons of Skyrim, a multitude of overhauls locational overhauls, and several new interesting places you can visit, it just felt fitting to add the paraglider and SkyClimb mods to make exploration feel just a little bit more modern.
 
 Several of the quests, including the main story, have been overhauled by AYOP and JaySerpas various quest expansion mods. You also gain experience from exploration and completing quests as opposed to grinding your way through Bethesdas rather lackluster dungeons.
- 
+
  </details>
  
   <details>
