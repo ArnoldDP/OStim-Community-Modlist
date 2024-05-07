@@ -12,9 +12,9 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 </details>
 
 <details>
- <summary>Pre-installation and Requirements</summary>
+ <summary>Installation</summary>
  
- ### Pre-installation
+ ### Pre-installation and Requirements
  
  You are required to start with a clean, unmodified, and up to date installation of Skyrim SE/AE through the Steam store. If you are unsure of how to do this, I recommend following GamerPoets guide [here](https://www.youtube.com/watch?v=zQ5uNCKOKmI)
 
@@ -22,9 +22,7 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 
  The game language also needs to be set to English. I'd assume you can change the localization afterwards but I honestly don't know due to being an ignorant English speaking American. My appologies.
  
- ### Requirements
- 
- The only hard requirements to run the modlist are a CPU with AVX2 support and ~450 gigs of storage available.
+ The only hard requirements to run the modlist are a CPU with AVX2 support and ~450 gigs of storage available (yes I know it says 375.25, but you'll want the extra space just in case)
  
 > Recommended min specs for 1080p (CS - Low):
 > 
@@ -40,6 +38,36 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 
  I'm honestly not entirely sure what the minimum specs are for 1080p on the ENB - High profile but fwiw I have a 5600x, an RTX 4070ti, 32gbs of ram, and I play at 2560x1080 ultrawide.
 
+### Installation
+
+This is going to be the hard part but thats alright, it's still pretty easy.
+
+* **Installing Wabbajack**
+
+  Feel free to skip this step if you've already done it
+
+  First navigate to [the Wabbajack website](https://www.wabbajack.org).
+
+  Now you see that big download button? Click it. Now the next thing you'll want to do is create a folder for Wabbajack. It is extremely important that you do not create it in your downloads or documents folders, ideally it should be somewhere like C:\Wabbajack.
+  Now drag and drop the Wabbajack.exe file into the folder that you just created for it and then launch it.
+
+  After its done installing, the application will automatically open. When it does, the first thing you'll want to do is look at the top right of the GUI and find the icon that looks like a gear. See it? Good, now click it.
+  On the left hand side you'll see an option to log in to Nexus Mods. You absolutely need to do this for OCM and (as far as I'm aware) every other mod list hosted on Wabbajack. After youre done with this process, you can proceed to the next step.
+  
+
+* **Installing OCM**
+
+  To download OCM, select "Browse Modlists" on the left, the icon will look like a little cloud with an arrow pointing down. In the top right, click "Show NSFW" and "Show Unofficial Lists", now just give it a minute to load all of the images.
+  Scroll down until you see the big white "OCM" banner, in the bottom right it will have a download icon. Once it's done downloading, that icon will turn into a play arrow, click it!
+
+  You should see a new screen with things buttons for the discord, readme, website, and manifest in the bottom left. Don't worry about that stuff for now. On the right side, youll see "Modlist Installation Location" and "Resource Download Location".
+  Click the three dots besides "Modlist Installation Location". Again, it's important that you create a new folder for your Wabbajack modlists, personally I'd recommend something like C:\OCM. WJ should automatically set the download location for you but if you want something different for whatever reason, feel free to chang it.
+
+  Now just walk away, go make some food and take a shower or something while you wait for Wabbajack to do its job, it will probably take a while.
+
+* **Post installation**
+
+  To launch the game, first you'll want to navigate to where you installed the list. This will be the "Modlist Installation Location" folder that you selected earlier. Find modorganizer.exe and double click it.
  </details>
  
  
