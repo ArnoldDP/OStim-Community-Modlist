@@ -90,13 +90,13 @@ Seeing as the list is, for the most part, an expansion of vanilla content (Skyri
 
 Simonrim's suite of mods cover just about everything from cooking to combat. 
 
-Sunhelm, Camping Lite, and Horizon Zero Dawn Fast Travel are used to make survival mode feel the way I think it should. 
+While you are not required to play in survival mode, it is the default and recommended. Starfrost, Camping Lite, and HZD Fast travel make up the bulk of the survival overhauls, while the general environment overhauls make up the rest. 
 
 Magic overhauls aren't particularly common relative to the other systems in Skyrim but I tried to make it feel a little bit more interactive with hundreds of new spells, Spellsiphon, and a fairly simple and gameplay friendly [Lichdom mod](https://www.nexusmods.com/skyrimspecialedition/mods/25654?tab=description).
 
 With Seasons of Skyrim, a multitude of overhauls locational overhauls, and several new interesting places you can visit, it just felt fitting to add the paraglider and SkyClimb mods to make exploration feel just a little bit more modern.
 
-Several of the quests, including the main story, have been overhauled by AYOP and JaySerpas various quest expansion mods. You also gain experience from exploration and completing quests as opposed to grinding your way through Bethesdas rather lackluster dungeons.
+Several of the quests have been overhauled by various mods. You also gain experience from exploration and completing quests as opposed to grinding your way through Bethesdas rather lackluster dungeons.
 
  </details>
  
@@ -104,10 +104,6 @@ Several of the quests, including the main story, have been overhauled by AYOP an
   <summary>OStim</summary>
 
   Obviously this list does have a fair amount of OStim integration. While most of it can be completely ignored if you want to, there are a few things to watch out for.
-
-  * Brothels
-
-    Theres two of them. The Rift's Rest (Riften) and The Naked Dragon (Markarth) are exactly what they sound like, whorehouses where you can go to do various things with various people.
 
   * A few of the followers
 
