@@ -2,6 +2,8 @@
 
 Hello and thank you for reading this messy page. I'm currently in the process of cleaning it but there is a [discord server for people who need a little bit of support](https://discord.gg/vYkTp86CcZ).
 
+# General
+
 <details>
  <summary>Description</summary>
 
@@ -10,6 +12,7 @@ OCM is meant to expand on Skyrim with more modern RPG elements while simultaneou
 This is ***not*** pornrim with skimpy armor, public masturebation, and sexually aggressive wolves. While OStim is a sex mod framework, that doesn't mean that it has to be a $5 Steam hentai game. There are several lists that will cater to you if you prefer that type of content.
 
 </details>
+
 
 <details>
  <summary>Installation</summary>
