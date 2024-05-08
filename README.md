@@ -204,7 +204,7 @@ There will most likely be a crash log that can be found in C:\Users\user\Documen
  
 >Baka [patreon](https://www.patreon.com/BaboFactory)
 
->Boris [Patreon](https://www.patreon.com/enb)
+>Boris Vorontsov [Patreon](https://www.patreon.com/enb)
 
 >Doodle [ko-fi](https://ko-fi.com/doodlez)
 
