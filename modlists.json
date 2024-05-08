@@ -14,7 +14,7 @@
       "Simonrim",
       "BHUNP",
       "HIMBO",
-      "Vanilla+",
+      "Vanilla\u002B",
       "Performance Profile"
     ],
     "nsfw": true,
@@ -25,21 +25,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli7.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_40d581bf-fe7f-4a21-80e5-559cfc7a0669",
+      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_6b02c4c7-c1fe-42cb-95cd-f323115fd1c0",
       "machineURL": "ostimisgood",
       "discordURL": "https://discord.gg/Wbq5mvKRrk"
     },
     "download_metadata": {
-      "Hash": "lYo71qECYQU=",
-      "Size": 936166940,
-      "NumberOfArchives": 1370,
-      "SizeOfArchives": 148661274066,
-      "NumberOfInstalledFiles": 301855,
-      "SizeOfInstalledFiles": 254255864732
+      "Hash": "JXCYVZNrCP4=",
+      "Size": 962875293,
+      "NumberOfArchives": 1365,
+      "SizeOfArchives": 148254539151,
+      "NumberOfInstalledFiles": 302348,
+      "SizeOfInstalledFiles": 253823915939
     },
-    "version": "1.5",
+    "version": "1.5.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-05-07T19:30:47.4425419Z",
+    "dateUpdated": "2024-05-08T00:51:42.6894757Z",
     "repositoryName": ""
   }
 ]
