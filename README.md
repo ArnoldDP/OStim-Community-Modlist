@@ -204,6 +204,8 @@ There will most likely be a crash log that can be found in C:\Users\user\Documen
  
 >Baka [patreon](https://www.patreon.com/BaboFactory)
 
+>Boris [Patreon](https://www.patreon.com/enb)
+
 >Doodle [ko-fi](https://ko-fi.com/doodlez)
 
 >Doodle [patreon](https://www.patreon.com/Doodlezoid)
@@ -211,6 +213,8 @@ There will most likely be a crash log that can be found in C:\Users\user\Documen
 >Drago [patreon](https://www.patreon.com/DragoAnimations)
 
 >Kannonfodder [ko-fi](https://ko-fi.com/kannonfodder)
+
+>Kitsuune [Ko-fi](https://ko-fi.com/kitsuune)
 
 >Kreiste [patreon](https://www.patreon.com/kreiste)
 
