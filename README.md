@@ -57,6 +57,8 @@ This is going to be the hard part but thats alright, it's still pretty easy.
 
 * **Installing OCM**
 
+  I would like to preface that by saying that while it is not technically a requirement, it is *highly* recommended that you have Nexus premium. If you don't, you'll have to click the download button about 1200 times on top of having your download speed capped at 3 mb/s.
+  
   To download OCM, select "Browse Modlists" on the left, the icon will look like a little cloud with an arrow pointing down. In the top right, click "Show NSFW" and "Show Unofficial Lists", now just give it a minute to load all of the images.
   Scroll down until you see the big white "OCM" banner, in the bottom right it will have a download icon. Once it's done downloading, that icon will turn into a play arrow, click it!
 
@@ -65,9 +67,10 @@ This is going to be the hard part but thats alright, it's still pretty easy.
 
   Now just walk away, go make some food and take a shower or something while you wait for Wabbajack to do its job, it will probably take a while.
 
-* **Post installation**
+### Post-Installation
 
   To launch the game, first you'll want to navigate to where you installed the list. This will be the "Modlist Installation Location" folder that you selected earlier. Find modorganizer.exe and double click it.
+  
  </details>
  
  
