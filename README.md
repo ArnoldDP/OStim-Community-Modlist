@@ -72,7 +72,9 @@ This is going to be the hard part but thats alright, it's still pretty easy.
 
 ### Post-Installation
 
-  To launch the game, first you'll want to navigate to where you installed the list. This will be the "Modlist Installation Location" folder that you selected earlier. Find modorganizer.exe and double click it.
+  To launch the game, first you'll want to navigate to where you installed the list. This will be the "Modlist Installation Location" folder that you selected earlier. Find modorganizer.exe and double click it. On the top ride side of the screen there will be a box with a drop down menu and a smaller greenish blue box that says "run". Click on the drop down menu and make sure its set to "SKSE". Once its set to SKSE all you have to do is click run.
+
+  Once you're in game and done with character customization, make a save by either opening up the menu manually and clicking "save game" or by just clicking F5 (this is set to use a full save, not a quicksave, dont worry) and then re-load the save. After that, click escape again and navigate to "Mod Configuration". Once you've found it, scroll down until you find "MCM Recorder" (or just use the search bar at the bottom) and select it. You'll see a few options on this page, but that's alright, you can ignore most all but two of them. Click on "RECORDER 1" and then click "Yes". It will instruct you to close out of the mod configuration menu, once you've done that youll see a menu with three options. Just select "Run Recording" and wait a few seconds, it will tell you when it's done. After you're done with all of this, save your game again and you're good to start playing. It is important to remember that autosaves are disabled in this list, so save your game and save it often.
   
  </details>
  
