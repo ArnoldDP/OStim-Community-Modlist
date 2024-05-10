@@ -7,9 +7,23 @@ Hello and thank you for reading this messy page. I'm currently in the process of
 <details>
  <summary>Description</summary>
 
+### Goals
+
 OCM is meant to expand on Skyrim with more modern RPG elements while simultaneously making it feel more lifelike and immersive. It does not include any new lands or large quests (e.g. Bruma) and the adult themed content is entirely optional.
 
 This is ***not*** pornrim with skimpy armor, public masturebation, and sexually aggressive wolves. While OStim is a sex mod framework, that doesn't mean that it has to be a $5 Steam hentai game. There are several lists that will cater to you if you prefer that type of content.
+
+### A General Overview
+
+This is a Simonrim based list, the overhauls covery everything from cooking to combat in simple ways that just provide a bit more depth to the game.
+
+While you are not required to play in survival mode, it is the default and recommended. Starfrost, Camping Lite, and HZD Fast travel make up the bulk of the survival overhauls while the general environment overhauls make up the rest. 
+
+Magic overhauls aren't particularly common relative to the other systems in Skyrim but I tried to make it feel a little bit more interactive with hundreds of new spells, Spellsiphon, and a fairly simple and gameplay friendly [Lichdom mod](https://www.nexusmods.com/skyrimspecialedition/mods/25654?tab=description).
+
+With Seasons of Skyrim, a multitude of overhauls locational overhauls, and several new interesting places you can visit, it just felt fitting to add the paraglider and SkyClimb mods to make exploration feel just a little bit more modern.
+
+Several of the quests have been overhauled by various mods. You also gain experience from exploration and completing quests as opposed to grinding your way through Bethesdas rather lackluster dungeons.
 
 </details>
 
@@ -87,25 +101,8 @@ Shared quarters are missing in a few Inn's. If you would like shared accomodatio
 Please do not hesitate to report any other bugs in the [OCM Support discord](https://discord.gg/MgDsHfmCEF)
  
  </details>
- 
-<details>
-  <summary>A general overview</summary>
 
-Seeing as the list is, for the most part, an expansion of vanilla content (Skyrim, Dawnguard, Dragonborn, and Hearthfire), it is a very vanilla+ list. 
-
-Simonrim's suite of mods cover just about everything from cooking to combat. 
-
-While you are not required to play in survival mode, it is the default and recommended. Starfrost, Camping Lite, and HZD Fast travel make up the bulk of the survival overhauls, while the general environment overhauls make up the rest. 
-
-Magic overhauls aren't particularly common relative to the other systems in Skyrim but I tried to make it feel a little bit more interactive with hundreds of new spells, Spellsiphon, and a fairly simple and gameplay friendly [Lichdom mod](https://www.nexusmods.com/skyrimspecialedition/mods/25654?tab=description).
-
-With Seasons of Skyrim, a multitude of overhauls locational overhauls, and several new interesting places you can visit, it just felt fitting to add the paraglider and SkyClimb mods to make exploration feel just a little bit more modern.
-
-Several of the quests have been overhauled by various mods. You also gain experience from exploration and completing quests as opposed to grinding your way through Bethesdas rather lackluster dungeons.
-
- </details>
- 
-  <details>
+ <details>
   <summary>OStim</summary>
 
   Obviously this list does have a fair amount of OStim integration. While most of it can be completely ignored if you want to, there are a few things to watch out for.
