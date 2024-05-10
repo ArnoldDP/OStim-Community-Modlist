@@ -186,7 +186,7 @@ There will most likely be a crash log that can be found in C:\Users\user\Documen
  
  ### ENB
 
- By default, the list uses a custom ENB preset based on Silent Horizons 2 by KitsuuneNivis. It was made specifically so that I could use the Aequinoctium + Skyrim is Luminous lighting combo with the CS - Low profile without having extra weather/interior lighting mods set up. If you would like to change out the weather/interior lighting mods you will neeed to disable Aequinoctium, SiL, SiL Enhanced, Mists of Tamriel, and anal ENB before installing anything else.
+ By default, the list uses a custom ENB preset based on Silent Horizons 2 by KitsuuneNivis. It was set up specifically for the rather peculiar weather + interior combo, so you will most likely want to disable Aequinoctium + SiL if you want to change to something else. Don't worry, you wont hurt my feelings if you want to change it, its nothing more than a party trick compared to some of the top tier ENB presets out there.
 
  ### ReShade
 
