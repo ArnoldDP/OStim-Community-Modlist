@@ -17,11 +17,11 @@ This is ***not*** pornrim with skimpy armor, public masturebation, and sexually 
 
 This is a Simonrim based list, the overhauls covery everything from cooking to combat in simple ways that just provide a bit more depth to the game.
 
-While you are not required to play in survival mode, it is the default and recommended. Starfrost, Camping Lite, and HZD Fast travel make up the bulk of the survival overhauls while the general environment overhauls make up the rest. 
+While you are not required to play in survival mode, it is the default and recommended. Starfrost, Camping Lite, and Journeyman make up the bulk of the survival overhauls while the general environment overhauls make up the rest. 
 
 Magic overhauls aren't particularly common relative to the other systems in Skyrim but I tried to make it feel a little bit more interactive with hundreds of new spells, Spellsiphon, and a fairly simple and gameplay friendly [Lichdom mod](https://www.nexusmods.com/skyrimspecialedition/mods/25654?tab=description).
 
-With Seasons of Skyrim, a multitude of overhauls locational overhauls, and several new interesting places you can visit, it just felt fitting to add the paraglider and SkyClimb mods to make exploration feel just a little bit more modern.
+With Seasons of Skyrim, a multitude of locational overhauls, and several new interesting places you can visit, it just felt fitting to add the paraglider and SkyClimb mods to make exploration feel just a little bit more modern.
 
 Several of the quests have been overhauled by various mods. You also gain experience from exploration and completing quests as opposed to grinding your way through Bethesdas rather lackluster dungeons.
 
