@@ -25,21 +25,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli8.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_1d3b5f84-9350-4674-b3d9-c6c8b1f853fe",
+      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_a373c32e-6910-4e93-bac0-5baf43b4c912",
       "machineURL": "ostimisgood",
       "discordURL": "https://discord.gg/Wbq5mvKRrk"
     },
     "download_metadata": {
-      "Hash": "xsBxHqIJPEs=",
-      "Size": 974489013,
-      "NumberOfArchives": 1384,
-      "SizeOfArchives": 150926109893,
-      "NumberOfInstalledFiles": 302668,
-      "SizeOfInstalledFiles": 252639814967
+      "Hash": "7vaaXSeo5PU=",
+      "Size": 974102402,
+      "NumberOfArchives": 1368,
+      "SizeOfArchives": 147755124246,
+      "NumberOfInstalledFiles": 314194,
+      "SizeOfInstalledFiles": 254414119749
     },
-    "version": "1.5.3",
+    "version": "1.5.4",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-05-17T20:14:12.811749Z",
+    "dateUpdated": "2024-05-21T20:52:20.2678195Z",
     "repositoryName": ""
   }
 ]
