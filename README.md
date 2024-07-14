@@ -9,12 +9,17 @@ Hello and thank you for reading this messy page. The list is currently being reb
 
 ### Goals
 
-OCM is meant to expand on Skyrim with more modern RPG elements while simultaniously making the world feel more dynamic, lifelike, and immersive. This is *not* pornrim with skimpy armor, public masturbation, and sexually aggressive wolves. 
+I feel like I need to preface this by stating that this is *not* pornrim with skimpy armor, public masturbation, and sexually aggressive wolves. While you are free to install these mods if you *really* think that they're neccessary, you will not get any support in doing so.
 
+OCM is meant to expand on Skyrim with more modern RPG elements while simultaniously making the world feel more dynamic, lifelike, and immersive. This doesn't necessarily mean "vanilla+" though, think of it more as a "Skyrim 2". 
 
 ### A General Overview
 
+While the list is Simonrim based for the most part, there are a few more "aggressive" gameplay overhauls such as Gods and Worship or the plethora of survival changes. These mods serve to make some of the more overlooked aspects of the game a bit more important.
 
+The game will be a bit more difficult but not quite a soulslike. Think of it as a "souls-lite", not quite as punishing as something like Bloodborne but not as uninteresting as... Skyrim. With the power of god, anime, and the BFCO animation converter, melee combat has been completely overhauled. 
+
+For the fans of magic out there, don't worry, you weren't forgotten about. Perk overhauls, several new spells from Darenii and Kittytail, and Spellsiphon make playing a mage equally rewarding and not just a firebolt stagger point and click adventure. There is also a simple but in depth lichdom mod for those of you who are tired of playing a vampire but still want something a bit more robust than a normal human.
 
 </details>
 
@@ -34,7 +39,7 @@ OCM is meant to expand on Skyrim with more modern RPG elements while simultaniou
  
 | Performance | CPU    | GPU | RAM | Pagefile | 
 | ----------- | ------ | --- | --- | -------- |
-| Minimum  | Ryzen 7 5600 | RTX 2070/RX 6750 XT | 16gb @3200mhz | 20gb |
+| Minimum  | Ryzen 7 5600 | RTX 2070/RX 6750 XT | 16gb @3200mhz | 40gb |
 | Recommended | Ryzen 7 7600x | RTX 3070 ti/RX 6800 XT | 32gb @3600mhz | 40gb |
 
 Since this list uses Community Shaders as opposed to an ENB, a high end GPU isn't a hard requirement for 1080p. A 2070 ti, 3060 ti, or rx 6750 XT will be enough for a stable framerate in most places. You are more likely going to be limited by your CPU than your GPU with this list. 
@@ -171,10 +176,6 @@ There will most likely be a crash log that can be found in C:\Users\user\Documen
 
  If you need extra help doing any of this, feel free to stop by [Changes and Additions](https://discord.com/channels/1115971083624001606/1177489969711943700). Either myself or one of my extremely helpful community members will assist you.
  
- ### ENB
-
- By default, the list uses a custom ENB preset based on Silent Horizons 2 by KitsuuneNivis. It was set up specifically for the rather peculiar weather + interior combo, so you will most likely want to disable Aequinoctium + SiL if you want to change to something else. Don't worry, you wont hurt my feelings if you want to change it, its nothing more than a party trick compared to some of the top tier ENB presets out there.
-
  ### ReShade
 
  By default, ReShade is only enabled on the CS - Low profile. There is one (very simple) preset included, but you can easily create your own presets with the plethora of shaders or install other presets if you'd like. 
