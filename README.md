@@ -13,13 +13,19 @@ I feel like I need to preface this by stating that this is *not* pornrim with sk
 
 OCM is meant to expand on Skyrim with more modern RPG elements while simultaniously making the world feel more dynamic, lifelike, and immersive. This doesn't necessarily mean "vanilla+" though, think of it more as a "Skyrim 2". 
 
-### A General Overview
+### Gameplay Overview
 
 While the list is Simonrim based for the most part, there are a few more "aggressive" gameplay overhauls such as Gods and Worship or the plethora of survival changes. These mods serve to make some of the more overlooked aspects of the game a bit more important.
 
 The game will be a bit more difficult but not quite a soulslike. Think of it as a "souls-lite", not quite as punishing as something like Bloodborne but not as uninteresting as... Skyrim. With the power of god, anime, and the BFCO animation converter, melee combat has been completely overhauled. 
 
 For the fans of magic out there, don't worry, you weren't forgotten about. Perk overhauls, several new spells from Darenii and Kittytail, and Spellsiphon make playing a mage equally rewarding and not just a firebolt stagger point and click adventure. There is also a simple but in depth lichdom mod for those of you who are tired of playing a vampire but still want something a bit more robust than a normal human.
+
+Stealth didn't recieve as many changes as it did additions. Realistic AI Detection + Dynamic Weather and Time Based Detection work in tandem to make sneaking more realistic while mods like Book of Shadows, Sneak Behavior Extensions, Take a Peek (and more universal mods such as Skyrim's Paraglider and Skyclimb) add entirely new mechanics to the playstyle. 
+
+### New Lands and Quests
+
+While this may not be as extensive as lists like Licentia, I try to have enough content for people to not get bored within 20 minutes. New followers and expansions for several of the vanilla quests are used to make the base game less boring while huge DLC sized quest mods from people like VICN bring just a bit more content to the game. 
 
 </details>
 
