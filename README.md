@@ -39,7 +39,7 @@ OCM is meant to expand on Skyrim with more modern RPG elements while simultaniou
 
 Since this list uses Community Shaders as opposed to an ENB, a high end GPU isn't a hard requirement for 1080p, a 2070 ti, 3060 ti, or rx 6750 XT will be enough for a stable framerate in most places. 
 
-**!NOTICE!** To users with an AMD 7xxx series card, please understand that you might run into problems with Community Shaders. It is recommended that you manually install a lightweight ENB (such as Silent Horizons 2) to avoid problems. 
+**To users with an AMD 7xxx series card, please understand that you might run into problems with Community Shaders. It is recommended that you manually install a lightweight ENB (such as Silent Horizons 2) to avoid problems.**
 
 
 ### Installation
