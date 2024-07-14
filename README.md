@@ -25,7 +25,7 @@ Stealth didn't recieve as many changes as it did additions. Realistic AI Detecti
 
 ### New Lands and Quests
 
-While this may not be as extensive as lists like Licentia, I try to have enough content for people to not get bored within 20 minutes. New followers and expansions for several of the vanilla quests are used to make the base game less boring while huge DLC sized quest mods from people like VICN bring just a bit more content to the game. 
+While this may not be as extensive as lists like Licentia, I try to have enough content for people to not get bored within 20 minutes. New followers and expansions for several of the vanilla quests are used to make the base game less boring while huge DLC sized quest mods from people like VICN bring just a bit more content to the game. I don't want to spoil too much for people who haven't played through these types of mods before, so I'll try to keep this section brief
 
 </details>
 
