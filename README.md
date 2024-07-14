@@ -9,21 +9,12 @@ Hello and thank you for reading this messy page. The list is currently being reb
 
 ### Goals
 
-OCM is meant to expand on Skyrim with more modern RPG elements while simultaneously making it feel more lifelike and immersive. It does not include any new lands or large quests (e.g. Bruma) and the adult themed content is entirely optional.
+OCM is meant to expand on Skyrim with more modern RPG elements while simultaniously making the world feel more dynamic, lifelike, and immersive. This is *not* pornrim with skimpy armor, public masturbation, and sexually aggressive wolves. 
 
-This is ***not*** pornrim with skimpy armor, public masturebation, and sexually aggressive wolves. While OStim is a sex mod framework, that doesn't mean that it has to be a $5 Steam hentai game. There are several lists that will cater to you if you prefer that type of content.
 
 ### A General Overview
 
-This is a Simonrim based list, the overhauls covery everything from cooking to combat in simple ways that just provide a bit more depth to the game.
 
-While you are not required to play in survival mode, it is the default and recommended. Starfrost, Camping Lite, and Journeyman make up the bulk of the survival overhauls while the general environment overhauls make up the rest. 
-
-Magic overhauls aren't particularly common relative to the other systems in Skyrim but I tried to make it feel a little bit more interactive with hundreds of new spells, Spellsiphon, and a fairly simple and gameplay friendly [Lichdom mod](https://www.nexusmods.com/skyrimspecialedition/mods/25654?tab=description).
-
-With Seasons of Skyrim, a multitude of locational overhauls, and several new interesting places you can visit, it just felt fitting to add the paraglider and SkyClimb mods to make exploration feel just a little bit more modern.
-
-Several of the quests have been overhauled by various mods. You also gain experience from exploration and completing quests as opposed to grinding your way through Bethesdas rather lackluster dungeons.
 
 </details>
 
@@ -37,23 +28,19 @@ Several of the quests have been overhauled by various mods. You also gain experi
 
  If you fail to start with a clean installation, the list will most likely not install. 
 
- The game language also needs to be set to English. I'd assume you can change the localization afterwards but I honestly don't know due to being an ignorant English speaking American. My appologies.
+ The game language also needs to be set to English.
  
- The only hard requirements to run the modlist are a CPU with AVX2 support and ~450 gigs of storage available (yes I know it says 375.25, but you'll want the extra space just in case)
+ The only hard requirements to run the modlist are a CPU with AVX2 support and ~450 gigs of storage available (you can delete the downloads folder later to save space).
  
-> Recommended min specs for 1080p (CS - Low):
-> 
-> CPU: Ryzen 5 5600/intel i5 11600S
->  
-> GPU: RTX 3060 8gb/RX 6600 8gb
->  
-> RAM: 16gb ddr4 @2666 mhz
-> 
-> ~~Basically just generic gaming pc built after 2020~~
+| Performance | CPU    | GPU | RAM | Pagefile | 
+| ----------- | ------ | --- | --- | -------- |
+| Minimum  | Ryzen 7 5600 | RTX 2070/RX 6750 XT | 16gb @3200mhz | 20gb |
+| Recommended | Ryzen 7 7600x | RTX 3070 ti/RX 6800 XT | 32gb @3600mhz | 40gb |
 
- With the above specs, you can expect an average of 60 fps in most places.
+Since this list uses Community Shaders as opposed to an ENB, a high end GPU isn't a hard requirement for 1080p, a 2070 ti, 3060 ti, or rx 6750 XT will be enough for a stable framerate in most places. 
 
- I'm honestly not entirely sure what the minimum specs are for 1080p on the ENB - High profile but fwiw I have a 5600x, an RTX 4070ti, 32gbs of ram, and I play at 2560x1080 ultrawide.
+**!NOTICE!** To users with an AMD 7xxx series card, please understand that you might run into problems with Community Shaders. It is recommended that you manually install a lightweight ENB (such as Silent Horizons 2) to avoid problems. 
+
 
 ### Installation
 
