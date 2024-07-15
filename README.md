@@ -235,17 +235,15 @@ There will most likely be a crash log that can be found in ```C:\Users\user\Docu
  
  ### Root builder
  
- This is a MO2 plugin that I use to manage things like ENBs, ReShade, and SKSE.
+ This is a MO2 plugin that I use to manage things like ReShade and SKSE.
 
  Chooey has made an amazing five minute guide on what it is and how to use it.
 
  https://youtu.be/m3QjdslU_6w?si=dykjTXWlBI-KmH8G&t=108
-
- If you need extra help doing any of this, feel free to stop by [Changes and Additions](https://discord.com/channels/1115971083624001606/1177489969711943700). Either myself or one of my extremely helpful community members will assist you.
  
  ### ReShade
 
- By default, ReShade is only enabled on the CS - Low profile. There is one (very simple) preset included, but you can easily create your own presets with the plethora of shaders or install other presets if you'd like. 
+ReShade is used to handle postpass and some other small effects. The default preset is custom made by your's truely, but the default Amethyst presets are also included in case you want to try something different.
  
  </details>
 
