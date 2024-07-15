@@ -9,7 +9,7 @@ Hello and thank you for reading this messy page. The list is currently being reb
 
 ### Goals
 
-I feel like I need to preface this by stating that this is *not* pornrim with skimpy armor replacers, public masturbation, and sexually aggressive wolves. While you are free to install these mods if you *really* think that they're neccessary, you will not get any support in doing so. I also try not to be "sexist" with the mod added armor, so just about everything can be used for both men and women.
+I feel like I need to preface this by stating that this is *not* pornrim with skimpy armor replacers, public masturbation, and sexually aggressive wolves. While you are free to install these mods if you *really* think that they're neccessary, you are not guaranteed to get any support with these things.
 
 OCM is meant to expand on Skyrim with more modern RPG elements while simultaniously making the world feel more dynamic, lifelike, and immersive. This doesn't necessarily mean "vanilla+" though, think of it more as a "Skyrim 2". 
 
