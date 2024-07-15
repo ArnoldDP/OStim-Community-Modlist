@@ -59,6 +59,8 @@ Below you can find an exhaustive list of every quest overhaul, dungeon, follower
 | Val Serano | Yes | Yes | Yes | No | No | No |
 | Taliesin | No | No | Yes | No | No | No |
 | Auri | Yes | No | No | Yes | No | Yes |
+| M'rissi | Yes | Yes | No | Yes | No | Yes |
+| Caesia | Yes | No | No | Yes | No | Yes |
 
 </details>
 
