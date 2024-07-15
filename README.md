@@ -1,6 +1,6 @@
 # Ostim Community Modlist
 
-Hello and thank you for reading this messy page. The list is currently being rebuilt from the ground up, for news and updates on this you are free to join the [discord server](https://discord.gg/vYkTp86CcZ).
+Hello and thank you for reading this messy page. The list is currently being rebuilt from the ground up. For news and updates on this you are free to join the [discord server](https://discord.gg/vYkTp86CcZ).
 
 # General
 
@@ -73,6 +73,7 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
 | Secunda | No | No | No | Yes | No | No |
 | Nessa | Yes | No | No | Yes | No | Yes |
 | IFD - Lydia | Yes | Yes | No | Yes | Kinda | No |
+| Lyssia | Yes | No | No | Yes | No | Yes |
 | CS Coralyn | No | No | No | Yes | No | No |
 | CS Vayne | NO | No | No | Yes | No | No |
 | OStim Lovers | Yes | No | No | No | Kinda | Yes |
@@ -175,6 +176,16 @@ Several followers have patches that allow them to make use of the framework. For
 >A few quest mods
 >
 A couple quests have OStim integration. For a detailed list, check the New Lands and Quests section of this readme.
+
+>OStim On Demand
+>
+A simple dialogue based romance system. Try not to use it with generic NPCs like fishermen.
+
+>Stress and Fear
+>
+A survival-esque mod that does exactly what the name implies. There are several ways to relieve stress so the prudes don't have to worry.
+
+>
  </details>
  
 <details>
