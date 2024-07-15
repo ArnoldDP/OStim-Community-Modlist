@@ -36,6 +36,8 @@ Below you can find an exhaustive list of every quest overhaul, dungeon, follower
 | GLENMORIL | Yes | Yes | No | No | No | No |
 | Unslaad | Yes | Yes | No | No | Kinda | No |
 | Shadows over Ilinalta | Yes | Yes | No | No | Kinda | No |
+| Herald of Death | Yes | Yes | No | No | No | No |
+| The Path of Transcendence | Yes | No | No | No | No | No |
 | Skyrim Extended Cut = Saints and Seducers | Yes | Yes | No | No | Yes | No |
 | Paarthurnax | Yes | No | No | No | Yes | No |
 | College of Winterhold | Yes | No | No | No | Yes | No |
