@@ -27,7 +27,7 @@ Stealth didn't recieve as many changes as it did additions. Realistic AI Detecti
 
 While this may not be as extensive as lists like Licentia, I try to have enough content for people to not get bored within 20 minutes. I don't want to spoil too much for the people who haven't played through quests like this so I'll try to keep things brief. 
 
-Below you can find an exhaustive list of every quest, quest overhaul, follower, and dungeon.
+Below you can find an exhaustive list of every quest, quest overhaul, follower, and dungeon mod.
 
 | Mod Name | Quest | Dungeon | Male Follower | Female Follower | Quest Expansion | OStim |
 | -------- | ----- | ------- | ------------- | --------------- | --------------- | ----- |
