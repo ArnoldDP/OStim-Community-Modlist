@@ -70,6 +70,9 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
 | CS Coralyn | No | No | No | Yes | No | No |
 | CS Vayne | NO | No | No | Yes | No | No |
 | OStim Lovers | Yes | No | No | No | Kinda | Yes |
+| Unmarked Locations Pack | No | Kinda | No | No | No | No |
+| Elaf POI | No | Kinda | No | No | No | No |
+| Watchtowers of Skyrim | No | Kinda | No | No | No | No |
 
 </details>
 
