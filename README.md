@@ -48,7 +48,7 @@ Below you can find an exhaustive list of every quest overhaul, dungeon, follower
 | Thieves Guild Alternative Endings | Yes | Yes | No | No | Yes | No |
 | Unfaltered virtue | Yes | Yes | No | No | Yes | No |
 | Forgotten Dungeons | No | Yes | No | No | No | No |
-| The Taste of Death | | Yes | Yes | No | No | Yes | No |
+| The Taste of Death | Yes | Yes | No | No | Yes | No | No |
 | Boethiah's Calling | Yes | Yes | No | No | Yes | No |
 | Legacy of the Dragonborn | Yes | Yes | No | No | Kinda | No |
 | Lucien | Yes | Yes | Yes | No | No | No |
