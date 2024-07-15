@@ -98,11 +98,11 @@ This is going to be the hard part but thats alright, it's still pretty easy.
 
 * **Installing Wabbajack**
 
-  Feel free to skip this step if you've already done it
+  Feel free to skip this step if you've already done it.
 
   First navigate to [the Wabbajack website](https://www.wabbajack.org).
 
-  Now you see that big download button? Click it. Now the next thing you'll want to do is create a folder for Wabbajack. It is extremely important that you do not create it in your downloads or documents folders, ideally it should be somewhere like C:\Wabbajack.
+  Now you see that big download button? Click it. Now the next thing you'll want to do is create a folder for Wabbajack. It is extremely important that you do not create it in your downloads or documents folders, ideally it should be somewhere like ```C:\Wabbajack```.
   Now drag and drop the Wabbajack.exe file into the folder that you just created for it and then launch it.
 
   After its done installing, the application will automatically open. When it does, the first thing you'll want to do is look at the top right of the GUI and find the icon that looks like a gear. See it? Good, now click it.
@@ -117,7 +117,7 @@ This is going to be the hard part but thats alright, it's still pretty easy.
   Scroll down until you see the big white "OCM" banner, in the bottom right it will have a download icon. Once it's done downloading, that icon will turn into a play arrow, click it!
 
   You should see a new screen with things buttons for the discord, readme, website, and manifest in the bottom left. Don't worry about that stuff for now. On the right side, youll see "Modlist Installation Location" and "Resource Download Location".
-  Click the three dots besides "Modlist Installation Location". Again, it's important that you create a new folder for your Wabbajack modlists, personally I'd recommend something like C:\OCM. WJ should automatically set the download location for you but if you want something different for whatever reason, feel free to chang it.
+  Click the three dots besides "Modlist Installation Location". Again, it's important that you create a new folder for your Wabbajack modlists, personally I'd recommend something like ```C:\OCM```. WJ should automatically set the download location for you but if you want something different for whatever reason, feel free to chang it.
 
   Now just walk away, go make some food and take a shower or something while you wait for Wabbajack to do its job, it will probably take a while.
 
@@ -160,9 +160,9 @@ Please do not hesitate to report any other bugs in the [OCM Support discord](htt
 *Can I make a suggestion?*
 
 
-Absolutely, ⁠[suggestions](https://discord.gg/D6jTAatVT6) is open to the public. Bonus points to anything that's lore friendly.
+Absolutely, ⁠the [suggestions](https://discord.gg/D6jTAatVT6) channel is open to the public. Bonus points to anything that's lore friendly.
 
-*Can I add "x mod"?*
+*Can I add X mod?*
 
 I can't stop you, nor do I intend to. Just remember that I am not liable for any issues that arise because of mods added post-installation. I suggest that you familiarize yourself with the list before you make changes.
 
@@ -170,22 +170,22 @@ I can't stop you, nor do I intend to. Just remember that I am not liable for any
 
 You have a mod loading after flat world map framework. Properly sort any mods that you add post installation otherwise a lot of things will be broken, not just the map.
 
-*I want to change the replacer for "x character". How can I do that?*
+*I want to change the replacer for X character. How can I do that?*
 
-The simple way is to overwrite the "npcmerg2" mod found in the gen files separator near the bottom. Make sure you overwrite both the mod and the plugins
+The simple way is to overwrite the "npcmerg2" mod found in the gen files separator near the bottom. Make sure you overwrite both the mod and the plugins.
 The more difficult way to do it is to generate a new Easy NPC output. Refer to the mod page for a more detailed explanation on how to use the tool.
 
 *How do I fast travel?*
 
-Innkeepers and some general stores will sell an item called a Travel Pack. Left click this item in your inventory and it will allow you to fast travel
+Innkeepers and some general stores will sell an item called a Travel Pack. Left click this item in your inventory and it will allow you to fast travel.
 
 *Is Serana Dialogue Add-on included?*
 
-No
+No.
 
 *Will you add Serana Dialogue Add-on?*
 
-No, but you can
+No, but you can.
 
 *Why not?*
 
@@ -196,6 +196,7 @@ Unlike other voiced followers, you do not have the option to forego using her if
 There will most likely be a crash log that can be found in C:\Users\user\Documents\My Games\Skyrim Special Edition\SKSE, it will be called something like "crash-bunch of numbers". Feel free to drop it in the [general-support section of the discord](https://discord.gg/aSKsAJQhtr)
 
 </details>
+
 <details>
   <summary>Root Builder and ReShade</summary>
 
