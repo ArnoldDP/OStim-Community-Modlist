@@ -61,6 +61,10 @@ Below you can find an exhaustive list of every quest overhaul, dungeon, follower
 | Auri | Yes | No | No | Yes | No | Yes |
 | M'rissi | Yes | Yes | No | Yes | No | Yes |
 | Caesia | Yes | No | No | Yes | No | Yes |
+| Remiel | Yes | No | No | Yes | No | No |
+| Secunda | No | No | No | Yes | No | No |
+| Nessa | Yes | No | No | Yes | No | Yes |
+| IFD - Lydia | Yes | Yes | No | Yes | Kinda | No |
 
 </details>
 
