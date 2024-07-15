@@ -155,17 +155,6 @@ Please do not hesitate to report any other bugs in the [OCM Support discord](htt
  </details>
  
 <details>
- <summary>Audio</summary>
-
- While this list isn't built to be an auditory experience, everyone likes good audio. 
- 
- Every vanilla sound has been improved or changed. Most of this comes from Audio Overhaul for Skyrim, Immersive Sounds Compendium, several SFX replacers by Satafinix, and Unofficial HD Audio Project. These mods cannot be safely disabled without running your own synthesis patch.
- 
- 
- 
- </details>
-
-<details>
  <summary>FAQ</summary>
 
 *Can I make a suggestion?*
