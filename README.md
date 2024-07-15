@@ -15,9 +15,9 @@ OCM is meant to expand on Skyrim with more modern RPG elements while simultaniou
 
 ### Gameplay Overview
 
-While the list is Simonrim based for the most part, there are a few more "aggressive" gameplay overhauls such as Gods and Worship or the plethora of survival changes. These mods serve to make some of the more overlooked aspects of the game a bit more important.
+While the list is Simonrim based for the most part, there are a few more "aggressive" gameplay overhauls such as Gods and Worship or the plethora of survival changes. These mods serve to make some of the more overlooked aspects of the game a bit more important. The game will also be a bit more difficult but not nearly as hard as many of the soulslike lists out there. I think the term "souls-lite" describes it almost perfectly, not quite as punishing as something like Bloodborne but not as uninteresting as... Skyrim.
 
-The game will be a bit more difficult but not quite a soulslike. Think of it as a "souls-lite", not quite as punishing as something like Bloodborne but not as uninteresting as... Skyrim. With the power of god, anime, and the BFCO animation converter, melee combat has been completely overhauled. 
+Melee combat has gotten the full modern combat overhaul treatment (no, not the MCO mod, but something extremely close). BFCO is used as an animation framework for third person combat animations while CFPAO handles first person. TK Dodge was chosen for several reasons, but the imporant one here is that it allows you to dodge in both third *and* first person. This is all wrapped neatly together by Plus Combat, an overhaul that allows for better stamina management, poise, timed blocking, better AI, and probably several other things I'm forgetting.
 
 For the fans of magic out there, don't worry, you weren't forgotten about. Perk overhauls, several new spells from Darenii and Kittytail, and Spellsiphon make playing a mage equally rewarding and not just a firebolt stagger point and click adventure. There is also a simple but in depth lichdom mod for those of you who are tired of playing a vampire but still want something a bit more robust than a normal human.
 
