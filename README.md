@@ -74,7 +74,7 @@ Below you can find an exhaustive list of every quest overhaul, dungeon, follower
  
  ### Pre-installation and Requirements
  
- You are required to start with a clean, unmodified, and up to date installation of Skyrim SE/AE through the Steam store. If you are unsure of how to do this, I recommend following GamerPoets guide [here](https://www.youtube.com/watch?v=zQ5uNCKOKmI)
+ You are required to start with a clean, unmodified, and up to date installation of Skyrim SE/AE through the Steam store. If you are unsure of how to do this, I recommend following GamerPoets guide [here](https://www.youtube.com/watch?v=zQ5uNCKOKmI).
 
  If you fail to start with a clean installation, the list will most likely not install. 
 
