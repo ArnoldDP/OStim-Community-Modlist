@@ -80,9 +80,7 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
 
  If you fail to start with a clean installation, the list will most likely not install. 
 
- The game language also needs to be set to English.
- 
- The only hard requirements to run the modlist are a CPU with AVX2 support and ~450 gigs of storage available (you can delete the downloads folder later to save space).
+ Additionally, the game language needs to be set to english and you will need roughly 450Gbs of storage available. Once the list is done installing, you are free to delete the downloads folder to save some space.
  
 | Performance | CPU    | GPU | RAM | Pagefile | 
 | ----------- | ------ | --- | --- | -------- |
