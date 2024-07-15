@@ -170,11 +170,11 @@ A fairly in depth quest mod that, surprisingly enough, caters more to women than
 
 >Followers
 >
-Several followers have patches that allow them to make use of the framework. For a detailed list, check the [New Lands and Quests](https://github.com/ArnoldDP/OStim-Community-Modlist/edit/main/README.md#new-lands-and-quests) section of this readme.
+Several followers have patches that allow them to make use of the framework. For a detailed list, check the New Lands and Quests section of this readme.
 
 >A few quest mods
 >
-A couple quests have OStim integration. For a detailed list, check the [New Lands and Quests](https://github.com/ArnoldDP/OStim-Community-Modlist/edit/main/README.md#new-lands-and-quests) section of this readme.
+A couple quests have OStim integration. For a detailed list, check the New Lands and Quests section of this readme.
  </details>
  
 <details>
