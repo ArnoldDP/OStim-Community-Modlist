@@ -29,29 +29,36 @@ While this may not be as extensive as lists like Licentia, I try to have enough 
 
 Below you can find an exhaustive list of every quest overhaul, dungeon, follower, and dungeon.
 
-| Mod Name | Quest | Dungeon | Male Follower | Female Follower | Quest Expansion | 
-| -------- | ----- | ------- | ------------- | --------------- | --------------- |
-| Sirenroot | Yes | Yes | No | No | No |
-| VIGILANT | Yes | Yes | No | No | Kinda |
-| GLENMORIL | Yes | Yes | No | No | No |
-| Unslaad | Yes | Yes | No | No | Kinda |
-| Shadows over Ilinalta | Yes | Yes | No | No | Kinda |
-| Skyrim Extended Cut = Saints and Seducers | Yes | Yes | No | No | Yes |
-| Paarthurnax | Yes | No | No | No | Yes |
-| College of Winterhold | Yes | No | No | No | Yes |
-| Caught Red Handed | Yes | No | No | No | Yes |
-| The Only Cure | Yes | No | No | No | Yes |
-| Nilheim | Yes | No | No | No | Yes |
-| The Whispering Door | Yes | No | No | No | Yes |
-| The Innocence Lost | Yes | No | No | No | Yes |
-| The Heart of Dibella | Yes | No | No | No | Yes |
-| Thieves Guild Alternative Endings | Yes | Yes | No | No | Yes |
-| Unfaltered virtue | Yes | Yes | No | No | Yes |
-| Forgotten Dungeons | No | Yes | No | No | No |
-| The Taste of Death | | Yes | Yes | No | No | Yes |
-| Boethiah's Calling | Yes | Yes | No | No | Yes |
-| Legacy of the Dragonborn | Yes | Yes | No | No | Kinda |
-|
+| Mod Name | Quest | Dungeon | Male Follower | Female Follower | Quest Expansion | OStim |
+| -------- | ----- | ------- | ------------- | --------------- | --------------- | ----- |
+| Sirenroot | Yes | Yes | No | No | No | No |
+| VIGILANT | Yes | Yes | No | No | Kinda | No |
+| GLENMORIL | Yes | Yes | No | No | No | No |
+| Unslaad | Yes | Yes | No | No | Kinda | No |
+| Shadows over Ilinalta | Yes | Yes | No | No | Kinda | No |
+| Skyrim Extended Cut = Saints and Seducers | Yes | Yes | No | No | Yes | No |
+| Paarthurnax | Yes | No | No | No | Yes | No |
+| College of Winterhold | Yes | No | No | No | Yes | No |
+| Caught Red Handed | Yes | No | No | No | Yes | Yes |
+| The Only Cure | Yes | No | No | No | Yes | No |
+| Nilheim | Yes | No | No | No | Yes | No |
+| The Whispering Door | Yes | No | No | No | Yes | No |
+| The Innocence Lost | Yes | No | No | No | Yes | No |
+| The Heart of Dibella | Yes | No | No | No | Yes | No |
+| Thieves Guild Alternative Endings | Yes | Yes | No | No | Yes | No |
+| Unfaltered virtue | Yes | Yes | No | No | Yes | No |
+| Forgotten Dungeons | No | Yes | No | No | No | No |
+| The Taste of Death | | Yes | Yes | No | No | Yes | No |
+| Boethiah's Calling | Yes | Yes | No | No | Yes | No |
+| Legacy of the Dragonborn | Yes | Yes | No | No | Kinda | No |
+| Lucien | Yes | Yes | Yes | No | No | No |
+| Kaidan | Yes | Yes | Yes | No | No | No |
+| Gore | Yes | Yes | Yes | No | No | No |
+| Inigo | Yes | No | Yes | No | No | No |
+| Xelzaz | Yes | No | Yes | No | No | No |
+| Val Serano | Yes | Yes | Yes | No | No | No |
+| Taliesin | No | No | Yes | No | No | No |
+| Auri | Yes | No | No | Yes | No | Yes |
 
 </details>
 
