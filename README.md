@@ -45,9 +45,13 @@ Below you can find an exhaustive list of every quest overhaul, dungeon, follower
 | The Whispering Door | Yes | No | No | No | Yes |
 | The Innocence Lost | Yes | No | No | No | Yes |
 | The Heart of Dibella | Yes | No | No | No | Yes |
-| Thieves Guild Alternative Endings | Yes | No | No | No | Yes |
-
-
+| Thieves Guild Alternative Endings | Yes | Yes | No | No | Yes |
+| Unfaltered virtue | Yes | Yes | No | No | Yes |
+| Forgotten Dungeons | No | Yes | No | No | No |
+| The Taste of Death | | Yes | Yes | No | No | Yes |
+| Boethiah's Calling | Yes | Yes | No | No | Yes |
+| Legacy of the Dragonborn | Yes | Yes | No | No | Kinda |
+|
 
 </details>
 
