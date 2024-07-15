@@ -9,7 +9,7 @@ Hello and thank you for reading this messy page. The list is currently being reb
 
 ### Goals
 
-I feel like I need to preface this by stating that this is *not* pornrim with skimpy armor, public masturbation, and sexually aggressive wolves. While you are free to install these mods if you *really* think that they're neccessary, you will not get any support in doing so.
+I feel like I need to preface this by stating that this is *not* pornrim with skimpy armor replacers, public masturbation, and sexually aggressive wolves. While you are free to install these mods if you *really* think that they're neccessary, you will not get any support in doing so. I also try not to be "sexist" with the mod added armor, so just about everything can be used for both men and women.
 
 OCM is meant to expand on Skyrim with more modern RPG elements while simultaniously making the world feel more dynamic, lifelike, and immersive. This doesn't necessarily mean "vanilla+" though, think of it more as a "Skyrim 2". 
 
@@ -25,7 +25,19 @@ Stealth didn't recieve as many changes as it did additions. Realistic AI Detecti
 
 ### New Lands and Quests
 
-While this may not be as extensive as lists like Licentia, I try to have enough content for people to not get bored within 20 minutes. New followers and expansions for several of the vanilla quests are used to make the base game less boring while huge DLC sized quest mods from people like VICN bring just a bit more content to the game. I don't want to spoil too much for people who haven't played through these types of mods before, so I'll try to keep this section brief
+While this may not be as extensive as lists like Licentia, I try to have enough content for people to not get bored within 20 minutes. I don't want to spoil too much for the people who haven't played through quests like this so I'll try to keep things brief. 
+
+Below you can find an exhaustive list of every quest overhaul, dungeon, follower, and dungeon.
+
+| Mod Name | Quest | Dungeon | Male Follower | Female Follower | Quest Expansion | 
+| -------- | ----- | ------- | ------------- | --------------- | --------------- |
+| Sirenroot | Yes | Yes | No | No | No |
+| VIGILANT | Yes | Yes | No | No | Kinda |
+| GLENMORIL | Yes | Yes | No | No | No |
+| Unslaad | Yes | Yes | No | No | Kinda |
+| Shadows over Ilinalta | Yes | Yes | No | No | Kinda |
+| Skyrim Extended Cut = Saints and Seducers | Yes | Yes | No | No | Yes |
+
 
 </details>
 
