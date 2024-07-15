@@ -169,43 +169,38 @@ Please do not hesitate to report any other bugs in the [OCM Support discord](htt
 <details>
  <summary>FAQ</summary>
 
-*Can I make a suggestion?*
-
-
+>Can I make a suggestion?
+>
 Absolutely, ⁠the [suggestions](https://discord.gg/D6jTAatVT6) channel is open to the public. Bonus points to anything that's lore friendly.
 
-*Can I add X mod?*
+>Can I add X mod?
 
 I can't stop you, nor do I intend to. Just remember that I am not liable for any issues that arise because of mods added post-installation. I suggest that you familiarize yourself with the list before you make changes.
 
-*My map is broken!*
-
+>My map is broken, what happened?
+>
 You have a mod loading after flat world map framework. Properly sort any mods that you add post installation otherwise a lot of things will be broken, not just the map.
 
-*I want to change the replacer for X character. How can I do that?*
-
+>I want to use a different replacer for this NPC, how do I change it?
+>
 The simple way is to overwrite the "npcmerg2" mod found in the gen files separator near the bottom. Make sure you overwrite both the mod and the plugins.
 The more difficult way to do it is to generate a new Easy NPC output. Refer to the mod page for a more detailed explanation on how to use the tool.
 
-*How do I fast travel?*
-
-Innkeepers and some general stores will sell an item called a Travel Pack. Left click this item in your inventory and it will allow you to fast travel.
-
-*Is Serana Dialogue Add-on included?*
-
+>Is Serana Dialogue Add-on included?
+>
 No.
 
-*Will you add Serana Dialogue Add-on?*
+>Will you add Serana Dialogue Add-on?
+>
+No.
 
-No, but you can.
-
-*Why not?*
-
+>Why not?
+>
 Unlike other voiced followers, you do not have the option to forego using her if you want to progress through the game (being forced to use something is bad). She also forces you to give up on using vanilla Serana (subjective) if you had her installed at any point in your save.
 
-*My game crashed! What do I do?*
-
-There will most likely be a crash log that can be found in C:\Users\user\Documents\My Games\Skyrim Special Edition\SKSE, it will be called something like "crash-bunch of numbers". Feel free to drop it in the [general-support section of the discord](https://discord.gg/aSKsAJQhtr)
+>My game crashed! What do I do?
+>
+There will most likely be a crash log that can be found in ```C:\Users\user\Documents\My Games\Skyrim Special Edition\SKSE```. It will be called something like ```crash-xxxxp-xx-xx-xx-xx-xx.log```. Feel free to drop it in the [general-support section of the discord](https://discord.gg/aSKsAJQhtr) along with any additional details you can give me.
 
 </details>
 
