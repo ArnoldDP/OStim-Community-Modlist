@@ -37,6 +37,16 @@ Below you can find an exhaustive list of every quest overhaul, dungeon, follower
 | Unslaad | Yes | Yes | No | No | Kinda |
 | Shadows over Ilinalta | Yes | Yes | No | No | Kinda |
 | Skyrim Extended Cut = Saints and Seducers | Yes | Yes | No | No | Yes |
+| Paarthurnax | Yes | No | No | No | Yes |
+| College of Winterhold | Yes | No | No | No | Yes |
+| Caught Red Handed | Yes | No | No | No | Yes |
+| The Only Cure | Yes | No | No | No | Yes |
+| Nilheim | Yes | No | No | No | Yes |
+| The Whispering Door | Yes | No | No | No | Yes |
+| The Innocence Lost | Yes | No | No | No | Yes |
+| The Heart of Dibella | Yes | No | No | No | Yes |
+| Thieves Guild Alternative Endings | Yes | No | No | No | Yes |
+
 
 
 </details>
