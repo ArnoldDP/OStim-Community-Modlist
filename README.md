@@ -13,6 +13,12 @@ I feel like I need to preface this by stating that this is *not* pornrim with sk
 
 OCM is meant to expand on Skyrim with more modern RPG elements while simultaniously making the world feel more dynamic, lifelike, and immersive. This doesn't necessarily mean "vanilla+" though, think of it more as a "Skyrim 2". 
 
+### Graphics
+
+Graphics are a focal point for just about every list and this is no exception. 
+
+With the rebuild, I decided to use NGVO as a base to save time. NGVO is a graphics focused list created by the incredibly dedicated author of Lorerim. Obviously there will be some differences considering the changes that needed to be made for Community Shaders and Seasons of Skyrim, but a majority of the graphics enhancements were left alone.
+
 ### Gameplay Overview
 
 While the list is Simonrim based for the most part, there are a few more "aggressive" gameplay overhauls such as Gods and Worship or the plethora of survival changes. These mods serve to make some of the more overlooked aspects of the game a bit more important. The game will also be a bit more difficult but not nearly as hard as many of the soulslike lists out there. I think the term "souls-lite" describes it almost perfectly, not quite as punishing as something like Bloodborne but not as uninteresting as... Skyrim.
