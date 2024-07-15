@@ -72,7 +72,7 @@ Below you can find an exhaustive list of every quest overhaul, dungeon, follower
 <details>
  <summary>Installation</summary>
  
- ### Pre-installation and Requirements
+ ### Pre-Installation and Requirements
  
  You are required to start with a clean, unmodified, and up to date installation of Skyrim SE/AE through the Steam store. If you are unsure of how to do this, I recommend following GamerPoets guide [here](https://www.youtube.com/watch?v=zQ5uNCKOKmI).
 
@@ -111,7 +111,7 @@ This is going to be the hard part but thats alright, it's still pretty easy.
 
 * **Installing OCM**
 
-  I would like to preface that by saying that while it is not technically a requirement, it is *highly* recommended that you have Nexus premium. If you don't, you'll have to click the download button about 1200 times on top of having your download speed capped at 3 mb/s.
+  I would like to preface that by saying that while it is not technically a requirement, it is *highly* recommended that you have Nexus premium. If you don't, you'll have to click the download button about 1700 times on top of your download speed capped at 3Mb/s.
   
   To download OCM, select "Browse Modlists" on the left, the icon will look like a little cloud with an arrow pointing down. In the top right, click "Show NSFW" and "Show Unofficial Lists", now just give it a minute to load all of the images.
   Scroll down until you see the big white "OCM" banner, in the bottom right it will have a download icon. Once it's done downloading, that icon will turn into a play arrow, click it!
