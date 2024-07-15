@@ -185,7 +185,10 @@ A simple dialogue based romance system. Try not to use it with generic NPCs like
 >
 A survival-esque mod that does exactly what the name implies. There are several ways to relieve stress so the prudes don't have to worry.
 
+>OStim NPCs
 >
+NPC on NPC action, its not completely random though so don't worry about incest. Delphine and Orgnar might be blowing off steam in another room and you might catch a bandit doing something unspeakable with another bandit. 
+
  </details>
  
 <details>
