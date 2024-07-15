@@ -87,9 +87,9 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
 | Minimum  | Ryzen 7 5600 | RTX 2070/RX 6750 XT | 16gb @3200mhz | 40gb |
 | Recommended | Ryzen 7 7600x | RTX 3070 TI/RX 6800 XT | 32gb @3600mhz | 40gb |
 
-Since this list uses Community Shaders as opposed to an ENB, a high end GPU isn't a hard requirement for 1080p. A 2070 ti, 3060 ti, or rx 6750 XT will be enough for a stable framerate in most places. You are more likely going to be limited by your CPU than your GPU with this list. 
+Since this list uses Community Shaders as opposed to an ENB, a high end GPU isn't a hard requirement for 1080p. A newish mid range card such as a 2070/3060 TI or RX 6750 XT will be enough for a stable framerate in most places. You are more likely going to be limited by your CPU than your GPU with this list. With that being said, a beefier card is almost always better so the recommended specs are a bit higher than the minimum.
 
-**To users with an AMD 7xxx series card, please understand that you might run into problems with Community Shaders. It is recommended that you manually install a lightweight ENB (such as Silent Horizons 2) to avoid problems.**
+**To users with an AMD 7xxx series card, please understand that you might run into problems with Community Shaders. It is recommended that you manually install a lightweight ENB (Silent Horizons 2 is what I'd recommend) to avoid problems.**
 
 
 ### Installation
