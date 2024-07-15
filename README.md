@@ -154,16 +154,27 @@ Please do not hesitate to report any other bugs in the [OCM Support discord](htt
  <details>
   <summary>OStim</summary>
 
-  Obviously this list does have a fair amount of OStim integration. While most of it can be completely ignored if you want to, there are a few things to watch out for.
+ ### What it is
 
-  * A few of the followers
+ OStim is a sex mod framework that can also be used for mods such as OBody. Three thousand hours on this game and you'd think our little dragonborn would have caught a couple bandits with their pants down by now, right? Well, now you can! Fade-to-black scenes are for the weak, I see no reason why games like Baldur's Gate and Cyberpunk can have detailed sex scenes and Skyrim can't.
 
-    Several of the followers, namely Auri, Caesia, Nessa, Kaidan, and M'rissi have OStim integration in their romance quests.
+ OStim is used over Sexlab for several reasons, namely that I value open-source work and quality over quantity. While Sexlab does have a huge pool of gameplay mods to pick from, OStim can be easily integrated in a realistic and non-fetishy way.
 
-  * General Dialogue
+ ### How it's used
 
-    OStim Romance adds a fairly simple and straightforward dialogue based way to get people in bed with you.
-  
+ With the goal being realistic integration, theres a chance you wont even notice it's there unless you really go looking for it. With that being said, here's the short list of mods that make use of it. 
+
+ >OStim Lovers
+>
+A fairly in depth quest mod that, surprisingly enough, caters more to women than it does to men. I mean this for both in game and life. Feel free to read more about it [here](https://www.nexusmods.com/skyrimspecialedition/mods/90053?tab=description)
+
+>Followers
+>
+Several followers have patches that allow them to make use of the framework. For a detailed list, check the [New Lands and Quests](https://github.com/ArnoldDP/OStim-Community-Modlist/edit/main/README.md#new-lands-and-quests) section of this readme.
+
+>A few quest mods
+>
+A couple quests have OStim integration. For a detailed list, check the [New Lands and Quests](https://github.com/ArnoldDP/OStim-Community-Modlist/edit/main/README.md#new-lands-and-quests) section of this readme.
  </details>
  
 <details>
