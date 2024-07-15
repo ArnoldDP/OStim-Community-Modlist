@@ -67,7 +67,8 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
 | Secunda | No | No | No | Yes | No | No |
 | Nessa | Yes | No | No | Yes | No | Yes |
 | IFD - Lydia | Yes | Yes | No | Yes | Kinda | No |
-
+| CS Coralyn | No | No | No | Yes | No | No |
+| CS Vayne | NO | No | No | Yes | No | No |
 </details>
 
 
