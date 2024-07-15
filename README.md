@@ -69,6 +69,8 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
 | IFD - Lydia | Yes | Yes | No | Yes | Kinda | No |
 | CS Coralyn | No | No | No | Yes | No | No |
 | CS Vayne | NO | No | No | Yes | No | No |
+| OStim Lovers | Yes | No | No | No | Kinda | Yes |
+
 </details>
 
 
