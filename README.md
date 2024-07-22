@@ -17,7 +17,7 @@ OCM is meant to expand on Skyrim with more modern RPG elements while simultaniou
 
 Graphics are a focal point for just about every list and this is no exception. 
 
-With the rebuild, I decided to use NGVO as a base to save time. NGVO is a graphics focused list created by the incredibly dedicated author of Lorerim. Obviously there will be some differences considering the changes that needed to be made for Community Shaders and Seasons of Skyrim, but a majority of the graphics enhancements were left alone.
+With the rebuild, I decided to use NGVO as a base to save time. NGVO is a graphics focused list created by the incredibly dedicated author of Lorerim. Obviously there will be some differences considering the changes that needed to be made for Community Shaders, Seasons of Skyrim, and some more personal touches, but a majority of the graphics enhancements were left alone.
 
 ### Gameplay Overview
 
