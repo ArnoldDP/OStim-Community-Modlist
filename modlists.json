@@ -12,10 +12,9 @@
       "OStim",
       "Seasons of Skyrim",
       "Simonrim",
-      "BHUNP",
+      "3BA",
       "HIMBO",
-      "Vanilla\u002B",
-      "Performance Profile"
+      "Community Shaders"
     ],
     "nsfw": true,
     "utility_list": false,
@@ -23,7 +22,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
     "links": {
-      "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli8.png",
+      "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli22.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/OCM.wabbajack_9381a71d-9cee-48ed-b323-5bacceb85ef0",
       "machineURL": "ostimisgood",
@@ -37,7 +36,7 @@
       "NumberOfInstalledFiles": 313534,
       "SizeOfInstalledFiles": 249769231392
     },
-    "version": "1.5.5",
+    "version": "2",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2024-05-24T00:40:29.8485806Z",
     "repositoryName": ""
