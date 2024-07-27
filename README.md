@@ -253,11 +253,13 @@ ReShade is used to handle postpass and some other small effects. The default pre
 
 # Discords
 
->[OCM Discord](https://discord.gg/MgDsHfmCEF)
+>[OCM](https://discord.gg/MgDsHfmCEF)
 
->[OStim Standalone Official Discord](https://discord.gg/qEhSpvUc5Z)
+>[OStim Standalone Official](https://discord.gg/qEhSpvUc5Z)
  
->[OStim Community Discord](https://discord.gg/ostim)
+>[OStim Community](https://discord.gg/ostim)
+
+>[Wabbajack](https://discord.com/invite/wabbajack) Please just use our discord for support, WJ discord already has plenty of people asking questions
  
 # Patreon/Ko-Fi for various authors featured in the list
  
