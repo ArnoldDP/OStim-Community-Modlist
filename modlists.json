@@ -20,21 +20,21 @@
     "utility_list": false,
     "image_contains_title": true,
     "DisplayVersionOnlyInInstallerView": false,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/mli22.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_9381a71d-9cee-48ed-b323-5bacceb85ef0",
+      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_e6444560-c3ab-49b1-ae33-d1c57dba9c0d",
       "machineURL": "ostimisgood",
       "discordURL": "https://discord.gg/Wbq5mvKRrk"
     },
     "download_metadata": {
-      "Hash": "VzgtaRlyKVM=",
-      "Size": 971633352,
-      "NumberOfArchives": 1382,
-      "SizeOfArchives": 147202353870,
-      "NumberOfInstalledFiles": 313534,
-      "SizeOfInstalledFiles": 249769231392
+      "Hash": "+dxDcK+iPKU=",
+      "Size": 1460234709,
+      "NumberOfArchives": 2018,
+      "SizeOfArchives": 199139208064,
+      "NumberOfInstalledFiles": 447078,
+      "SizeOfInstalledFiles": 281252304360
     },
     "version": "2.0.0",
     "dateCreated": "1970-01-01T00:00:00Z",
