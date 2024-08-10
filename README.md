@@ -271,6 +271,8 @@ ReShade is used to handle postpass and some other small effects. The default pre
  
 >Baka [patreon](https://www.patreon.com/BaboFactory)
 
+>Biggie [Ko-fi](https://ko-fi.com/biggieboss)
+
 >Boris Vorontsov [Patreon](https://www.patreon.com/enb)
 
 >Doodle [ko-fi](https://ko-fi.com/doodlez)
