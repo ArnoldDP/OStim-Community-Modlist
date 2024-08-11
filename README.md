@@ -304,6 +304,6 @@ If one of your mods are featured in the list, feel free to dm me on discord @arn
  <Details>
   <summary>donations</summary>
  
-I will not personally accept donations, I simply compiled a list. If one of your mods are featured in the list, just dm me a link to your page and I'll add it. 
+I do not want to accept donations, I simply compiled a list. If one of your mods are featured in the list, just dm me a link to your page and I'll add it. 
   
   </details>
