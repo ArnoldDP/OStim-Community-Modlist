@@ -102,7 +102,7 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
 | ------- | ------ | --- | --- | -------- |
 | Low  | Ryzen 5 3600x/ Intel i5 9600k | RTX 2070/RX 6700 XT | 16gb @3200mhz | 40gb |
 | Medium | Ryzen 5 5600x/Intel i5 11600k | RTX 3070 TI/RX 6800 XT | 32gb @3600mhz | 40gb |
-| High | Ryzen 5 7600x/Intel i5 13600k | thoughts and prayers if you go above 1080p | 32gb @3600mhz | 40gb |
+| High | Ryzen 5 7600x/Intel i5 13600k | thoughts and prayers if you try go above 1080p | 32gb @3600mhz | 40gb |
 | SFW | Ryzen 5 7600x/Intel i5 13600k | thoughts and prayers if you try going above 1080p | 32gb @3600mhz | 40gb |
 
 High: Dense folliage with more variety and an ENB
