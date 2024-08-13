@@ -1,6 +1,8 @@
 # Ostim Community Modlist
 
-Hello and thank you for reading this messy page. The list is currently being rebuilt from the ground up. For news and updates on this you are free to join the [discord server](https://discord.gg/vYkTp86CcZ).
+Hello and thank you for reading this messy page! We have information on nearly every aspect of the list, so give it a quick read if you have any questions.
+
+[discord server](https://discord.gg/vYkTp86CcZ).
 
 # General
 
@@ -94,15 +96,26 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
  If you fail to start with a clean installation, the list will most likely not install. 
 
  Additionally, the game language needs to be set to english and you will need roughly 450Gbs of storage available. Once the list is done installing, you are free to delete the downloads folder to save some space.
- 
-| Performance | CPU    | GPU | RAM | Pagefile | 
-| ----------- | ------ | --- | --- | -------- |
-| Minimum  | Ryzen 7 3600x | RTX 2070/RX 6750 XT | 16gb @3200mhz | 40gb |
-| Recommended | Ryzen 7 7600x | RTX 3070 TI/RX 6800 XT | 32gb @3600mhz | 40gb |
 
-Since this list uses Community Shaders as opposed to an ENB, a high end GPU isn't a hard requirement for 1080p. A newish mid range card such as a 2070/3060 TI or RX 6750 XT will be enough for a stable framerate in most places. You are more likely going to be limited by your CPU than your GPU with this list. With that being said, a beefier card is almost always better so the recommended specs are a bit higher than the minimum.
 
-**To users with an AMD 7xxx series card, please understand that you might run into problems with Community Shaders. It is recommended that you manually install a lightweight ENB (Silent Horizons 2 is what I'd recommend) to avoid problems.**
+| Profile | CPU    | GPU | RAM | Pagefile | 
+| ------- | ------ | --- | --- | -------- |
+| Low  | Ryzen 5 3600x/ Intel i5 9600k | RTX 2070/RX 6700 XT | 16gb @3200mhz | 40gb |
+| Medium | Ryzen 5 5600x/Intel i5 11600k | RTX 3070 TI/RX 6800 XT | 32gb @3600mhz | 40gb |
+| High | Ryzen 5 7600x/Intel i5 13600k | thoughts and prayers if you go above 1080p | 32gb @3600mhz | 40gb |
+| SFW | Ryzen 5 7600x/Intel i5 13600k | thoughts and prayers if you try going above 1080p | 32gb @3600mhz | 40gb |
+
+High: Dense folliage with more variety and an ENB
+
+Medium: Less dense folliage with less variety and an ENB
+
+Low: Less dense folliage with less variety and Community Shaders
+
+SFW: High but 99% less horny
+
+Keep in mind that these are the recommended specs, not neccesarily the minimum. Feel free to experiment!
+
+**To users with an AMD 7xxx series card, please understand that you might run into problems with Community Shaders. If you do run into issues and have trouble running the medium/high profiles then I would recommend installing a lightweight ENB such as Silent Horizons 2 or The Enhancer.**
 
 
 ### Installation
