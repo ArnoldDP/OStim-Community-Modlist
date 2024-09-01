@@ -110,8 +110,6 @@ Medium: Less dense folliage with less variety and an ENB
 
 Low: Less dense folliage with less variety and Community Shaders
 
-SFW: High but 99% less horny
-
 Keep in mind that these are the recommended specs, not neccesarily the minimum. Feel free to experiment!
 
 **To users with an AMD 7xxx series card, please understand that you might run into problems with Community Shaders. If you do run into issues and have trouble running the medium/high profiles then I would recommend installing a lightweight ENB such as Silent Horizons 2 or The Enhancer.**
