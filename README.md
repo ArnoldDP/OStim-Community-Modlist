@@ -156,11 +156,11 @@ This is going to be the hard part but thats alright, it's still pretty easy.
 <details>
   <summary>Known issues</summary>
  
-* **Missing shared quarters in Morthal, Winterhold, Falkreath, and Dawnstar**
+>Missing shared quarters in Morthal, Winterhold, Falkreath, and Dawnstar
 
   Just don't rent a room in these places for now, I've been lazy and keep forgetting to patch it
 
-* **First Lessons not progressing**
+>First Lessons not progressing
 
   Tolfdir refuses to acknowledge that you held your ward up. Just use the console command `setstage mg01 200` to skip it.
 
