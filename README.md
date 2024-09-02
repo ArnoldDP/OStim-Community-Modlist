@@ -156,8 +156,11 @@ This is going to be the hard part but thats alright, it's still pretty easy.
 <details>
   <summary>Known issues</summary>
  
-Shared quarters are missing in a few Inn's. If you would like shared accomodations for you and your followers, check to see if theres a hatch anywhere on the floor first.
-
+>Shared quarters are missing in a few Inn's. If you would like shared accomodations for you and your followers, check to see if theres a hatch anywhere on the floor first.
+>
+>First Lessons Tolfidr won't acknowledge that you held the ward up
+>
+>Landscape
 Please do not hesitate to report any other bugs in the [OCM Support discord](https://discord.gg/MgDsHfmCEF)
  
  </details>
