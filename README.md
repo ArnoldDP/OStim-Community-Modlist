@@ -97,7 +97,8 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
 
  Additionally, the game language needs to be set to english and you will need roughly 450Gbs of storage available. Once the list is done installing, you are free to delete the downloads folder to save some space.
 
- You will alos need the following software
+ You will alos need the following:
+ 
  1. (Microsoft Visual C++ Redistributable)[https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170]
 
  2. (.NET SDK)[https://dotnet.microsoft.com/en-us/download]
