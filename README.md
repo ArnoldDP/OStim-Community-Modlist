@@ -99,11 +99,11 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
 
  You will alos need the following:
  
- 1. (Microsoft Visual C++ Redistributable)[https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170]
+ 1. [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
- 2. (.NET SDK)[https://dotnet.microsoft.com/en-us/download]
+ 2. [.NET SDK](https://dotnet.microsoft.com/en-us/download)
 
- 3. (.NET Framework)[https://dotnet.microsoft.com/en-us/download/dotnet-framework]
+ 3. [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
     
 >Recommended specs for 1080p 60fps
