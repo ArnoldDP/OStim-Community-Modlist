@@ -165,7 +165,7 @@ This is going to be the hard part but thats alright, it's still pretty easy.
 
   To launch the game, first you'll want to navigate to where you installed the list. This will be the "Modlist Installation Location" folder that you selected earlier. Find modorganizer.exe and double click it. On the top ride side of the screen there will be a box with a drop down menu and a smaller greenish blue box that says "run". Click on the drop down menu and make sure its set to "SKSE". Once its set to SKSE all you have to do is click run.
 
-  Once you're in game and done with character customization, make a save by either opening up the menu manually and clicking "save game" or by just clicking F5 (this is set to use a full save, not a quicksave, dont worry) and then re-load the save. After that, click escape again and navigate to "Mod Configuration". Once you've found it, scroll down until you find "MCM Recorder" (or just use the search bar at the bottom) and select it. You'll see a few options on this page, but that's alright, you can ignore most all but two of them. Click on "RECORDER 1" and then click "Yes". It will instruct you to close out of the mod configuration menu, once you've done that youll see a menu with three options. Just select "Run Recording" and wait a few seconds, it will tell you when it's done. After you're done with all of this, save your game again and you're good to start playing. It is important to remember that autosaves are disabled in this list, so save your game and save it often.
+  By default the list is set to use the ENB. If you would like to switch to CS + ReShade, open the drop down menu and select "ENB Organizer". Ignore the warning and click OK, click the burger menu on the top left, and select "Presets". From there you can simply disable the ENB and enable ReShade. 
   
  </details>
  
@@ -173,15 +173,53 @@ This is going to be the hard part but thats alright, it's still pretty easy.
 <details>
   <summary>Known issues</summary>
  
->Missing shared quarters in Morthal, Winterhold, Falkreath, and Dawnstar
+>Missing shared quarters in Falkreath and Dawnstar
+>
+I'm just a slacker and haven't patched these yet
 
-  Just don't rent a room in these places for now, I've been lazy and keep forgetting to patch it
+>Skin textures may randomly turn blue for almost no reason*
 
->First Lessons not progressing
+If this happens, it can be fixed wit the following steps:
 
-  Tolfdir refuses to acknowledge that you held your ward up. Just use the console command `setstage mg01 200` to skip it.
+0. Disable the mod "Clean Save Auto-reloader"
+1. move to a safe interior
+2. save
+3. close the game
+4. relaunch the game
+5. make a new character (you don't have to customize it or anything)
+6. (without closing the game) reload your old save
+7. make a new save
+8. relaunch the game
 
-Please do not hesitate to report any other bugs in the [OCM Support discord](https://discord.gg/MgDsHfmCEF)
+>Landscape seam by Anise's Cabin
+
+I refuse to fix this. It is a scar that will never heal.
+
+>Missing texture in some of the areas in the Gravewind quest
+
+A weird conflict that I'm trying to diagnose
+
+>Melana might be outside of her cage and not speak with you
+
+Just console click her, run to the little cage she's supposed to be in, and do "moveto player"
+
+>Enchanted Banded Iron Shields may cause longer load times for inventories that they are in
+
+This one may have been fixed in the recent update
+
+>Masks like Krosis or Morekei affect every npc, not just enemies
+
+>If you have Auri and Lydia in a party, dismissing one may actually dismiss the other instead of the intended follower
+
+Just dismiss the other and re-recruit the one who you didn't want to leave the party
+
+>If you get hit while climbing hte latter in death stench cave your character model may become invisible
+
+Just save and reload to fix
+
+>Game crasehs when reloading mid game
+
+This isn't a crash and it is 100% intentional. If you would like to "fix" this, you can disable the mod "Clean Save Auto-reloader". If something breaks in some spectacular un-recreatable way, I can't really help you. 
  
  </details>
 
