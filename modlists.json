@@ -1,7 +1,7 @@
 [
   {
     "title": "OCM",
-    "description": "Just enough NSFW to make long playthroughs interesting.",
+    "description": "A simple and immersive overhaul featuring Seasons of Skyrim, OStim, plenty of new lands and quests, a robust combat system, and plenty of followers to take with you on your journey.",
     "author": "BWAP",
     "maintainers": [
       "github/ArnoldDP"
@@ -11,9 +11,7 @@
     "tags": [
       "OStim",
       "Seasons of Skyrim",
-      "3BA",
-      "HIMBO",
-      "Community Shaders"
+      "MCO"
     ],
     "nsfw": true,
     "utility_list": false,
