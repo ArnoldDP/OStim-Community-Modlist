@@ -95,7 +95,21 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
 
  If you fail to start with a clean installation, the list will most likely not install. 
 
- Additionally, the game language needs to be set to english and you will need roughly 450Gbs of storage available. Once the list is done installing, you are free to delete the downloads folder to save some space.
+ After you do a clean installation, please do the following
+
+ 1. Navigate to your Steam Skyrim Data folder
+   
+ 2. Within the data folder, delete the 2 curios files ccbgssse037-curios.bsa and ccbgssse037-curios.esl
+  
+ 3. Launch Skyrim from Steam
+   
+ 4. Select Creations from the main menu
+    
+ 5. Search for the Rare Curios mod and download
+     
+ 6. Exit the game
+
+ Additionally, the game language needs to be set to english and you will need roughly 550Gbs of storage available. Once the list is done installing, you are free to delete the downloads folder to save some space.
 
  You will alos need the following:
  
@@ -108,10 +122,10 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
     
 >Recommended specs for 1080p 60fps
 
-| Profile | CPU    | GPU | RAM | Pagefile | 
+| Shader | CPU    | GPU | RAM | Pagefile | 
 | ------- | ------ | --- | --- | -------- |
-| Low  | Ryzen 5 5600x/ Intel i5 11600k | RTX 2070/RTX 3060/RX 6700 XT | 16gb @3200mhz | 40gb |
-| High | Ryzen 5 5600x/Intel i5 11600k | RTX 4070/AMD Equivelant | 32gb @3600mhz | 40gb |
+| CS + ReShade  | Ryzen 5 5600x/ Intel i5 11600k | RTX 2070/RTX 3060/RX 6700 XT | 16gb @3200mhz | 40gb |
+| ENBSeries | Ryzen 5 5600x/Intel i5 11600k | RTX 4070/AMD Equivelant | 32gb @3600mhz | 40gb |
 
 Keep in mind that these are the recommended specs, not neccesarily the minimum. Feel free to experiment!
 
@@ -137,7 +151,7 @@ This is going to be the hard part but thats alright, it's still pretty easy.
 
 * **Installing OCM**
 
-  I would like to preface that by saying that while it is not technically a requirement, it is *highly* recommended that you have Nexus premium. If you don't, you'll have to click the download button about 1700 times on top of your download speed capped at 3Mb/s.
+  I would like to preface that by saying that while it is not technically a requirement, it is *highly* recommended that you have Nexus premium. If you don't, you'll have to click the download button about 2000 times on top of your download speed capped at 3Mb/s.
   
   To download OCM, select "Browse Modlists" on the left, the icon will look like a little cloud with an arrow pointing down. In the top right, click "Show NSFW" and "Show Unofficial Lists", now just give it a minute to load all of the images.
   Scroll down until you see the big white "OCM" banner, in the bottom right it will have a download icon. Once it's done downloading, that icon will turn into a play arrow, click it!
