@@ -296,28 +296,11 @@ There will most likely be a crash log that can be found in ```C:\Users\user\Docu
 
 </details>
 
-<details>
-  <summary>Root Builder and ReShade</summary>
-
- 
- ### Root builder
- 
- This is a MO2 plugin that I use to manage things like ReShade and SKSE.
-
- Chooey has made an amazing five minute guide on what it is and how to use it.
-
- https://youtu.be/m3QjdslU_6w?si=dykjTXWlBI-KmH8G&t=108
- 
- ### ReShade
-
-ReShade is used to handle postpass and some other small effects. The default preset is custom made by your's truely, but the default Amethyst presets are also included in case you want to try something different.
- 
- </details>
-
 # Links
 
 >[Consistently up-to-date modlist (C.U.M.)](https://loadorderlibrary.com/lists/ocm)
 
+>[My Ko-Fi](https://ko-fi.com/arnoldp)
 # Discords
 
 >[OCM](https://discord.gg/MgDsHfmCEF)
