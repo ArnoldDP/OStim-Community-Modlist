@@ -351,9 +351,4 @@ There will most likely be a crash log that can be found in ```C:\Users\user\Docu
 
 If one of your mods are featured in the list, feel free to dm me on discord @arnoldp. I'll add you whenever I get the chance.
  
- <Details>
-  <summary>donations</summary>
- 
-I do not want to accept donations, I simply compiled a list. If one of your mods are featured in the list, just dm me a link to your page and I'll add it. 
-  
-  </details>
+
