@@ -120,7 +120,7 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
  3. [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
     
->Recommended specs for 1080p 60fps
+>Min specs for 1080p
 
 | Shader | CPU    | GPU | RAM | Pagefile | 
 | ------- | ------ | --- | --- | -------- |
