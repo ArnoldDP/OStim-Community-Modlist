@@ -76,6 +76,8 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
 | Nessa | Yes | No | No | Yes | No | Yes |
 | IFD - Lydia | Yes | Yes | No | Yes | Kinda | No |
 | Lyssia | Yes | No | No | Yes | No | Yes |
+| Astrid | Yes | Yes | No | Yes | No | Yes |
+| Katana | Yes | Yes | Yes | Yes | No | No |
 | CS Coralyn | No | No | No | Yes | No | No |
 | CS Vayne | NO | No | No | Yes | No | No |
 | OStim Lovers | Yes | No | No | No | Kinda | Yes |
