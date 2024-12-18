@@ -15,12 +15,6 @@ I feel like I need to preface this by stating that this is *not* pornrim with sk
 
 OCM is meant to expand on Skyrim with more modern RPG elements while simultaniously making the world feel more dynamic, lifelike, and immersive. This doesn't necessarily mean "vanilla+" though, think of it more as a "Skyrim 2". 
 
-### Graphics
-
-Graphics are a focal point for just about every list and this is no exception. 
-
-With the rebuild, I decided to use NGVO as a base to save time. NGVO is a graphics focused list created by the incredibly dedicated author of Lorerim. Obviously there will be some differences considering the changes that needed to be made for Seasons of Skyrim and my personal preferences but a lot of things were left alone.
-
 ### Gameplay Overview
 
 While the list is Simonrim based for the most part, there are a few more "aggressive" gameplay overhauls such as Gods and Worship or the plethora of survival changes. These mods serve to make some of the more overlooked aspects of the game a bit more important. The game will also be a bit more difficult but not nearly as hard as many of the soulslike lists out there. I think the term "souls-lite" describes it almost perfectly, not quite as punishing as something like Bloodborne but not as uninteresting as... Skyrim.
@@ -122,16 +116,11 @@ Below you can find an exhaustive list of every quest, quest overhaul, follower, 
  3. [.NET Framework](https://dotnet.microsoft.com/en-us/download/dotnet-framework)
 
     
->Min specs for 1080p
 
-| Shader | CPU    | GPU | RAM | Pagefile | 
+| m/r | CPU    | GPU | RAM | Pagefile | 
 | ------- | ------ | --- | --- | -------- |
-| CS + ReShade  | Ryzen 5 5600x/ Intel i5 11600k | RTX 2070/RTX 3060/RX 6700 XT | 16gb @3200mhz | 40gb |
-| ENBSeries | Ryzen 5 5600x/Intel i5 11600k | RTX 4070/AMD Equivelant | 32gb @3600mhz | 40gb |
-
-Keep in mind that these are the recommended specs, not neccesarily the minimum. Feel free to experiment!
-
-**To users with an AMD 7xxx series card, please understand that you might run into problems with Community Shaders. If you do run into issues and have trouble running the medium/high profiles then I would recommend installing a lightweight ENB such as Silent Horizons 2 or The Enhancer.**
+| Minimum  | Ryzen 5 5600x/ Intel i5 11600k | RTX 2070/RTX 3060/RX 6700 XT | 16gb @3200mhz | 40gb |
+| Recommended | Ryzen 5 7600x/Intel i5 13600k | RTX 3070/AMD Equivelant | 32gb @3600mhz | 40gb |
 
 
 ### Installation
