@@ -156,7 +156,7 @@ This is going to be the hard part but thats alright, it's still pretty easy.
 
   To launch the game, first you'll want to navigate to where you installed the list. This will be the "Modlist Installation Location" folder that you selected earlier. Find modorganizer.exe and double click it. On the top ride side of the screen there will be a box with a drop down menu and a smaller greenish blue box that says "run". Click on the drop down menu and make sure its set to "SKSE". Once its set to SKSE all you have to do is click run.
 
-  By default the list is set to use the ENB. If you would like to switch to CS + ReShade, open the drop down menu and select "ENB Organizer". Ignore the warning and click OK, click the burger menu on the top left, and select "Presets". From there you can simply disable the ENB and enable ReShade. 
+  This is a Community Shaders only list and ENB is not supported. Do not install an ENB unless you know exactly what you're doing and plan to make extensive modifications to interiors, weathers, and textures. 
   
  </details>
  
@@ -313,8 +313,6 @@ There will most likely be a crash log that can be found in ```C:\Users\user\Docu
 >Baka [patreon](https://www.patreon.com/BaboFactory)
 
 >Biggie [Ko-fi](https://ko-fi.com/biggieboss)
-
->Boris Vorontsov [Patreon](https://www.patreon.com/enb)
 
 >Doodle [ko-fi](https://ko-fi.com/doodlez)
 
