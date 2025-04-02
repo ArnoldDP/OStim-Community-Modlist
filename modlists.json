@@ -21,23 +21,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/LiveDbop%20MLI.png",
       "readme": "https://github.com/ArnoldDP/OStim-Community-Modlist/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_9fe437bf-d498-4b34-b5c8-e73b37b42f9a",
+      "download": "https://authored-files.wabbajack.org/OCM.wabbajack_1a7ba541-2cf3-40e0-8d3e-f5258f39bf16",
       "machineURL": "ostimisgood",
       "discordURL": "https://discord.gg/Wbq5mvKRrk",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "TX2dxHhGiLY=",
-      "Size": 2057664986,
-      "NumberOfArchives": 2213,
-      "SizeOfArchives": 220334446768,
-      "NumberOfInstalledFiles": 662668,
-      "SizeOfInstalledFiles": 372982530763,
-      "TotalSize": 593316977531
+      "Hash": "R/KUc3D3Pu0=",
+      "Size": 2057193899,
+      "NumberOfArchives": 2210,
+      "SizeOfArchives": 220321944080,
+      "NumberOfInstalledFiles": 662482,
+      "SizeOfInstalledFiles": 372921329067,
+      "TotalSize": 593243273147
     },
     "version": "2.6.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-03-29T06:54:38.6294636Z",
+    "dateUpdated": "2025-04-02T04:29:22.8790582Z",
     "repositoryName": ""
   }
 ]
