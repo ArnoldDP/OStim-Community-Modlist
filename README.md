@@ -1,6 +1,7 @@
-# This list is currently under maintenance, there is no ETA on this. In the meantime, there's dozens of other lists to try out, I'd recommend Journals of Jyggalag!
+# This list is currently under maintenance, there is no ETA on this, but expect a month or so. In the meantime, there's dozens of other lists to try out, I'd recommend Journals of Jyggalag!
 
-
+<details>
+ <summary>The actual readme</summary>
 # Ostim Community Modlist
 
 Hello and thank you for reading this messy page! We have information on nearly every aspect of the list, so give it a quick read if you have any questions.
@@ -344,3 +345,4 @@ There will most likely be a crash log that can be found in ```C:\Users\user\Docu
 If one of your mods are featured in the list, feel free to dm me on discord @arnoldp. I'll add you whenever I get the chance.
  
 
+</details>
