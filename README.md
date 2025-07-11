@@ -1,3 +1,6 @@
+# This list is currently under maintenance, there is no ETA on this. In the meantime, there's dozens of other lists to try out, I'd recommend Journals of Jyggalag!
+
+
 # Ostim Community Modlist
 
 Hello and thank you for reading this messy page! We have information on nearly every aspect of the list, so give it a quick read if you have any questions.
