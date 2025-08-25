@@ -55,7 +55,7 @@
     ],
     "nsfw": true,
     "image_contains_title": true,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://github.com/user-attachments/assets/e9c73870-22ce-4831-8e0e-dc24e31af478",
@@ -75,4 +75,5 @@
     "version": "1.0.0"
   }
 ]
+
 
