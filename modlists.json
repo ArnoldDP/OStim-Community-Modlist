@@ -58,7 +58,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/user-attachments/assets/e9c73870-22ce-4831-8e0e-dc24e31af478",
+      "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/Untitled.png",
       "readme": "https://github.com/ArnoldDP/ARSE/tree/main",
       "download": "https://authored-files.wabbajack.org/ARSE.wabbajack_6f7e8c55-5bcd-4922-aeca-93c25aa28e4b",
       "machineURL": "tightarse",
@@ -75,5 +75,6 @@
     "version": "1.0.0"
   }
 ]
+
 
 
