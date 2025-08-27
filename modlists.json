@@ -65,16 +65,17 @@
       "discordURL": "https://discord.gg/acHK6AeJ2k"
     },
     "download_metadata": {
-      "Hash": "FIGx8XoM6f8",
-      "Size": 1318420171,
-      "NumberOfArchives": 1327,
-      "SizeOfArchives": 119288021400,
-      "NumberOfInstalledFiles": 225374718362,
-      "SizeOfInstalledFiles": 344662739762
+      "Hash": "htmjZ9eYxHE=",
+      "Size": 1323175483,
+      "NumberOfArchives": 1332,
+      "SizeOfArchives": 119300322093,
+      "NumberOfInstalledFiles": 250709,
+      "SizeOfInstalledFiles": 225456380993
     },
-    "version": "1.0.0"
+    "version": "1.0.1"
   }
 ]
+
 
 
 
