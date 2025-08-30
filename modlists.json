@@ -48,34 +48,37 @@
       "github/ArnoldDP"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Steam",
       "Dark Fantasy",
       "Total Overhaul"
     ],
     "nsfw": true,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/Untitled.png",
       "readme": "https://github.com/ArnoldDP/ARSE/tree/main",
-      "download": "https://authored-files.wabbajack.org/ARSE.wabbajack_6f7e8c55-5bcd-4922-aeca-93c25aa28e4b",
+      "download": "https://authored-files.wabbajack.org/ARSE.wabbajack_0460a228-72c0-4803-9b0b-7ee96dfbaebb",
       "machineURL": "tightarse",
-      "discordURL": "https://discord.gg/acHK6AeJ2k"
+      "discordURL": "https://discord.gg/acHK6AeJ2k",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "htmjZ9eYxHE=",
-      "Size": 1323175483,
-      "NumberOfArchives": 1332,
-      "SizeOfArchives": 119300322093,
-      "NumberOfInstalledFiles": 250709,
-      "SizeOfInstalledFiles": 225456380993
+      "Hash": "1YFSd1S675Y=",
+      "Size": 1331942869,
+      "NumberOfArchives": 1333,
+      "SizeOfArchives": 119300333621,
+      "NumberOfInstalledFiles": 250773,
+      "SizeOfInstalledFiles": 225547431179,
+      "TotalSize": 344847764800
     },
-    "version": "1.0.1"
+    "version": "1.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-08-30T04:36:59.9414536Z",
+    "repositoryName": ""
   }
 ]
-
-
-
-
