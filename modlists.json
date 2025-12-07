@@ -62,23 +62,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ArnoldDP/OStim-Community-Modlist/main/Untitled.png",
       "readme": "https://github.com/ArnoldDP/ARSE/tree/main",
-      "download": "https://authored-files.wabbajack.org/ARSE.wabbajack_0c301703-31c4-49bc-a505-f8bdbc8dd826",
+      "download": "https://authored-files.wabbajack.org/ARSE.wabbajack_d020a844-c187-497d-a1f4-ca78990fb58f",
       "machineURL": "tightarse",
       "discordURL": "https://discord.gg/acHK6AeJ2k",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "72GHNhT5Avw=",
-      "Size": 2092695485,
-      "NumberOfArchives": 1613,
-      "SizeOfArchives": 160294515286,
-      "NumberOfInstalledFiles": 331124,
-      "SizeOfInstalledFiles": 276627435799,
-      "TotalSize": 436921951085
+      "Hash": "c794fK8oono=",
+      "Size": 2278813386,
+      "NumberOfArchives": 1631,
+      "SizeOfArchives": 161261551342,
+      "NumberOfInstalledFiles": 332081,
+      "SizeOfInstalledFiles": 278510500062,
+      "TotalSize": 439772051404
     },
-    "version": "1.1.5",
+    "version": "1.1.6",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-12-06T22:01:13.80198Z",
+    "dateUpdated": "2025-12-07T23:58:17.4299352Z",
     "repositoryName": ""
   }
 ]
